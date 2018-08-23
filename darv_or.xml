@@ -1,0 +1,2405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.2" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2018-08-23T09:19:43" odpoved_pocet="1" odpoved_typ="Vypis_OR" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2/ares_answer_or_v_1.0.2.xsd" Id="ares">
+<are:Odpoved>
+<dtt:Pomocne_ID>0</dtt:Pomocne_ID>
+<dtt:Vysledek_hledani>
+<dtt:Kod>1</dtt:Kod>
+</dtt:Vysledek_hledani>
+<dtt:Pocet_zaznamu>1</dtt:Pocet_zaznamu>
+<dtt:Vypis_OR>
+<dtt:Uvod>
+<dtt:Nadpis>Výpis z dat Obchodního Rejstříku v ARES</dtt:Nadpis>
+<dtt:Aktualizace_DB>2018-08-22</dtt:Aktualizace_DB>
+<dtt:Datum_vypisu>2018-08-23</dtt:Datum_vypisu>
+<dtt:Cas_vypisu>09:19:20</dtt:Cas_vypisu>
+<dtt:Typ_vypisu>uplny</dtt:Typ_vypisu>
+<dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+</dtt:Uvod>
+<dtt:Zakladni_udaje>
+<dtt:Platnost_od>2017-11-23</dtt:Platnost_od>
+<dtt:Stav>
+<dtt:Stav_subjektu>Aktivní</dtt:Stav_subjektu>
+<dtt:Konkurz>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Konkurz>
+<dtt:Vyrovnani>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Vyrovnani>
+<dtt:Zamitnuti>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Zamitnuti>
+<dtt:Likvidace>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Likvidace>
+</dtt:Stav>
+<dtt:ICO dod="1995-08-01">63275635</dtt:ICO>
+<dtt:Obchodni_firma dod="2006-06-30">MADETA a. s.</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="2005-07-04" ddo="2006-06-30">MADETA Group a. s.</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="1995-08-01" ddo="2005-07-04">JIHOMILK, akciová společnost</dtt:Obchodni_firma>
+<dtt:Pravni_forma_OR dod="1995-08-01">
+<dtt:Kod_PF>121</dtt:Kod_PF>
+<dtt:Nazev_PF>Akciová společnost</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Sidlo dod="2017-11-23">
+<dtt:ID_adresy>29643147</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 4</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Rudolfovská tř.</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>246</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>83</dtt:Cislo_orientacni>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="2016-12-07" ddo="2017-11-23">
+<dtt:ID_adresy>29643145</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 4</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Rudolfovská tř.</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>246</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>83</dtt:Cislo_orientacni>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="2002-08-14" ddo="2016-12-07">
+<dtt:ID_adresy>29643143</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Rudolfovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>246/83</dtt:Cislo_do_adresy>
+<dtt:PSC>37050</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="1995-08-01" ddo="2002-08-14">
+<dtt:ID_adresy>29643141</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Rudolfovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>83</dtt:Cislo_do_adresy>
+<dtt:PSC>37050</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Datum_zapisu_OR>1995-08-01</dtt:Datum_zapisu_OR>
+</dtt:Zakladni_udaje>
+<dtt:Registrace>
+<dtt:Spisova_znacka dod="1995-08-01">
+<dtt:Soud>
+<dtt:Kod>3</dtt:Kod>
+<dtt:Text>Krajský soud v Českých Budějovicích</dtt:Text>
+</dtt:Soud>
+<dtt:Oddil_vlozka>B        698</dtt:Oddil_vlozka>
+</dtt:Spisova_znacka>
+</dtt:Registrace>
+<dtt:Cinnosti>
+<dtt:Predmet_podnikani>
+<dtt:Text dod="2014-08-06">
+prodej kvasného lihu, konzumního lihu a lihovin
+</dtt:Text>
+<dtt:Text dod="2011-11-10">
+opravy silničních vozidel
+</dtt:Text>
+<dtt:Text dod="2011-11-10">
+klempířství a oprava karoserií
+</dtt:Text>
+<dtt:Text dod="2009-03-06">
+zámečnictví, nástrojářství
+</dtt:Text>
+<dtt:Text dod="2009-03-06">
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+</dtt:Text>
+<dtt:Text dod="2009-03-06">
+výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení
+</dtt:Text>
+<dtt:Text dod="2008-01-22" ddo="2009-03-06">
+testování, měření, analýzy a kontroly
+</dtt:Text>
+<dtt:Text dod="2007-10-11" ddo="2015-04-18">
+koupě za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="2007-10-11" ddo="2015-04-18">
+velkoobchod
+</dtt:Text>
+<dtt:Text dod="2007-10-11" ddo="2015-04-18">
+zprostředkovatelská činnost
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+hostinská činnost
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+výroba kosmetických přípravků
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+silniční motorová doprava nákladní
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+mlékárenství
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+revize vyhrazených elektrických zařízení
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+projektová činnost ve výstavbě
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+revize a zkoušky vyhrazených tlakových zařízení
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+pronájem nemovitostí
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+provozování čerpacích stanic s palivy a mazivy
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+výroby a rozvod tepla
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2009-03-06">
+velkoobchod
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2009-03-06">
+zprostředkování obchodu
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2009-03-06">
+zámečnictví
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2009-03-06">
+pronájem průmyslového zboží
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2009-03-06">
+zastupování v celním řízení
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+zpracování dat, služby databank, správa sítí
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+činnost podnikatelských, finančních, organizačních a ekonomických poradců
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+ubytovací služby
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+reklamní činnost a marketing
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+výroba, instalace a opravy elektronických zařízení
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+poskytování software a poradenství v oblasti hardware a software
+</dtt:Text>
+<dtt:Text dod="1998-07-01" ddo="2009-03-06">
+vymáhání pohledávek
+</dtt:Text>
+<dtt:Text dod="1998-07-01" ddo="2009-03-06">
+poradenská činnost
+</dtt:Text>
+<dtt:Text dod="1995-08-01" ddo="2009-03-06">
+koupě zboží za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="1995-08-01" ddo="2009-03-06">
+zprostředkovatelská činnost
+</dtt:Text>
+</dtt:Predmet_podnikani>
+</dtt:Cinnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2009-07-13">
+Ke zvýšení základního kapitálu společnosti dle rozhodnutí valné hromady ze dne 9. 7. 2009 byly použity vlastní zdroje společnosti (část prostředků vedených ve fondu Nerozdělený zisk minulých let).
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2009-05-31">
+Společnost MADETA a.s. se sídlem České Budějovice, Rudolfovská 246/83, PSČ 370 50, IČ 632 75 635, jako přejímající akcionář převzala podle schváleného projektu převzetí jmění ze dne 30.3.2009 s rozhodným dnem převzetí jmění 1.1.2009 veškeré jmění včetně p
+ráv a povinností z pracovněprávních vztahů společnosti MADETA Logistic a.s. se sídlem Jesenice u Prahy, Krajní 680, okres Praha -západ, PSČ  252 42, IČ 452 80 339 , dosud zapsané v obchodním rejstříku vedeném Městským soudem  v Praze v oddílu B, vložce 12
+545, jako zanikající společnosti.
+
+      Společnost MADETA a.s. se sídlem České Budějovice, Rudolfovská 246/83, PSČ 370 50, IČ 632 75 635 je právním nástupcem bez likvidace zrušené a zaniklé společnosti MADETA Logistic a.s. se sídlem Jesenice u Prahy, Krajní 680, okres Praha -západ, PSČ  2
+52 42, IČ 452 80 339 , dosud zapsané v obchodním rejstříku vedeném  Městským soudem  v Praze v oddílu B, vložce 12545
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2006-06-30">
+Obchodní společnost MADETA a.s. (dříve MADETA GROUP a.s.) se sídlem České Budějovice, Rudolfovská 246/83, PSČ 370 50, IČ 632 75 635 převzala jmění a je právním nástupcem bez likvidace zrušené a zaniklé obchodní společnosti MADETA a.s. se sídlem České Budě
+jovice, Rudolfovská 246/83, PSČ 370 50, IČ 157 77 774, zapsané dosud v obchodním rejstříku vedeném Krajským soudem v Českých Budějovicích, oddíle B, vložce 94, když na ni na základě smlouvy o převzetí jmění ze dne 30. 6. 2006 přešlo k rozhodnému dni převz
+etí 1. 1. 2006 jmění zrušené a zaniklé společnosti.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1995-12-15">
+Valná hromada konaná dne 12.12.1995 přijala změny stanov
+
+společnosti - jejich znění vyplývá z notářského zápisu
+
+pořízeného o průběhu této valné hromady.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1995-08-01">
+Splacení 100 % bylo prokázáno.
+
+Akciová společnost byla založena jednorázově jediným zakla-
+
+datelem JIHOČESKÉ MLÉKÁRNY a.s. se sídlem Rudolfovská 83,
+
+České Budějovice, IČO: 15 77 77 74 podle zakladatelské listiny
+
+sepsané ve formě notářského zápisu z 2.5.1995, jímž byly
+
+schváleny stanovy společnosti a zvoleny orgány společnosti.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Kapital>
+<dtt:Zakladni dod="2013-07-29">
+<dtt:Vklad>
+<dtt:Kc>500000000;00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Kc>500000000</dtt:Kc>
+</dtt:Splaceno>
+</dtt:Zakladni>
+<dtt:Zakladni dod="2009-07-13" ddo="2013-07-29">
+<dtt:Vklad>
+<dtt:Kc>302000000;00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100</dtt:Procenta>
+</dtt:Splaceno>
+</dtt:Zakladni>
+<dtt:Zakladni dod="2006-06-30" ddo="2009-07-13">
+<dtt:Vklad>
+<dtt:Kc>2000000;00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100</dtt:Procenta>
+</dtt:Splaceno>
+</dtt:Zakladni>
+<dtt:Zakladni dod="1995-08-01" ddo="2006-06-30">
+<dtt:Vklad>
+<dtt:Kc>1000000;00</dtt:Kc>
+</dtt:Vklad>
+</dtt:Zakladni>
+<dtt:Akcie>
+<dtt:Emise dod="2013-10-29">
+<dtt:Druh_akcie>Kmenové akcie na jméno</dtt:Druh_akcie>
+<dtt:Hodnota>9900000;00</dtt:Hodnota>
+<dtt:Pocet>20</dtt:Pocet>
+</dtt:Emise>
+<dtt:Emise dod="2013-07-29" ddo="2013-10-29">
+<dtt:Druh_akcie>Kmenové akcie na jméno</dtt:Druh_akcie>
+<dtt:Hodnota>11000000;00</dtt:Hodnota>
+<dtt:Pocet>18</dtt:Pocet>
+</dtt:Emise>
+<dtt:Emise dod="2009-07-13">
+<dtt:Druh_akcie>Kmenové akcie na jméno</dtt:Druh_akcie>
+<dtt:Hodnota>15000000;00</dtt:Hodnota>
+<dtt:Pocet>20</dtt:Pocet>
+</dtt:Emise>
+<dtt:Emise dod="2006-06-30">
+<dtt:Druh_akcie>Kmenové akcie na jméno</dtt:Druh_akcie>
+<dtt:Hodnota>100000;00</dtt:Hodnota>
+<dtt:Pocet>20</dtt:Pocet>
+</dtt:Emise>
+<dtt:Emise dod="1995-12-15" ddo="2006-06-30">
+<dtt:Druh_akcie>Akcie na jméno</dtt:Druh_akcie>
+<dtt:Hodnota>5000;00</dtt:Hodnota>
+<dtt:Pocet>200</dtt:Pocet>
+</dtt:Emise>
+<dtt:Emise dod="1995-08-01" ddo="1995-12-15">
+<dtt:Druh_akcie>Akcie na majitele</dtt:Druh_akcie>
+<dtt:Hodnota>100000;00</dtt:Hodnota>
+<dtt:Pocet>10</dtt:Pocet>
+</dtt:Emise>
+</dtt:Akcie>
+</dtt:Kapital>
+<dtt:Statutarni_organ>
+<dtt:Clen_SO dod="2017-09-13">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>PAVEL</dtt:Jmeno>
+<dtt:Prijmeni>BURYÁNEK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1984-12-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2017-09-13">
+<dtt:ID_adresy>29643187</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Tábor</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Veselí nad Lužnicí</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Veselí nad Lužnicí II</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Na Pasekách</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>948</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>39181</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2014-06-11</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2014-06-12</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>MILAN</dtt:Jmeno>
+<dtt:Prijmeni>TEPLÝ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1949-03-26</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-07">
+<dtt:ID_adresy>29643177</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 2</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>České Vrbné</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2307</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-07-01</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-07-01</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>PETR</dtt:Jmeno>
+<dtt:Prijmeni>PAYER</dtt:Prijmeni>
+<dtt:Datum_narozeni>1976-07-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-07">
+<dtt:ID_adresy>29643189</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 3</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Nerudova</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>904</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>66</dtt:Cislo_orientacni>
+<dtt:PSC>37004</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>JAN</dtt:Jmeno>
+<dtt:Prijmeni>TEPLÝ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1980-03-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-07">
+<dtt:ID_adresy>29643191</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 2</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>České Vrbné</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2307</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-12-07" ddo="2017-09-13">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>PAVEL</dtt:Jmeno>
+<dtt:Prijmeni>BURYÁNEK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1984-12-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-07" ddo="2017-09-13">
+<dtt:ID_adresy>29643185</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Tábor</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Veselí nad Lužnicí</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Veselí nad Lužnicí I</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>A. Jiráska</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>349</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>39181</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2014-06-11</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2014-06-12</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2014-08-06" ddo="2016-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>PAVEL</dtt:Jmeno>
+<dtt:Prijmeni>BURYÁNEK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1984-12-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2014-08-06" ddo="2016-12-07">
+<dtt:ID_adresy>29643186</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Veselí nad Lužnicí</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Veselí nad Lužnicí I</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>A. Jiráska</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>349</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>39181</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2014-06-11</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2014-06-12</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2014-08-06" ddo="2016-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>PETR</dtt:Jmeno>
+<dtt:Prijmeni>PAYER</dtt:Prijmeni>
+<dtt:Datum_narozeni>1976-07-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2014-08-06" ddo="2016-12-07">
+<dtt:ID_adresy>29643188</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 3</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Nerudova</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>904</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>66</dtt:Cislo_orientacni>
+<dtt:PSC>37004</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2014-08-06" ddo="2016-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>JAN</dtt:Jmeno>
+<dtt:Prijmeni>TEPLÝ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1980-03-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2014-08-06" ddo="2016-12-07">
+<dtt:ID_adresy>29643190</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 2</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>České Vrbné</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2307</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2013-12-19" ddo="2014-08-06">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>JAN</dtt:Jmeno>
+<dtt:Prijmeni>TEPLÝ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1980-03-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2013-12-19" ddo="2014-08-06">
+<dtt:ID_adresy>29643180</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 2</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>České Vrbné</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2307</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2008-06-12</dtt:Datum_zacatku>
+<dtt:Datum_konce>2013-06-12</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2013-05-23">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>MICHAL</dtt:Jmeno>
+<dtt:Prijmeni>CHLÁDEK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1978-10-23</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2013-05-23">
+<dtt:ID_adresy>29643184</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 2</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Třebínská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1696</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>3</dtt:Cislo_orientacni>
+<dtt:PSC>37005</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2013-05-06</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-06-15" ddo="2013-05-23">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Vykoukal</dtt:Prijmeni>
+<dtt:Datum_narozeni>1970-02-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-06-15" ddo="2013-05-23">
+<dtt:ID_adresy>29643182</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Bystřice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Družstevní</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>467</dtt:Cislo_do_adresy>
+<dtt:PSC>25751</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2008-06-12</dtt:Datum_zacatku>
+<dtt:Datum_konce>2013-03-07</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-04-04" ddo="2014-08-06">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Kozel</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-08-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-04-04" ddo="2014-08-06">
+<dtt:ID_adresy>29643178</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>K. Štěcha</dtt:Nazev_ulice>
+<dtt:Cislo_orientacni>8</dtt:Cislo_orientacni>
+<dtt:PSC>37005</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-07-01</dtt:Datum_zacatku>
+<dtt:Datum_konce>2014-06-11</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-07-01</dtt:Datum_zacatku>
+<dtt:Datum_konce>2014-06-11</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-04-04" ddo="2016-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Teplý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1949-03-26</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-04-04" ddo="2016-12-07">
+<dtt:ID_adresy>29643176</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 2</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>České Vrbné</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2307</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-07-01</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-07-01</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2008-07-01" ddo="2012-06-15">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Vykoukal</dtt:Prijmeni>
+<dtt:Datum_narozeni>1970-02-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2008-07-01" ddo="2012-06-15">
+<dtt:ID_adresy>29643181</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Benešov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Jiřího Franka</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1728</dtt:Cislo_do_adresy>
+<dtt:PSC>25601</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2008-06-12</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2008-07-01" ddo="2013-12-19">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Teplý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1980-03-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2008-07-01" ddo="2013-12-19">
+<dtt:ID_adresy>29643179</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>České Vrbné</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2307</dtt:Cislo_do_adresy>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2008-06-12</dtt:Datum_zacatku>
+<dtt:Datum_konce>2013-06-12</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2008-07-01" ddo="2014-08-06">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Payer</dtt:Prijmeni>
+<dtt:Datum_narozeni>1976-07-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2008-07-01" ddo="2014-08-06">
+<dtt:ID_adresy>29643183</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Nerudova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>848/41</dtt:Cislo_do_adresy>
+<dtt:PSC>37004</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2008-06-12</dtt:Datum_zacatku>
+<dtt:Datum_konce>2013-06-12</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-06-30" ddo="2008-07-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Kollar</dtt:Prijmeni>
+<dtt:Datum_narozeni>1945-04-06</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-06-30" ddo="2008-07-01">
+<dtt:ID_adresy>29643173</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Lhenická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>3</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-06-30</dtt:Datum_zacatku>
+<dtt:Datum_konce>2008-06-12</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-06-30" ddo="2008-07-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Miloslav</dtt:Jmeno>
+<dtt:Prijmeni>Dytrych</dtt:Prijmeni>
+<dtt:Datum_narozeni>1948-08-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-06-30" ddo="2008-07-01">
+<dtt:ID_adresy>29643174</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Tábor</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Jeronýmova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1782/20</dtt:Cislo_do_adresy>
+<dtt:PSC>39002</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-06-30</dtt:Datum_zacatku>
+<dtt:Datum_konce>2008-06-12</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-06-30" ddo="2008-07-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Kolner</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-07-11</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-06-30" ddo="2008-07-01">
+<dtt:ID_adresy>29643175</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Ohrobec</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Na Konci</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>263</dtt:Cislo_do_adresy>
+<dtt:PSC>25245</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-06-30</dtt:Datum_zacatku>
+<dtt:Datum_konce>2008-06-12</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-06-30" ddo="2012-04-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Teplý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1949-03-26</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-06-30" ddo="2012-04-04">
+<dtt:ID_adresy>29643171</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>České Vrbné</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2307</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-06-30</dtt:Datum_zacatku>
+<dtt:Datum_konce>2011-06-30</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2006-06-30</dtt:Datum_zacatku>
+<dtt:Datum_konce>2011-06-30</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-06-30" ddo="2012-04-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Kozel</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-08-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-06-30" ddo="2012-04-04">
+<dtt:ID_adresy>29643172</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Karla Štěcha</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>8</dtt:Cislo_do_adresy>
+<dtt:PSC>37005</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-06-30</dtt:Datum_zacatku>
+<dtt:Datum_konce>2011-06-30</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2006-06-30</dtt:Datum_zacatku>
+<dtt:Datum_konce>2011-06-30</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2005-07-04" ddo="2006-06-30">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Kozel</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-08-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-07-04" ddo="2006-06-30">
+<dtt:ID_adresy>29643170</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Karla Štěcha</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>8</dtt:Cislo_do_adresy>
+<dtt:PSC>37005</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2005-06-09</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2004-08-03" ddo="2005-07-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Král</dtt:Prijmeni>
+<dtt:Datum_narozeni>1948-07-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-08-03" ddo="2005-07-04">
+<dtt:ID_adresy>29643169</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Antonína Slavíčka</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>24</dtt:Cislo_do_adresy>
+<dtt:PSC>37005</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2004-06-22</dtt:Datum_zacatku>
+<dtt:Datum_konce>2005-06-09</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2003-11-12" ddo="2004-08-03">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Renata</dtt:Jmeno>
+<dtt:Prijmeni>Jochová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1977-01-27</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-11-12" ddo="2004-08-03">
+<dtt:ID_adresy>29643168</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Branišovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>54</dtt:Cislo_do_adresy>
+<dtt:PSC>37005</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2003-06-12</dtt:Datum_zacatku>
+<dtt:Datum_konce>2004-06-22</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2003-08-05" ddo="2003-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Renata</dtt:Jmeno>
+<dtt:Prijmeni>Vlčková</dtt:Prijmeni>
+<dtt:Datum_narozeni>1977-01-27</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-08-05" ddo="2003-11-12">
+<dtt:ID_adresy>29643167</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Branišovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>54</dtt:Cislo_do_adresy>
+<dtt:PSC>37005</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2003-06-12</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2003-08-05" ddo="2006-06-30">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen  představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Teplý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1949-03-26</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-08-05" ddo="2006-06-30">
+<dtt:ID_adresy>29643166</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>České Vrbné</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2307</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2003-06-12</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2002-09-03" ddo="2003-08-05">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Aleš</dtt:Jmeno>
+<dtt:Prijmeni>Willert</dtt:Prijmeni>
+<dtt:Datum_narozeni>1970-07-21</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-09-03" ddo="2003-08-05">
+<dtt:ID_adresy>29643164</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>28.října</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1480/11</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-06-27</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2002-08-14" ddo="2002-09-03">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Aleš</dtt:Jmeno>
+<dtt:Prijmeni>Willert</dtt:Prijmeni>
+<dtt:Datum_narozeni>1970-07-21</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-08-14" ddo="2002-09-03">
+<dtt:ID_adresy>29643163</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>28.října</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1480/1</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-06-27</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2002-08-14" ddo="2003-08-05">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Vačkář</dtt:Prijmeni>
+<dtt:Datum_narozeni>1969-11-11</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-08-14" ddo="2003-08-05">
+<dtt:ID_adresy>29643165</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Český Krumlov</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Český Krumlov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Za nádražím</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>216</dtt:Cislo_do_adresy>
+<dtt:PSC>38101</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-06-27</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-11-26" ddo="2001-11-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Kollar</dtt:Prijmeni>
+<dtt:Datum_narozeni>1945-04-06</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-11-26" ddo="2001-11-26">
+<dtt:ID_adresy>29643158</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Lhenická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>3</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2001-06-25</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2001-06-25</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-11-26" ddo="2002-08-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Vladimír</dtt:Jmeno>
+<dtt:Prijmeni>Bartoň</dtt:Prijmeni>
+<dtt:Datum_narozeni>1963-03-06</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-11-26" ddo="2002-08-14">
+<dtt:ID_adresy>29643160</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nový Jičín</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nový Jičín</dtt:Nazev_obce>
+<dtt:Nazev_ulice>B. Němcové</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>20</dtt:Cislo_do_adresy>
+<dtt:PSC>74101</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2001-06-25</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-11-26" ddo="2002-08-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Luboš</dtt:Jmeno>
+<dtt:Prijmeni>Straka</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-04-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-11-26" ddo="2002-08-14">
+<dtt:ID_adresy>29643161</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Jindřichův Hradec</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Jindřichův Hradec</dtt:Nazev_obce>
+<dtt:Nazev_ulice>K vilkám</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>829/ III</dtt:Cislo_do_adresy>
+<dtt:PSC>37705</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2001-06-25</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-11-26" ddo="2002-08-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Dana</dtt:Jmeno>
+<dtt:Prijmeni>Marková</dtt:Prijmeni>
+<dtt:Datum_narozeni>1962-01-06</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-11-26" ddo="2002-08-14">
+<dtt:ID_adresy>29643162</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Rudolfov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pod lesem</dtt:Nazev_ulice>
+<dtt:PSC>37371</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2001-06-25</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-11-26" ddo="2006-06-30">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda a člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Kollar</dtt:Prijmeni>
+<dtt:Datum_narozeni>1945-04-06</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-11-26" ddo="2006-06-30">
+<dtt:ID_adresy>29643159</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Lhenická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>3</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2001-06-25</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-06-30</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2001-06-25</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-06-30</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2000-08-22" ddo="2001-09-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Kollar</dtt:Prijmeni>
+<dtt:Datum_narozeni>1945-04-06</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2000-08-22" ddo="2001-09-26">
+<dtt:ID_adresy>29643156</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Lhenická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>3</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2000-08-22" ddo="2001-11-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaromír</dtt:Jmeno>
+<dtt:Prijmeni>Kouba</dtt:Prijmeni>
+<dtt:Datum_narozeni>1963-10-24</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2000-08-22" ddo="2001-11-26">
+<dtt:ID_adresy>29643155</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Roháče z Dubí</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>13</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2000-08-22" ddo="2002-08-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Přílepek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1967-03-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2000-08-22" ddo="2002-08-14">
+<dtt:ID_adresy>29643157</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Gen. Svobody</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>51</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1998-03-30" ddo="2000-08-22">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Richard</dtt:Jmeno>
+<dtt:Prijmeni>Wretzl</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-03-26</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-03-30" ddo="2000-08-22">
+<dtt:ID_adresy>29643151</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Bezdrevská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>7</dtt:Cislo_do_adresy>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1998-03-30" ddo="2000-08-22">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Teplý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1949-03-26</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-03-30" ddo="2000-08-22">
+<dtt:ID_adresy>29643154</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Adresa_textem>České Budějovice, České Vrbné 2307</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-07-16" ddo="1998-03-30">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Svatopluk</dtt:Jmeno>
+<dtt:Prijmeni>Herc</dtt:Prijmeni>
+<dtt:Bydliste dod="1997-07-16" ddo="1998-03-30">
+<dtt:ID_adresy>29643150</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha 5</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha 5</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Na Březince</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>21/1370</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-07-16" ddo="2000-08-22">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Bohumil</dtt:Jmeno>
+<dtt:Prijmeni>Brabec</dtt:Prijmeni>
+<dtt:Bydliste dod="1997-07-16" ddo="2000-08-22">
+<dtt:ID_adresy>29643152</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Puklicova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>21</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1995-08-01" ddo="1997-07-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Král</dtt:Prijmeni>
+<dtt:Bydliste dod="1995-08-01" ddo="1997-07-16">
+<dtt:ID_adresy>29643148</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Boreckého</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>23</dtt:Cislo_do_adresy>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1995-08-01" ddo="1997-07-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Svatopluk</dtt:Jmeno>
+<dtt:Prijmeni>Herz</dtt:Prijmeni>
+<dtt:Bydliste dod="1995-08-01" ddo="1997-07-16">
+<dtt:ID_adresy>29643149</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 5</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Na Březince</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>21/1370</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1995-08-01" ddo="1998-03-30">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Richard</dtt:Jmeno>
+<dtt:Prijmeni>Wretzl</dtt:Prijmeni>
+<dtt:Bydliste dod="1995-08-01" ddo="1998-03-30">
+<dtt:ID_adresy>29643153</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Bezdrevská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>7</dtt:Cislo_do_adresy>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Text dod="2011-11-10">
+Za společnost  vůči třetím osobám jedná před soudy a před jinými orgány v celém rozsahu představenstvo, a to buď
+
+- společně všichni členové představenstva
+
+- společně předseda a místopředseda
+
+- předseda nebo místopředseda a jeden člen představenstva
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2011-11-10">
+Za společnost jedná vůči třetím osobám, před soudy a před jinými orgány v celém rozsahu představenstvo, a to buď společně všichni členové představenstva, nebo společně předseda nebo místopředseda a jeden člen představenstva. Za společnost podepisují buď s
+polečně všichni členové představenstva, nebo společně předseda nebo místopředseda a jeden člen představenstva. Všichni tak činí způsobem, že k obchodní firmě společnosti či k otisku razítka s obchodní firmou společnosti a k vypsanému jménu s uvedením funk
+ce připojí svůj podpis.
+</dtt:Text>
+<dtt:Text dod="2002-07-31" ddo="2006-06-30">
+Za společnost jedná vůči třetím osobám, před soudy a před jinými
+
+orgány v celém rozsahu představenstvo, a to buď společně všichni
+
+členové představenstva, a nebo společně předseda představenstva
+
+a jeden člen představenstva.
+
+Za společnost podepisují buď společně všichni členové
+
+představenstva, nebo společně předseda představenstva a jeden
+
+člen představenstva. Všichni tak činí způsobem, že k obchodní
+
+firmě společnosti či otisku razítka s obchodní firmou
+
+společnosti a k vypsanému jménu  s uvedením funkce připojí svůj
+
+podpis.
+</dtt:Text>
+<dtt:Text dod="1997-07-16" ddo="2002-07-31">
+Za společnost jedná vůči třetím osobám, před soudy a před jinými
+
+orgány v celém rozsahu představenstvo, a to buď společně všichni
+
+členové představenstva, a nebo samostatně jeden člen
+
+představenstva.
+
+Za společnost podepisují buď společně všichni členové
+
+představenstva, nebo společně předseda nebo místopředseda a
+
+jeden člen představenstva, anebo samostatně jeden člen
+
+představenstva, který k tomu byl představenstvem písemně
+
+pověřen. Všichni tak činí způsobem, že k názvu společnosti či
+
+otisku razítka s obchodním jménem společnosti a k vypsanému
+
+jménu s uvedením funkce připojí svůj podpis.
+</dtt:Text>
+<dtt:Text dod="1995-08-01" ddo="1997-07-16">
+Společnost zastupuje vůči třetím osobám, před soudy a před
+
+jinými orgány v celém rozsahu představenstvo, a to buď společ-
+
+ně všichni členové představenstva a nebo samostatně jeden člen
+
+představenstva, který k tomu byl představenstvem písemně pověřen.
+
+Za společnost podepisují buď společně všichni členové představen-
+
+stva nebo společně předseda nebo místopředseda a jeden člen
+
+představenstva, anebo samostatně jeden člen představenstva, který
+
+k tomu byl představenstvem písemně pověřen. Všichni tak činí způ-
+
+sobem, že k názvu společnosti či otisku razítka společnosti při-
+
+pojí svůj podpis.
+</dtt:Text>
+</dtt:Statutarni_organ>
+<dtt:Dozorci_rada>
+<dtt:Clen_DR dod="2017-02-22">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>KATARÍNA</dtt:Jmeno>
+<dtt:Prijmeni>PROUZOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-07-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2017-02-22">
+<dtt:ID_adresy>29643220</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Srubec</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pod Vrchem</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>633</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>37006</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2017-02-16" ddo="2017-02-22">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>KATARÍNA</dtt:Jmeno>
+<dtt:Prijmeni>PROUZOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-07-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2017-02-16" ddo="2017-02-22">
+<dtt:ID_adresy>29643219</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Srubec</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Ledenická-Škarda</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>92</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>37006</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2016-12-07" ddo="2017-02-16">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>KATARÍNA</dtt:Jmeno>
+<dtt:Prijmeni>PROUZOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-07-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-07" ddo="2017-02-16">
+<dtt:ID_adresy>29643218</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Srubec</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pod Vrchem</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>633</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>37006</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2015-12-30">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>ANETA</dtt:Jmeno>
+<dtt:Prijmeni>HRUBEŠOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1985-07-04</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2015-12-30">
+<dtt:ID_adresy>29643215</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 7</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Generála Svobody</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>435</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>51</dtt:Cislo_orientacni>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2012-05-25</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2014-08-06" ddo="2016-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>KATARÍNA</dtt:Jmeno>
+<dtt:Prijmeni>PROUZOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-07-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2014-08-06" ddo="2016-12-07">
+<dtt:ID_adresy>29643217</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Srubec</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pod Vrchem</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>633</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>37006</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-13</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2013-05-23">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>KAMILA</dtt:Jmeno>
+<dtt:Prijmeni>VANĚČKOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1985-07-12</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2013-05-23">
+<dtt:ID_adresy>29643216</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>České Budějovice 2</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>V. Volfa</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1337</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>37</dtt:Cislo_orientacni>
+<dtt:PSC>37005</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2013-05-06</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2012-06-15" ddo="2015-12-30">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Aneta</dtt:Jmeno>
+<dtt:Prijmeni>Hrubešová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1985-07-04</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-06-15" ddo="2015-12-30">
+<dtt:ID_adresy>29643214</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Lhenice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Na Panské mezi</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>341</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>38402</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2012-05-25</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2011-03-07" ddo="2013-05-23">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Michal</dtt:Jmeno>
+<dtt:Prijmeni>Chládek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1978-10-23</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2011-03-07" ddo="2013-05-23">
+<dtt:ID_adresy>29643213</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Třebínská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1696</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>3</dtt:Cislo_orientacni>
+<dtt:PSC>37005</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-02-24</dtt:Datum_zacatku>
+<dtt:Datum_konce>2013-05-06</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2011-03-07" ddo="2014-08-06">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>předseda dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>Katarína</dtt:Jmeno>
+<dtt:Prijmeni>Prouzová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-07-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2011-03-07" ddo="2014-08-06">
+<dtt:ID_adresy>29643209</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Srubec</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pod Vrchem</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>633</dtt:Cislo_do_adresy>
+<dtt:PSC>37006</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2008-06-12</dtt:Datum_zacatku>
+<dtt:Datum_konce>2013-06-12</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-02-25</dtt:Datum_zacatku>
+<dtt:Datum_konce>2013-06-12</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2008-07-01" ddo="2011-03-07">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>Katarína</dtt:Jmeno>
+<dtt:Prijmeni>Prouzová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-07-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2008-07-01" ddo="2011-03-07">
+<dtt:ID_adresy>29643212</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>A.Barcala</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1430/13</dtt:Cislo_do_adresy>
+<dtt:PSC>37005</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2008-06-12</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2007-08-15" ddo="2012-06-15">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Martin</dtt:Jmeno>
+<dtt:Prijmeni>Toman</dtt:Prijmeni>
+<dtt:Datum_narozeni>1979-07-26</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-08-15" ddo="2012-06-15">
+<dtt:ID_adresy>29643210</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Generála Svobody</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>49</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2007-08-01</dtt:Datum_zacatku>
+<dtt:Datum_konce>2012-03-02</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2005-07-04" ddo="2008-07-01">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Teplý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1980-03-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-07-04" ddo="2008-07-01">
+<dtt:ID_adresy>29643211</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>České Vrbné</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2307</dtt:Cislo_do_adresy>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2005-06-09</dtt:Datum_zacatku>
+<dtt:Datum_konce>2008-06-12</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2005-07-04" ddo="2011-03-07">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>předseda dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>JUDr.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Junek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1961-12-16</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-07-04" ddo="2011-03-07">
+<dtt:ID_adresy>29643207</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Homole</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>256</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-02-24</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-02-24</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2004-08-03" ddo="2005-07-04">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Krejčí</dtt:Prijmeni>
+<dtt:Datum_narozeni>1963-11-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-08-03" ddo="2005-07-04">
+<dtt:ID_adresy>29643206</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pražská tř.</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2081/35</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2003-06-12</dtt:Datum_zacatku>
+<dtt:Datum_konce>2005-06-09</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2004-08-03" ddo="2007-08-15">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Renata</dtt:Jmeno>
+<dtt:Prijmeni>Jochová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1977-01-27</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-08-03" ddo="2007-08-15">
+<dtt:ID_adresy>29643208</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Generála Svobody</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>433/47</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2004-06-22</dtt:Datum_zacatku>
+<dtt:Datum_konce>2007-06-28</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2003-08-05" ddo="2004-08-03">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Černý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1965-08-21</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-08-05" ddo="2004-08-03">
+<dtt:ID_adresy>29643204</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Jeronýmova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>9</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2003-06-12</dtt:Datum_zacatku>
+<dtt:Datum_konce>2004-06-22</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2003-08-05" ddo="2004-08-03">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Krejčí</dtt:Prijmeni>
+<dtt:Datum_narozeni>1963-11-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-08-05" ddo="2004-08-03">
+<dtt:ID_adresy>29643205</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pražská tř.</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2081/35</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2003-06-12</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2002-08-14" ddo="2003-08-05">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Bohuslav</dtt:Jmeno>
+<dtt:Prijmeni>Verbík</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-05-19</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-08-14" ddo="2003-08-05">
+<dtt:ID_adresy>29643202</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Brno-město</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Brno</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Tišnovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>55</dtt:Cislo_do_adresy>
+<dtt:PSC>61300</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-06-27</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2002-08-14" ddo="2003-08-05">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Přílepek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1967-03-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-08-14" ddo="2003-08-05">
+<dtt:ID_adresy>29643203</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Generála Svobody</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>51</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-06-27</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2001-11-26" ddo="2002-08-14">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Michaela</dtt:Jmeno>
+<dtt:Prijmeni>Bečková</dtt:Prijmeni>
+<dtt:Datum_narozeni>1977-05-19</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-11-26" ddo="2002-08-14">
+<dtt:ID_adresy>29643201</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Rybářská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>27</dtt:Cislo_do_adresy>
+<dtt:PSC>37010</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2001-06-25</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2000-08-22" ddo="2001-11-26">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Luboš</dtt:Jmeno>
+<dtt:Prijmeni>Straka</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-04-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2000-08-22" ddo="2001-11-26">
+<dtt:ID_adresy>29643200</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Jindřichův Hradec</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Jindřichův Hradec</dtt:Nazev_obce>
+<dtt:Nazev_ulice>K vilkám</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>829/III</dtt:Cislo_do_adresy>
+<dtt:PSC>37705</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2000-08-22" ddo="2002-08-14">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jitka</dtt:Jmeno>
+<dtt:Prijmeni>Ničová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1966-09-18</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2000-08-22" ddo="2002-08-14">
+<dtt:ID_adresy>29643199</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Praha 10</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Vršovická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>47</dtt:Cislo_do_adresy>
+<dtt:PSC>10100</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2000-08-22" ddo="2005-07-04">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>předseda dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>JUDr.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Junek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1961-12-16</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2000-08-22" ddo="2005-07-04">
+<dtt:ID_adresy>29643198</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>J. Hory</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>37</dtt:Cislo_do_adresy>
+<dtt:PSC>37006</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1997-07-16" ddo="2000-08-22">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Král</dtt:Prijmeni>
+<dtt:Bydliste dod="1997-07-16" ddo="2000-08-22">
+<dtt:ID_adresy>29643195</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Boreckého</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>23</dtt:Cislo_do_adresy>
+<dtt:PSC>37011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1997-07-16" ddo="2000-08-22">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>předseda dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Kollar</dtt:Prijmeni>
+<dtt:Bydliste dod="1997-07-16" ddo="2000-08-22">
+<dtt:ID_adresy>29643196</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Lhenická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>3</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1997-07-16" ddo="2000-08-22">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>JUDr.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Junek</dtt:Prijmeni>
+<dtt:Bydliste dod="1997-07-16" ddo="2000-08-22">
+<dtt:ID_adresy>29643197</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>J. Hory</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>37</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1995-08-01" ddo="1997-07-16">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Rabas</dtt:Prijmeni>
+<dtt:Bydliste dod="1995-08-01" ddo="1997-07-16">
+<dtt:ID_adresy>29643194</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 7</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Čechova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>13</dtt:Cislo_do_adresy>
+<dtt:PSC>17000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Text dod="1995-08-01" ddo="1997-07-16">
+Člen:       ing. Josef Kollar
+
+Lhenická 3, České Budějovice
+
+Člen:       JUDr. Václav Junek
+
+J. Hory 37, České Budějovice
+</dtt:Text>
+</dtt:Dozorci_rada>
+<dtt:Vedouci_odstepnych_zavodu>
+<dtt:Vedouci_OZ dod="2011-09-27" ddo="2015-04-18">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>Katarína</dtt:Jmeno>
+<dtt:Prijmeni>Prouzová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-07-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2011-09-27" ddo="2015-04-18">
+<dtt:ID_adresy>29643193</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Srubec</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Pod Vrchem</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>633</dtt:Cislo_do_adresy>
+<dtt:PSC>37006</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Text dod="2011-09-27" ddo="2015-04-18">
+Jménem organizační složky činí všechny právní úkony, které z její činnosti vyplývají, vedoucí organizační složky samostatně.
+</dtt:Text>
+</dtt:Vedouci_OZ>
+<dtt:Vedouci_OZ dod="2007-10-11" ddo="2011-09-27">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Judita</dtt:Jmeno>
+<dtt:Prijmeni>Gálová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1971-04-19</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-10-11" ddo="2011-09-27">
+<dtt:ID_adresy>29643192</dtt:ID_adresy>
+<dtt:Kod_statu>703</dtt:Kod_statu>
+<dtt:Nazev_statu>Slovenská republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nitra</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Nábrežie mládeže</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>41</dtt:Cislo_do_adresy>
+<dtt:PSC>94901</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Text dod="2007-10-11" ddo="2011-09-27">
+Jménem organizační složky činí všechny právní úkony, které z její činnosti vyplývají, vedoucí organizační složky samostatně.
+</dtt:Text>
+</dtt:Vedouci_OZ>
+</dtt:Vedouci_odstepnych_zavodu>
+<dtt:Odstepne_zavody>
+<dtt:Odstepny_zavod>
+<dtt:Obchodni_firma dod="2007-10-11" ddo="2015-04-18">MADETA a.s. - organizační složka</dtt:Obchodni_firma>
+<dtt:Sidlo dod="2011-09-27" ddo="2015-04-18">
+<dtt:ID_adresy>29643146</dtt:ID_adresy>
+<dtt:Kod_statu>703</dtt:Kod_statu>
+<dtt:Nazev_statu>Slovenská republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nitra</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Štúrova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>13</dtt:Cislo_do_adresy>
+<dtt:PSC>94901</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="2008-07-01" ddo="2011-09-27">
+<dtt:ID_adresy>29643144</dtt:ID_adresy>
+<dtt:Kod_statu>703</dtt:Kod_statu>
+<dtt:Nazev_statu>Slovenská republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Bratislava</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Alstrova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>234</dtt:Cislo_do_adresy>
+<dtt:PSC>83106</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="2007-10-11" ddo="2008-07-01">
+<dtt:ID_adresy>29643142</dtt:ID_adresy>
+<dtt:Kod_statu>703</dtt:Kod_statu>
+<dtt:Nazev_statu>Slovenská republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Bratislava</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Alstrova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>236</dtt:Cislo_do_adresy>
+<dtt:PSC>83106</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Cinnosti>
+<dtt:Predmet_podnikani>
+<dtt:Text dod="2014-08-06">
+prodej kvasného lihu, konzumního lihu a lihovin
+</dtt:Text>
+<dtt:Text dod="2011-11-10">
+opravy silničních vozidel
+</dtt:Text>
+<dtt:Text dod="2011-11-10">
+klempířství a oprava karoserií
+</dtt:Text>
+<dtt:Text dod="2009-03-06">
+zámečnictví, nástrojářství
+</dtt:Text>
+<dtt:Text dod="2009-03-06">
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+</dtt:Text>
+<dtt:Text dod="2009-03-06">
+výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení
+</dtt:Text>
+<dtt:Text dod="2008-01-22" ddo="2009-03-06">
+testování, měření, analýzy a kontroly
+</dtt:Text>
+<dtt:Text dod="2007-10-11" ddo="2015-04-18">
+koupě za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="2007-10-11" ddo="2015-04-18">
+velkoobchod
+</dtt:Text>
+<dtt:Text dod="2007-10-11" ddo="2015-04-18">
+zprostředkovatelská činnost
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+hostinská činnost
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+výroba kosmetických přípravků
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+silniční motorová doprava nákladní
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+mlékárenství
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+revize vyhrazených elektrických zařízení
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+projektová činnost ve výstavbě
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+revize a zkoušky vyhrazených tlakových zařízení
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+pronájem nemovitostí
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+provozování čerpacích stanic s palivy a mazivy
+</dtt:Text>
+<dtt:Text dod="2006-06-30">
+výroby a rozvod tepla
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2009-03-06">
+velkoobchod
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2009-03-06">
+zprostředkování obchodu
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2009-03-06">
+zámečnictví
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2009-03-06">
+pronájem průmyslového zboží
+</dtt:Text>
+<dtt:Text dod="2006-06-30" ddo="2009-03-06">
+zastupování v celním řízení
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+zpracování dat, služby databank, správa sítí
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+činnost podnikatelských, finančních, organizačních a ekonomických poradců
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+ubytovací služby
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+reklamní činnost a marketing
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+výroba, instalace a opravy elektronických zařízení
+</dtt:Text>
+<dtt:Text dod="2005-02-01" ddo="2009-03-06">
+poskytování software a poradenství v oblasti hardware a software
+</dtt:Text>
+<dtt:Text dod="1998-07-01" ddo="2009-03-06">
+vymáhání pohledávek
+</dtt:Text>
+<dtt:Text dod="1998-07-01" ddo="2009-03-06">
+poradenská činnost
+</dtt:Text>
+<dtt:Text dod="1995-08-01" ddo="2009-03-06">
+koupě zboží za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="1995-08-01" ddo="2009-03-06">
+zprostředkovatelská činnost
+</dtt:Text>
+</dtt:Predmet_podnikani>
+</dtt:Cinnosti>
+<dtt:Vedouci dod="2011-09-27" ddo="2015-04-18">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>Katarína</dtt:Jmeno>
+<dtt:Prijmeni>Prouzová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-07-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2011-09-27" ddo="2015-04-18">
+<dtt:ID_adresy>29643193</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Srubec</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Pod Vrchem</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>633</dtt:Cislo_do_adresy>
+<dtt:PSC>37006</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Text dod="2011-09-27" ddo="2015-04-18">
+Jménem organizační složky činí všechny právní úkony, které z její činnosti vyplývají, vedoucí organizační složky samostatně.
+</dtt:Text>
+</dtt:Vedouci>
+<dtt:Vedouci dod="2007-10-11" ddo="2011-09-27">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Judita</dtt:Jmeno>
+<dtt:Prijmeni>Gálová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1971-04-19</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-10-11" ddo="2011-09-27">
+<dtt:ID_adresy>29643192</dtt:ID_adresy>
+<dtt:Kod_statu>703</dtt:Kod_statu>
+<dtt:Nazev_statu>Slovenská republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nitra</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Nábrežie mládeže</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>41</dtt:Cislo_do_adresy>
+<dtt:PSC>94901</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Text dod="2007-10-11" ddo="2011-09-27">
+Jménem organizační složky činí všechny právní úkony, které z její činnosti vyplývají, vedoucí organizační složky samostatně.
+</dtt:Text>
+</dtt:Vedouci>
+</dtt:Odstepny_zavod>
+</dtt:Odstepne_zavody>
+</dtt:Vypis_OR>
+</are:Odpoved>
+</are:Ares_odpovedi>
