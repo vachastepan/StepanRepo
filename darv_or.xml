@@ -317,6 +317,24 @@ schváleny stanovy společnosti a zvoleny orgány společnosti.
 </dtt:Akcie>
 </dtt:Kapital>
 <dtt:Statutarni_organ>
+      <dtt:Clen_SO dod="2017-09-13">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>PAVEL</dtt:Jmeno>
+<dtt:Prijmeni>Tester</dtt:Prijmeni>
+<dtt:Datum_narozeni>1984-12-02</dtt:Datum_narozeni>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2014-06-11</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2014-06-12</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
 <dtt:Clen_SO dod="2017-09-13">
 <dtt:Clen>
 <dtt:Kod_angm>1</dtt:Kod_angm>
