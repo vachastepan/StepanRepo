@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.2" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2018-09-21T10:39:45" odpoved_pocet="1" odpoved_typ="Vypis_OR" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2/ares_answer_or_v_1.0.2.xsd" Id="ares">
+<are:Odpoved>
+<dtt:Pomocne_ID>0</dtt:Pomocne_ID>
+<dtt:Vysledek_hledani>
+<dtt:Kod>1</dtt:Kod>
+</dtt:Vysledek_hledani>
+<dtt:Pocet_zaznamu>1</dtt:Pocet_zaznamu>
+<dtt:Vypis_OR>
+<dtt:Uvod>
+<dtt:Nadpis>Výpis z dat Obchodního Rejstříku v ARES</dtt:Nadpis>
+<dtt:Aktualizace_DB>2018-09-20</dtt:Aktualizace_DB>
+<dtt:Datum_vypisu>2018-09-21</dtt:Datum_vypisu>
+<dtt:Cas_vypisu>10:39:42</dtt:Cas_vypisu>
+<dtt:Typ_vypisu>uplny</dtt:Typ_vypisu>
+<dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+</dtt:Uvod>
+<dtt:Zakladni_udaje>
+<dtt:Platnost_od>2018-06-06</dtt:Platnost_od>
+<dtt:Stav>
+<dtt:Stav_subjektu>Aktivní</dtt:Stav_subjektu>
+<dtt:Konkurz>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Konkurz>
+<dtt:Vyrovnani>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Vyrovnani>
+<dtt:Zamitnuti>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Zamitnuti>
+<dtt:Likvidace>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Likvidace>
+</dtt:Stav>
+<dtt:ICO dod="2014-01-01">00006025</dtt:ICO>
+<dtt:Obchodni_firma dod="2014-01-01">Odborový svaz pracovníků hornictví, geologie a naftového průmyslu</dtt:Obchodni_firma>
+<dtt:Pravni_forma_OR dod="2018-01-01">
+<dtt:Kod_PF>707</dtt:Kod_PF>
+<dtt:Nazev_PF>Odborová organizace</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Pravni_forma_OR dod="2014-01-01" ddo="2018-01-01">
+<dtt:Kod_PF>703</dtt:Kod_PF>
+<dtt:Nazev_PF>Odborová organizace a organizace zaměstnavatelů</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Sidlo dod="2014-01-01">
+<dtt:ID_adresy>31751567</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Žižkov</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>náměstí Winstona Churchilla</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1800</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>2</dtt:Cislo_orientacni>
+<dtt:PSC>13000</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Datum_vzniku_OR>1990-07-11</dtt:Datum_vzniku_OR>
+<dtt:Datum_zapisu_OR>2014-01-01</dtt:Datum_zapisu_OR>
+</dtt:Zakladni_udaje>
+<dtt:Registrace>
+<dtt:Spisova_znacka dod="2014-01-01">
+<dtt:Soud>
+<dtt:Kod>1</dtt:Kod>
+<dtt:Text>Městský soud v Praze</dtt:Text>
+</dtt:Soud>
+<dtt:Oddil_vlozka>L        858</dtt:Oddil_vlozka>
+</dtt:Spisova_znacka>
+</dtt:Registrace>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2018-06-06">
+Svaz zpřístupňuje v rejstříku údaje o předsedovi svazu a místopředsedech svazu.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2017-02-22">
+Rada svazu má 18 členů, ale stálými členy jsou pouze předseda svazu a místopředsedové svazu. Ostatních 15 členů jsou zástupci členů svazu a jsou určováni dle vnitřních pravidel těchto jednotlivých členů svazu ad hoc na jednotlivá zasedání rady svazu.
+
+
+
+Dle Stanov je počet členů revizní komise minimálně pět, může tedy být i více.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Statutarni_organ>
+<dtt:Clen_SO dod="2018-06-06">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda svazu</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Bc.</dtt:Titul_pred>
+<dtt:Jmeno>JAN</dtt:Jmeno>
+<dtt:Prijmeni>SÁBEL</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-03-01</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2018-06-06">
+<dtt:ID_adresy>31751568</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Hlavní město Praha</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Hlubočepy</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Silurská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1007</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>7</dtt:Cislo_orientacni>
+<dtt:PSC>15200</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2016-03-11</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-03-11</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2018-06-06">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>první místopředseda svazu</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JAROMÍR</dtt:Jmeno>
+<dtt:Prijmeni>FRANTA</dtt:Prijmeni>
+<dtt:Datum_narozeni>1967-03-31</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2018-06-06">
+<dtt:ID_adresy>31751569</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Chomutov</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Boleboř</dtt:Nazev_obce>
+<dtt:Cislo_domovni>90</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>43121</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2016-03-11</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-03-11</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2018-06-06">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>druhý místopředseda svazu</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>ROSTISLAV</dtt:Jmeno>
+<dtt:Prijmeni>PALIČKA</dtt:Prijmeni>
+<dtt:Datum_narozeni>1970-03-31</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2018-06-06">
+<dtt:ID_adresy>31751570</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Karviná</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Rychvald</dtt:Nazev_obce>
+<dtt:Cislo_domovni>321</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>73532</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2018-04-12</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2018-04-12</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2017-02-22" ddo="2018-02-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2017-02-22" ddo="2018-06-06">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2017-02-22" ddo="2018-06-06">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Text dod="2017-02-22">
+Čl. 23 Stanov: V čele rady je předseda svazu. Předsedu svazu zastupuje první místopředseda svazu, v jeho nepřítomnosti druhý místopředseda svazu, a pokud není přítomen ani on, radou určený člen rady svazu. 
+
+Čl. 26 Stanov: 1) Písemné právní úkony činí a tak projevují vůli rady předseda svazu, v jeho nepřítomnosti nebo z jeho pověření funkcionář, který ho zastupuje (článek 23), a další jeden člen rady. 2) V běžných věcech jedná jménem svazu předseda svazu, v j
+eho nepřítomnosti nebo z jeho pověření funkcionář, který ho zastupuje (článek 23).
+</dtt:Text>
+</dtt:Statutarni_organ>
+<dtt:Kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2017-10-11">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2017-02-22">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2017-02-22">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2017-02-22">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2017-02-22">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2017-02-22">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2017-02-22" ddo="2017-10-11">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+</dtt:Kontrolni_komise>
+</dtt:Vypis_OR>
+</are:Odpoved>
+</are:Ares_odpovedi>

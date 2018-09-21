@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.2" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2018-09-21T10:40:14" odpoved_pocet="1" odpoved_typ="Vypis_OR" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2/ares_answer_or_v_1.0.2.xsd" Id="ares">
+<are:Odpoved>
+<dtt:Pomocne_ID>0</dtt:Pomocne_ID>
+<dtt:Vysledek_hledani>
+<dtt:Kod>1</dtt:Kod>
+</dtt:Vysledek_hledani>
+<dtt:Pocet_zaznamu>1</dtt:Pocet_zaznamu>
+<dtt:Vypis_OR>
+<dtt:Uvod>
+<dtt:Nadpis>Výpis z dat Obchodního Rejstříku v ARES</dtt:Nadpis>
+<dtt:Aktualizace_DB>2018-09-20</dtt:Aktualizace_DB>
+<dtt:Datum_vypisu>2018-09-21</dtt:Datum_vypisu>
+<dtt:Cas_vypisu>10:40:12</dtt:Cas_vypisu>
+<dtt:Typ_vypisu>uplny</dtt:Typ_vypisu>
+<dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+</dtt:Uvod>
+<dtt:Zakladni_udaje>
+<dtt:Platnost_od>2016-01-18</dtt:Platnost_od>
+<dtt:Stav>
+<dtt:Stav_subjektu>Aktivní</dtt:Stav_subjektu>
+<dtt:Konkurz>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Konkurz>
+<dtt:Vyrovnani>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Vyrovnani>
+<dtt:Zamitnuti>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Zamitnuti>
+<dtt:Likvidace>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Likvidace>
+</dtt:Stav>
+<dtt:ICO dod="2014-01-01">00207225</dtt:ICO>
+<dtt:Obchodni_firma dod="2016-01-18">Boxerklub České republiky, z.s.</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="2014-01-01" ddo="2016-01-18">Boxerklub České republiky</dtt:Obchodni_firma>
+<dtt:Pravni_forma_OR dod="2014-01-01">
+<dtt:Kod_PF>706</dtt:Kod_PF>
+<dtt:Nazev_PF>Spolek</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Sidlo dod="2014-01-01">
+<dtt:ID_adresy>31096715</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Hlavní město Praha</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Holešovice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>U Pergamenky</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1511</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>3</dtt:Cislo_orientacni>
+<dtt:PSC>17000</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Datum_vzniku_OR>1990-09-10</dtt:Datum_vzniku_OR>
+<dtt:Datum_zapisu_OR>2014-01-01</dtt:Datum_zapisu_OR>
+</dtt:Zakladni_udaje>
+<dtt:Registrace>
+<dtt:Spisova_znacka dod="2014-01-01">
+<dtt:Soud>
+<dtt:Kod>1</dtt:Kod>
+<dtt:Text>Městský soud v Praze</dtt:Text>
+</dtt:Soud>
+<dtt:Oddil_vlozka>L       1049</dtt:Oddil_vlozka>
+</dtt:Spisova_znacka>
+</dtt:Registrace>
+<dtt:Cinnosti>
+<dtt:Ucel_nadace>
+<dtt:Text dod="2016-01-18">
+Základním účelem Boxerklubu ČR je pečovat o rozvoj chovu, výcviku, o propagaci a ochranu psů plemene německý boxer. Za tím účelem Boxerklub ČR organizuje zejména chovatelskou a výcvikovou činnost, poskytuje svým členům potřebné informace a pomoc a organiz
+uje společné akce.
+
+V souladu se svým základním účelem může Boxerklub ČR vyvíjet ediční činnost. Boxerklub ČR a územní pobočky mohou vyvíjet rovněž i jinou podnikatelskou činnost, pokud neodporuje účelu Boxerklubu ČR, stanovám klubu a stanovám a zájmům ČMKU.
+</dtt:Text>
+</dtt:Ucel_nadace>
+</dtt:Cinnosti>
+<dtt:Statutarni_organ>
+<dtt:Clen_SO dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>RADIM</dtt:Jmeno>
+<dtt:Prijmeni>FIALA</dtt:Prijmeni>
+<dtt:Datum_narozeni>1969-07-24</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096716</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Prostějov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dykova</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>468</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>2</dtt:Cislo_orientacni>
+<dtt:PSC>79601</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JOSEF</dtt:Jmeno>
+<dtt:Prijmeni>MORÁVEK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1950-08-01</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096717</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Dolany</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Svinišťany</dtt:Nazev_casti_obce>
+<dtt:Cislo_domovni>4</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>55204</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>ALENA</dtt:Jmeno>
+<dtt:Prijmeni>ŠEFELÍNOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1957-10-12</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096718</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Strašnice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Hřibská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2039</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>2</dtt:Cislo_orientacni>
+<dtt:PSC>10000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>BLANKA</dtt:Jmeno>
+<dtt:Prijmeni>ROŠKOTOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-03-04</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096719</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Roztoky</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Kostelní</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>69</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>25263</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>MVDr.</dtt:Titul_pred>
+<dtt:Jmeno>EMILIE</dtt:Jmeno>
+<dtt:Prijmeni>KLEČKOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1963-04-28</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096720</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Světec</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Preissigovo náměstí</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>4</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>41753</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>MILOSLAV</dtt:Jmeno>
+<dtt:Prijmeni>AUTERSKÝ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1951-02-10</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096721</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Chotěšov</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Mantov</dtt:Nazev_casti_obce>
+<dtt:Cislo_domovni>172</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>33301</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JIŘÍ</dtt:Jmeno>
+<dtt:Prijmeni>SUCHÝ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1953-12-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096722</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Kochánky</dtt:Nazev_obce>
+<dtt:Cislo_domovni>61</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>29474</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>VLASTIMIL</dtt:Jmeno>
+<dtt:Prijmeni>BERAN</dtt:Prijmeni>
+<dtt:Datum_narozeni>1963-07-24</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096723</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Ústí nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Klíše</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Cestička</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>376</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>3</dtt:Cislo_orientacni>
+<dtt:PSC>40001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>MARCELA</dtt:Jmeno>
+<dtt:Prijmeni>LUKEŠOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1965-11-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096724</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hradištko</dtt:Nazev_obce>
+<dtt:Cislo_domovni>697</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28912</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Text dod="2016-01-18">
+Ve vnějších vztazích jedná jménem Boxerklubu ČR předseda, jménem pobočného spolku předseda pobočného spolku, nebo jsou-li voleni, místopředseda Boxerklubu ČR či místopředseda pobočného spolku, nebo výborem Boxerklubu ČR či výborem pobočného spolku pověřen
+ý jeho jiný člen.
+</dtt:Text>
+</dtt:Statutarni_organ>
+<dtt:Kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+<dtt:Funkce>předseda revizní komise</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>PETR</dtt:Jmeno>
+<dtt:Prijmeni>ŠLAUF</dtt:Prijmeni>
+<dtt:Datum_narozeni>1982-01-18</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096725</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Druztová</dtt:Nazev_obce>
+<dtt:Cislo_domovni>178</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>33007</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+<dtt:Funkce>člen revizní komise</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>RENATA</dtt:Jmeno>
+<dtt:Prijmeni>KOTOUČOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1962-07-22</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096726</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Modřany</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Platónova</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>3279</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>10</dtt:Cislo_orientacni>
+<dtt:PSC>14300</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2016-01-18">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+<dtt:Funkce>člen revizní komise</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>RADKA</dtt:Jmeno>
+<dtt:Prijmeni>KOSAŘOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1971-03-18</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-01-18">
+<dtt:ID_adresy>31096727</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Studnice</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Řešetova Lhota</dtt:Nazev_casti_obce>
+<dtt:Cislo_domovni>73</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>54701</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-05-23</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+</dtt:Kontrolni_komise>
+</dtt:Vypis_OR>
+</are:Odpoved>
+</are:Ares_odpovedi>

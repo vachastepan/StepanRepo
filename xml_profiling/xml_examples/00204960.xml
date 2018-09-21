@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.2" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2018-09-21T10:39:15" odpoved_pocet="1" odpoved_typ="Vypis_OR" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2/ares_answer_or_v_1.0.2.xsd" Id="ares">
+<are:Odpoved>
+<dtt:Pomocne_ID>0</dtt:Pomocne_ID>
+<dtt:Vysledek_hledani>
+<dtt:Kod>1</dtt:Kod>
+</dtt:Vysledek_hledani>
+<dtt:Pocet_zaznamu>1</dtt:Pocet_zaznamu>
+<dtt:Vypis_OR>
+<dtt:Uvod>
+<dtt:Nadpis>Výpis z dat Obchodního Rejstříku v ARES</dtt:Nadpis>
+<dtt:Aktualizace_DB>2018-09-20</dtt:Aktualizace_DB>
+<dtt:Datum_vypisu>2018-09-21</dtt:Datum_vypisu>
+<dtt:Cas_vypisu>10:39:14</dtt:Cas_vypisu>
+<dtt:Typ_vypisu>uplny</dtt:Typ_vypisu>
+<dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+</dtt:Uvod>
+<dtt:Zakladni_udaje>
+<dtt:Platnost_od>2016-06-22</dtt:Platnost_od>
+<dtt:Stav>
+<dtt:Stav_subjektu>Aktivní</dtt:Stav_subjektu>
+<dtt:Konkurz>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Konkurz>
+<dtt:Vyrovnani>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Vyrovnani>
+<dtt:Zamitnuti>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Zamitnuti>
+<dtt:Likvidace>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Likvidace>
+</dtt:Stav>
+<dtt:ICO dod="2014-01-01">00204960</dtt:ICO>
+<dtt:Obchodni_firma dod="2016-06-22">Asociace umělců medailerů z.s.</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="2014-01-01" ddo="2016-06-22">Asociace umělců medailerů</dtt:Obchodni_firma>
+<dtt:Pravni_forma_OR dod="2014-01-01">
+<dtt:Kod_PF>706</dtt:Kod_PF>
+<dtt:Nazev_PF>Spolek</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Sidlo dod="2014-12-15">
+<dtt:ID_adresy>19167580</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Hlavní město Praha</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Košíře</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Hlaváčkova</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1284</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>11</dtt:Cislo_orientacni>
+<dtt:PSC>15000</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="2014-01-01" ddo="2014-12-15">
+<dtt:ID_adresy>19167579</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 1</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Václavské náměstí</dtt:Nazev_ulice>
+<dtt:Cislo_orientacni>68</dtt:Cislo_orientacni>
+<dtt:PSC>11579</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Datum_vzniku_OR>1990-07-19</dtt:Datum_vzniku_OR>
+<dtt:Datum_zapisu_OR>2014-01-01</dtt:Datum_zapisu_OR>
+</dtt:Zakladni_udaje>
+<dtt:Registrace>
+<dtt:Spisova_znacka dod="2014-01-01">
+<dtt:Soud>
+<dtt:Kod>1</dtt:Kod>
+<dtt:Text>Městský soud v Praze</dtt:Text>
+</dtt:Soud>
+<dtt:Oddil_vlozka>L        887</dtt:Oddil_vlozka>
+</dtt:Spisova_znacka>
+</dtt:Registrace>
+<dtt:Cinnosti>
+<dtt:Ucel_nadace>
+<dtt:Text dod="2016-06-22">
+Péče o rozvoj medailérské tvorby, výstavní činnost
+</dtt:Text>
+</dtt:Ucel_nadace>
+</dtt:Cinnosti>
+<dtt:Statutarni_organ>
+<dtt:Clen_SO dod="2016-06-22">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>VLADISLAV</dtt:Jmeno>
+<dtt:Prijmeni>MAŠATA</dtt:Prijmeni>
+<dtt:Datum_narozeni>1948-04-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-06-22">
+<dtt:ID_adresy>19167581</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha-západ</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Černošice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Šeříková</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1183</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>25228</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-09-03</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-04-26</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-06-22">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>LENKA</dtt:Jmeno>
+<dtt:Prijmeni>NEBESKÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1984-08-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-06-22">
+<dtt:ID_adresy>19167582</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Hlavní město Praha</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Zbraslav</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Václava Rady</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1465</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>4</dtt:Cislo_orientacni>
+<dtt:PSC>15600</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2010-04-24</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-04-26</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Text dod="2016-06-22">
+Za spolek jedná předseda nebo místopředseda.
+</dtt:Text>
+</dtt:Statutarni_organ>
+</dtt:Vypis_OR>
+</are:Odpoved>
+</are:Ares_odpovedi>

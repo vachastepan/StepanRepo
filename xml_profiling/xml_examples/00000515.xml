@@ -1,0 +1,3122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.2" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2018-09-21T10:41:01" odpoved_pocet="1" odpoved_typ="Vypis_OR" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2/ares_answer_or_v_1.0.2.xsd" Id="ares">
+<are:Odpoved>
+<dtt:Pomocne_ID>0</dtt:Pomocne_ID>
+<dtt:Vysledek_hledani>
+<dtt:Kod>1</dtt:Kod>
+</dtt:Vysledek_hledani>
+<dtt:Pocet_zaznamu>1</dtt:Pocet_zaznamu>
+<dtt:Vypis_OR>
+<dtt:Uvod>
+<dtt:Nadpis>Výpis z dat Obchodního Rejstříku v ARES</dtt:Nadpis>
+<dtt:Aktualizace_DB>2018-09-20</dtt:Aktualizace_DB>
+<dtt:Datum_vypisu>2018-09-21</dtt:Datum_vypisu>
+<dtt:Cas_vypisu>10:40:55</dtt:Cas_vypisu>
+<dtt:Typ_vypisu>uplny</dtt:Typ_vypisu>
+<dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+</dtt:Uvod>
+<dtt:Zakladni_udaje>
+<dtt:Platnost_od>2017-02-01</dtt:Platnost_od>
+<dtt:Stav>
+<dtt:Stav_subjektu>Aktivní</dtt:Stav_subjektu>
+<dtt:Konkurz>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Konkurz>
+<dtt:Vyrovnani>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Vyrovnani>
+<dtt:Zamitnuti>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Zamitnuti>
+<dtt:Likvidace>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Likvidace>
+</dtt:Stav>
+<dtt:ICO dod="1989-06-30">00000515</dtt:ICO>
+<dtt:Obchodni_firma dod="1992-03-10">LOM PRAHA s.p.</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="1989-06-30" ddo="1992-03-10">Letecké opravny Malešice, státní podnik</dtt:Obchodni_firma>
+<dtt:Pravni_forma_OR dod="1989-06-30">
+<dtt:Kod_PF>301</dtt:Kod_PF>
+<dtt:Nazev_PF>Státní podnik</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Sidlo dod="2015-05-28">
+<dtt:ID_adresy>25497622</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Hlavní město Praha</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Malešice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Tiskařská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>270</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>8</dtt:Cislo_orientacni>
+<dtt:PSC>10800</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="2014-05-19" ddo="2015-05-28">
+<dtt:ID_adresy>25497619</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Malešice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Tiskařská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>270</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>8</dtt:Cislo_orientacni>
+<dtt:PSC>10800</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="2004-07-10" ddo="2014-05-19">
+<dtt:ID_adresy>25497621</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Malešice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Tiskařská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>8</dtt:Cislo_do_adresy>
+<dtt:PSC>10038</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="1997-07-14" ddo="2004-07-10">
+<dtt:ID_adresy>25497620</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha 10</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Černokostelecká</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>270</dtt:Cislo_do_adresy>
+<dtt:PSC>10038</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="1989-06-30" ddo="1997-07-14">
+<dtt:ID_adresy>25497616</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Černokostelecká</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>270</dtt:Cislo_do_adresy>
+<dtt:PSC>10000</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Datum_zapisu_OR>1989-06-30</dtt:Datum_zapisu_OR>
+</dtt:Zakladni_udaje>
+<dtt:Registrace>
+<dtt:Spisova_znacka dod="1989-06-30">
+<dtt:Soud>
+<dtt:Kod>1</dtt:Kod>
+<dtt:Text>Městský soud v Praze</dtt:Text>
+</dtt:Soud>
+<dtt:Oddil_vlozka>ALX        283</dtt:Oddil_vlozka>
+</dtt:Spisova_znacka>
+</dtt:Registrace>
+<dtt:Cinnosti>
+<dtt:Predmet_podnikani>
+<dtt:Text dod="2016-05-10">
+Projekce, výroba, údržba, opravy a modernizace letecké techniky pro nevojenské provozovatele, včetně vedení technické dokumentace, na základě smluvních vztahů.
+</dtt:Text>
+<dtt:Text dod="2014-02-15">
+Nakládání se svěřenými státními lesy v působnosti Ministerstva obrany
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Uspokojování strategických a dalších podstatných zájmů státu v oblasti obrany a bezpečnosti a rozvoje schopností Armády České republiky a dalších ozbrojených bezpečnostních sborů a integrovaného záchranného systému výkonem činnosti průmyslové a obchodní p
+ovahy při zajišťování dodávek a služeb potřebných pro zabezpečení obrany a bezpečnosti České republiky a plnění závazků vyplývajících z členství České republiky v NATO a EU.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Přednostní strategické dodávky a služby pro obranu a bezpečnost státu, generální a jiné opravy vojenské techniky, výroby a dodávky nové speciální techniky, modernizace speciální vojenské techniky a materiálů, výzbroje a jejich zkoušení, montážní a servisn
+í služby a technická pomoc vojskům.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Zajišťování požadované úrovně ochrany utajovaných informací.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výzkum, vývoj projektování, výroba, zkoušky, instalace, údržba, opravy, modifikace a konstrukční změny letadel/letecké techniky, výrobků, motorů letadel, vrtulí, letadlových částí a zařízení a leteckých pozemních zařízení.
+
+
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Posuzování a ověřování letové způsobilosti, provozní způsobilosti nebo uvolnění do provozu, kontrolou, posuzováním a ověřováním shody vlastností letecké techniky. 
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výuka a výcvik na letecké technice.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Letecké práce a další letecké činnosti.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Provozování letišť, letecké služby, letové provozní služby, letecké práce a další letecké činnosti, další související činnosti a služby. 
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Provádění zahraničního obchodu s vojenským materiálem v rozsahu povolení vydaného podle zákona č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem a o doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdě
+jších předpisů a zákona č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů. 
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Nákup a prodej, půjčování, vývoj, výroba, opravy, úpravy, uschovávání, skladování, přeprava, znehodnocování a ničení bezpečnostního materiálu.
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Přeprava, nákup, prodej, půjčování a uschovávání zbraní a střeliva.
+
+
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Kovy a kovové výrobky, zejména klempířství a oprava karoserií, zámečnictví, nástrojářství, obráběčství, galvanizérství, smaltérství, kovářství a podkovářství.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Montáž, opravy, revize a zkoušky elektrických zařízení
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Opravy ostatních dopravních prostředků a pracovních strojů.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Opravy silničních vozidel.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Technicko-organizační činnost v oblasti požární ochrany.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Poskytování služeb v oblasti bezpečnosti a ochrany zdraví při práci
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Činnost účetních poradců, vedení účetnictví, vedení daňové evidence      
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Zpracování dat, služby databank, správa sítí.      
+
+
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona 
+
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+výroba a opravy letecké techniky
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+koupě zboží za účelem jeho dalšího prodeja a prodej
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+testování, měření a analýzy
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+výuka obsluhy (řízení) technických zařízení
+</dtt:Text>
+<dtt:Text dod="2007-10-17" ddo="2013-06-14">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu povolení vydaného podle zákona č. 38/1994 Sb.
+</dtt:Text>
+<dtt:Text dod="2006-12-06" ddo="2013-06-14">
+provádění oprav speciální techniky a zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů vojenské pozemní techniky
+</dtt:Text>
+<dtt:Text dod="2006-12-06" ddo="2013-06-14">
+výroba, instalace a opravy elektrických strojů a přístrojů
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2007-10-17">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení po změně vydaného podle zákona č. 38/1994 Sb. č.j.
+
+P-199f č. R040799033 ze dne 8.4.2003:
+
+SMV 1 - Zbraně a jejich speciálně konstruované součásti
+
+SMV 3 - Střelivo a jeho speciálně konstruované součásti pro zbraně uvedené v položkách SVM 1, SVM 2 a SVM 23
+
+SVM 4 - Bomby, torpéda, rakety a střely a jejich speciálně
+
+konstruované součásti
+
+SVM 5 - Systémy a podsystémy řízení palby speciálně konstruované
+
+pro vojenské použití a jejich speciálně konstruované součásti a
+
+příslušenství
+
+SVM 6 - Vozidla speciálně konstruovaná nebo upravená pro vojenské použití a jejich speciálně konstruované součásti
+
+SVM - 7 Toxikologické prostředky , slzný plyn, příslušná
+
+zařízení, součásti, materiály a technologie - pouze podpoložky
+
+d), e)
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 11 - Elektronická zařízení speciálně konstruovaná pro
+
+vojenské použití a jejich speciálně konstruované součásti
+
+SVM 12 - Fotografická a elektrooptická zobrazovací zařízení a
+
+pro ně speciálně konstruované součásti
+
+SVM 13 - Speciální pancéřové materiály
+
+SVM 14 - Speciální zařízení pro vojenský výcvik nebo pro simulování vojenských situací a speciálně konstruované součásti a příslušenství pro tato zařízení
+
+SVM 15 - Vojenská infračervená zařízení, tepelně zobrazující a
+
+obraz zesilující zařízení a pro tato zařízení speciálně
+
+konstruované součásti
+
+SVM 17 - Různá zařízení a matriály a pro ně speciálně konstruované součásti
+
+SVM 18 - Zařízení a technologie pro &quot;výrobu&quot; výrobků uvedených v tomto povolení
+
+SVM 22 - Programové vybavení, pokud je určeno pro výrobky uvedené v tomto povolení - kromě položky b)2
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření
+
+Afghanistán, Alžírsko, Angola, Argentina, Austrálie, Bangladéš, Belgie, Bělorusko, Brazílie, Bulharsko, Čína, Dánsko, Egypt, Ekvádor, Estonsko, Etiopie, Finsko, Francie, Gruzie, Chile, Chorvatsko, Indie, Indonésie, Irák, Island, Itálie, Izrael, Jemen, Jih
+oafrická republika, Kambodža, Kanada, Kazachstán, Keňa, Kolumbie, Kojeská republika, Kuvajt, Kyperská republika, Laos, Libye, Litva, Lotyšsko, Lucembursko, Maďarsko, Makedonie, Malajsie, Malat, maroko, Mexiko, Moldávie, Monako, Mongolsko, Mosambik, Namíbi
+e, Nepál, Německo, Niger, Nigérie, Nikaragua, Nizozemí, Norsko, Nový Zéland, Oman, Panama, Paraguay, Pakistán, Peru, Polsko, Portugalsko, Rakousko, Rumunsko, Ruská federace, Řecko, Salvádor, San Marino, Saudská Arabie, Singapur, Slovesnko, Slovinsko, Spoj
+ené arabské emiráty, Srí Lanka, Španělsko, Švédsko, Švýcarsko, Thajsko, Tchaj-wan, Tunisko, Turecko, Turkmenistán, Uganda, Ukrajina, Uruguay, USA, Uzbekistán, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2013-06-14">
+činnost podnikatelských, finančních, organizačních a ekonomických poradců
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2013-06-14">
+činnost účetních poradců, vedení účetnictví, vedení daňové evidence
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2013-06-14">
+galvanizérství
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+provádění oprav speciální techniky a zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů i nově vznikajících potřeb AČR s přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+výroba a opravy letecké techniky
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+výzkumné a vývojové práce v oblasti společenských a přírodních věd
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+koupě zboží za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-06-14">
+provádění oprav speciální techniky a zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů i nově vznikajících potřeb AČR s přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-06-14">
+výzkum a vývoj v oblasti přírodních a technických věd nebo společenských věd
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2004-02-07">
+provádění oprav speciální techniky a zajišťování vývojových, vý-
+
+robních a opravářských úkolů i nově vznikajících potřeb AČR a
+
+přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2006-01-20">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení po změně vydaného podle zákona č. 38/1994 Sb. č.j.
+
+P-199f č. R040799033 ze dne 8.4.2003:
+
+SMV 1 - Zbraně a jejich speciálně konstruované součásti
+
+SMV 3 - Střelivo a jeho speciálně konstruované součásti pro zbraně uvedené v položkách SVM 1, SVM 2 a SVM 23
+
+SVM 4 - Bomby, torpéda, rakety a střely a jejich speciálně
+
+konstruované součásti
+
+SVM 5 - Systémy a podsystémy řízení palby speciálně konstruované
+
+pro vojenské použití a jejich speciálně konstruované součásti a
+
+příslušenství
+
+SVM 6 - Vozidla speciálně konstruovaná nebo upravená pro vojenské použití a jejich speciálně konstruované součásti
+
+SVM - 7 Toxikologické prostředky , slzný plyn, příslušná
+
+zařízení, součásti, materiály a technologie - pouze podpoložky
+
+d), e)
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 11 - Elektronická zařízení speciálně konstruovaná pro
+
+vojenské použití a jejich speciálně konstruované součásti
+
+SVM 12 - Fotografická a elektrooptická zobrazovací zařízení a
+
+pro ně speciálně konstruované součásti
+
+SVM 13 - Speciální pancéřové materiály
+
+SVM 14 - Speciální zařízení pro vojenský výcvik nebo pro simulování vojenských situací a speciálně konstruované součásti a příslušenství pro tato zařízení
+
+SVM 15 - Vojenská infračervená zařízení, tepelně zobrazující a
+
+obraz zesilující zařízení a pro tato zařízení speciálně
+
+konstruované součásti
+
+SVM 22 - Programové vybavení, pokud je určeno pro výrobky uvedené v tomto povolení - kromě položky b)2
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření Alžírsko, Argentina, Bangladéš, Belgie, Bělorusko, Bulharsko, Čína, Egypt, Ekvádor, Estonsko, Etiopie, Finsko, Francie, Gruzie, Chorvatsko, Indie, Itálie, Izrael, Kambodža, Kanada, Kazachstán, Kypr, Laos,
+
+Litva, Lotyšsko, Maďarsko, Makedonie, Mexiko, Německo, Nigérie, Nizozemí, Peru, Polsko, Rumunsko, Ruská federace, Slovensko, Slovinsko, Srí Lanka, Sýrie, Španělsko, Švédsko, Thajsko, Tunisko, Ukrajina, USA, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+přeprava, nákup, prodej zbraní
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+nákup, prodej, přeprava střeliva
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+testování, měření a analýzy
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+vázání a konečné zpracování knih
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+poskytování software a poradenství v oblasti hardware a software
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+překladatelská a tlumočnická činnost
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+pořádání odborných kurzů, školení a jiných vzdělávacích akcí včetně lektorské činnosti
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+výuka obsluhy (řízení) technických zařízení
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+kopírovací práce
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+zpracování dat, služby databank, správa sítí
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+vývoj, projektování, výroba, zkoušky, údržba, opravy, modifikace, zástavba, servis a konstrukční změny vojenských letadel, jejich součástí a výrobků vojenské letecké techniky
+</dtt:Text>
+<dtt:Text dod="2002-09-25" ddo="2003-11-05">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení po změně vydaného podle zákona č. 38/1994 Sb. č.j.
+
+P-199d č. R040799033 ze dne 29.05.2002:
+
+SVM 4 - Bomby, torpéda, rakety a střely a jejich speciálně
+
+konstruované součásti - pouze podpoložka b)
+
+SVM 5 - Systémy a posystémy řízení palby speciálně konstruované
+
+pro vojenské použití a jejich speciálně konstruované součásti a
+
+příslušenství
+
+SVM - 7 Toxikologické prostředky , slzný plyn, příslušná
+
+zařízení, součásti, materiály a technologie - pouze podpoložky
+
+d), e)
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 11 - Elektronická zařízení speciálně konstruovaná pro
+
+vojenká použití a jejich speciálně konstruované součásti
+
+SVM 12 - Fotografická a elektrooptická zobrazovací zařízení a
+
+pro ně speciálně konstruované součásti
+
+SVM 15 - Vojenská infračervená zařízení, tepelně zobrazující a
+
+obraz zesilující zařízení a pro tato zařízení speciálně
+
+konstruované součásti
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření Alžírsko, Bangladéš, Belgie, Bělorusko,
+
+Bulharsko, Egypt, Estonsko, Etiopie, Finsko, Francie, Gruzie,
+
+Chorvatsko, Indie, Itálie, Izrael, Kanada, Kazachstán, Kypr,
+
+Litva, Lotyšsko, Maďarsko, Makedonie, Mexiko, Německo, Nigérie,
+
+Nizozemí, Polsko, Rumunsko, Ruská federace, Slovensko,
+
+Slovinsko, Srí Lanka, Sýrie, Španělsko, Švédsko, Thajsko,
+
+Tunisko, Ukrajina, USA, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="1999-10-04" ddo="2002-09-25">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení vydaného podle zák. č. 38/1994 Sb. č.j. P-199
+
+č. R040799033 ze dne 29.7.1999:
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření Alžírsko, Bangladéš, Belgie, Bělorusko,
+
+Bulharsko, Egypt, Estonsko, Etiopie, Finsko, Francie, Gruzie,
+
+Indie, Itálie, Izrael, Kanada, Kazachstán, Kypr, Litva,
+
+Lotyšsko, Maďarsko, Makedonie, Mexiko, Německo, Nigérie,
+
+Nizozemí, Polsko, Rumunsko, Ruská federace, Slovensko,
+
+Slovinsko, Srí Lanka, Sýrie, Španělsko, Švédsko, Thajsko,
+
+Tunisko, Ukrajina, USA, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="1998-02-24" ddo="2013-06-14">
+výroba a opravy letecké techniky
+</dtt:Text>
+<dtt:Text dod="1998-02-24" ddo="2013-06-14">
+koupě zboží za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="1994-11-10" ddo="1999-10-04">
+provádění zahraničního obchodu s vojenským materiálem v
+
+rozsahu povolení vydaného podle zákona č.38/1994 Sb.
+
+/Povolení č.j.P-44, č.R990994033 ze dne 27.9.1994 vydané mi-
+
+nisterstvem průmyslu a obchodu ČR/
+</dtt:Text>
+<dtt:Text dod="1991-09-20" ddo="1998-02-24">
+uspokojování veřejně prospěšných zájmů
+</dtt:Text>
+<dtt:Text dod="1989-06-30" ddo="2003-11-05">
+provádění oprav speciální techniky a zajišťování vývojových, vý-
+
+robních a opravářských úkolů i nově vznikajících potřeb ČSLA a
+
+přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+</dtt:Predmet_podnikani>
+</dtt:Cinnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2016-05-10">
+Vymezení určeného majetku:
+
+
+
+Podniku se vymezuje určený majetek ve smyslu § 2 odst. 5 zákona č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů, specifikovaný v přílohách č. 2 - 7 úplného znění zakládací listiny č.j. 25-8/2016-1150.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2015-05-28" ddo="2016-05-10">
+Vymezení určeného majetku:
+
+
+
+Podniku se vymezuje určený majetek ve smyslu § 2 odst. 5 zákona č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů, specifikovaný v přílohách č. 1 - 6 úplného znění zakládací listiny č.j. 41-15/2014-1333.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2014-06-24">
+Osoba vykonávající jménem státu funkci zakladatele státního podniku: 
+
+
+
+Ing. Tomáš Kuchta, dat. nar. 4.7.1969
+
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2014-06-24" ddo="2015-05-28">
+Vymezení určeného majetku:
+
+
+
+Podniku se vymezuje určený majetek ve smyslu § 2 odst. 5 zákona č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů, specifikovaný v přílohách č. 1 - 5 zakládací listiny č.j. 41-3/2014-1333.
+
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2014-04-24" ddo="2014-06-24">
+Osoba vykonávající jménem státu funkci zakladatele státního podniku: 
+
+
+
+Ing. Tomáš Kuchta, dat. nar. 4.7.1969
+
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2014-02-15" ddo="2014-04-24">
+Osoba vykonávající jménem státu funkci zakladatele státního podniku:
+
+
+
+Mgr. Jiří Špelina, dat. nar. 29.7.1975
+
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2014-02-15" ddo="2014-06-24">
+Vymezení určeného majetku:
+
+
+
+Podniku se vymezuje určený majetek ve smyslu § 2 odst. 5 zákona č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů, specifikovaný v přílohách č. 1 - 4 zakládací listiny č.j. 396-24/2013-2697.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2013-06-14" ddo="2014-02-15">
+Vymezení určeného majetku:
+
+
+
+Podniku se vymezuje určený majetek ve smyslu § 2 odst. 5 zákona č. 77/1997 Sb., o státním podniku, ve znění pozdějších předpisů, specifikovaný v příloze 2 zakládací listiny č.j. 328-30/2012-2697.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2013-02-06">
+Rozhodnutím ministra obrany ČR č.j. 452-1/2012-2697 ze dne 29.srpna 2012 došlo k převodu činností odštěpného závodu &quot;LOM PRAHA s.p., odštěpný závod VTÚLaPVO&quot; ze státního podniku LOM PRAHA s.p. na státní podnik Vojenský technický ústav, s.p.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2011-05-07" ddo="2013-06-14">
+Určený majetek dle § 2 odst. 5 zákona č. 77/1997 Sb., o státním podniku: Určeným majetkem jsou budovy a pozemky nacházející se v k.ú. Praha - Malešice, k.ú. Praha - Kbely ,k.ú. Praha - Vysočany, K.ú. Popkovice, K.ú. Staré Jesenčany a movitý majetek, to vš
+e specifikováno a uvedeno v příloze č.1 zakládací listiny LOM PRAHA s.p. (úplné znění) pod č.j. 306-126/2007/DP-2697.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2008-05-23" ddo="2011-05-07">
+Určený majetek dle § 2 odst. 5 zákona č. 77/1997 Sb., o státním podniku: Určeným majetkem jsou budovy a pozemky nacházející se v k.ú. Praha - Malešice, k.ú. Praha - Kbely a k.ú. Praha - Vysočany, jejich přesný výčet tvoří přílohu č. 1 rozhodnutí o změně z
+akládací listiny LOM PRAHA s.p. pod č.j. 306-5/2007/DP-2697 a letecká technika uvedená v příloze 1 rozhodnutí o změně zakládací listiny LOM PRAHA s.p. pod č.j. 306-29/2007/DP-2697.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2007-10-17">
+- Na základě Rozhodnutí ministra obrany ze dne 27.2.2003 č.j. 50513-18/2003-8201 došlo ke sloučení Leteckých opraven Kbely, s.p. s LOM PRAHA s.p. Jmění Leteckých opraven Kbely, s.p. včetně veškerých závazků i práv a povinností z pracovněprávních vztahů př
+ešlo na LOM PRAHA s.p.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2007-10-17" ddo="2008-05-23">
+Určený majetek dle § 2 odst. 5 zákona č. 77/1997 Sb., o státním podniku: Určeným majetkem jsou budovy a pozemky nacházející se v k.ú. Praha - Malešice, k.ú. Praha - Kbely a k.ú. Praha - Vysočany, jejich přesný výčet tvoří přílohu č. 1 rozhodnutí o změně z
+akládací listiny LOM PRAHA s.p. ze dne 22. srpna 2007.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2004-02-07" ddo="2007-10-17">
+Určený majetek dle § 2 odst.5 zákona č.77/1997 Sb. o státním podniku:
+
+určeným majetkem jsou budovy s pořizovací hodnotou vyšší než  3 000 000,-Kč a pozemky, nacházející se v k.ú.
+
+Praha-Malešice a k.ú. Praha-Kbely a k.ú. Hlavenec, jejichž přesný výčet tvoří přílohu č.3 k zakládací listině ze dne 15.prosince 1997 čj. 211/16-40/2 a přílohu č. 1B k rozhodnutí o změně zakládací listiny čj. 50959-35/2002/DP-8201 ze dne 30.06.2003.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2004-01-12">
+Minimální výše kmenového jmění, kterou je podnik povinen zachovat: 457, 800.000,- Kč
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2004-01-12" ddo="2007-10-17">
+- Určený majetek dle § 2 odst. 5 zákona č. 77/1997 Sb., o státním podniku:
+
+Určeným majetkem jsou budovy a pozemky, nacházející se v k.ú. Praha-Malešice, k.ú. Praha-Kbely, k.ú. Praha-Vysočany a k.ú. Hlavenec, jejich přesný výčet tvoří přílohu č. 2 rozhodnutí o změně zakládací listiny LOM PRAHA s.o. ze dne 11. listopadu 2003 č.j.
+50959-55/2002/DP-8201
+
+- Na základě Rozhodnutí ministra obrany ze dne 27.2.2003 č.j. 50513-18/2003-8201 došlo ke sloučení Leteckých opraven Kbely, s.p. s LOM PRAHA s.p. Jmění Leteckých opraven Kbely, s.p. včetně veškerých závazků i práv a povinností z pracovněprávních vztahů př
+ešlo na LOM PRAHA s.p.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1998-02-24" ddo="2004-02-07">
+Určený majetek dle § 2 odst.5 zákona č.77/1997 Sb. o státním
+
+podniku:
+
+určeným majetkem jsou budovy s pořizovací hodnotou
+
+vyšší než  3 000 000,-Kč s pozemky, nacházející se v k.ú.
+
+Praha-Malešice a k.ú. Hlavenec, jejichž přesný výčet tvoří
+
+přílohu č.3 k zakládací listině ze dne 15.prosince 1997 čj.
+
+211/16-40/2
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1989-06-30">
+Státní podnik byl založen zakládací listinou federálního mini-
+
+sterstva národní obrany ze dne 23.6.1989 čj. 1105-84.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1989-06-30">
+Den vzniku 1. červenec 1989.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Kapital>
+<dtt:Kmenove_jmeni dod="2004-01-12">
+<dtt:Vklad>
+<dtt:Kc>576100000;00</dtt:Kc>
+</dtt:Vklad>
+</dtt:Kmenove_jmeni>
+<dtt:Kmenove_jmeni dod="1998-02-24" ddo="2004-01-12">
+<dtt:Vklad>
+<dtt:Kc>295641691;00</dtt:Kc>
+</dtt:Vklad>
+</dtt:Kmenove_jmeni>
+<dtt:Kmenove_jmeni dod="1989-10-31" ddo="1998-02-24">
+<dtt:Vklad>
+<dtt:Kc>226122000;00</dtt:Kc>
+</dtt:Vklad>
+</dtt:Kmenove_jmeni>
+</dtt:Kapital>
+<dtt:Statutarni_organ>
+<dtt:Clen_SO dod="2017-02-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>DAVID</dtt:Jmeno>
+<dtt:Prijmeni>ROD</dtt:Prijmeni>
+<dtt:Titul_za>MSC.,LL.M.</dtt:Titul_za>
+<dtt:Datum_narozeni>1973-07-03</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2017-02-01">
+<dtt:ID_adresy>25497672</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Hlavní město Praha</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Karlín</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>K Olympiku</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>563</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>2</dtt:Cislo_orientacni>
+<dtt:PSC>18600</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2017-01-11</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2015-05-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>ROMAN</dtt:Jmeno>
+<dtt:Prijmeni>PLANIČKA</dtt:Prijmeni>
+<dtt:Datum_narozeni>1969-09-14</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2015-05-28">
+<dtt:ID_adresy>25497668</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Uherské Hradiště</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Mařatice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Polní</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>778</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>68605</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2012-03-01</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2013-08-26" ddo="2014-04-24">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>2. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JIŘÍ</dtt:Jmeno>
+<dtt:Prijmeni>SAUER</dtt:Prijmeni>
+<dtt:Datum_narozeni>1976-04-04</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2013-08-26" ddo="2014-04-24">
+<dtt:ID_adresy>25497671</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Brandýs nad Labem-Stará Boleslav</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Stará Boleslav</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Generála Strankmüllera</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1600</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>25001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-08-01</dtt:Datum_zacatku>
+<dtt:Datum_konce>2014-03-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2013-01-09" ddo="2013-08-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>2. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Viliam</dtt:Jmeno>
+<dtt:Prijmeni>Holub</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-12-08</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2013-01-09" ddo="2013-08-26">
+<dtt:ID_adresy>25497670</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hovorčovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mezi Zahradami</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>486</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>25064</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2012-12-01</dtt:Datum_zacatku>
+<dtt:Datum_konce>2013-07-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2013-01-09" ddo="2015-06-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>1. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Beran</dtt:Prijmeni>
+<dtt:Datum_narozeni>1976-03-22</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2013-01-09" ddo="2015-06-18">
+<dtt:ID_adresy>25497669</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Klášterec nad Ohří</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Kostelní</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>67</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>43151</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2012-12-01</dtt:Datum_zacatku>
+<dtt:Datum_konce>2015-05-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-04-27" ddo="2015-05-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Roman</dtt:Jmeno>
+<dtt:Prijmeni>Planička</dtt:Prijmeni>
+<dtt:Datum_narozeni>1969-09-14</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-04-27" ddo="2015-05-28">
+<dtt:ID_adresy>25497665</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Uherské Hradiště</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Štěpnická</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1045</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>68606</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2012-03-01</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-01-05" ddo="2013-01-09">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>1. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Viliam</dtt:Jmeno>
+<dtt:Prijmeni>Holub</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1955-12-08</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-01-05" ddo="2013-01-09">
+<dtt:ID_adresy>25497666</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hovorčovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mezi Zahradami</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>486</dtt:Cislo_do_adresy>
+<dtt:PSC>25064</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-11-04</dtt:Datum_zacatku>
+<dtt:Datum_konce>2012-11-30</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-01-05" ddo="2013-01-09">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>2. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Velíšek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1956-11-29</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-01-05" ddo="2013-01-09">
+<dtt:ID_adresy>25497667</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 1</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Nové Město</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Ve Smečkách</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>603</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>13</dtt:Cislo_orientacni>
+<dtt:PSC>11000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-11-04</dtt:Datum_zacatku>
+<dtt:Datum_konce>2012-11-30</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2011-05-20" ddo="2012-01-05">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>1.zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Motyčka</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-01-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2011-05-20" ddo="2012-01-05">
+<dtt:ID_adresy>25497662</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 3</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Žižkov</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Pod Jarovem</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2035</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>26</dtt:Cislo_orientacni>
+<dtt:PSC>13000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-04-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2011-11-04</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2011-05-20" ddo="2012-01-05">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>3. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Velíšek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1956-11-29</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2011-05-20" ddo="2012-01-05">
+<dtt:ID_adresy>25497664</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 1</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Nové Město</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Ve Smečkách</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>603</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>13</dtt:Cislo_orientacni>
+<dtt:PSC>11000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-04-08</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-12-19" ddo="2012-04-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>doc.Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jindřich</dtt:Jmeno>
+<dtt:Prijmeni>Ploch</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1956-01-12</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-12-19" ddo="2012-04-27">
+<dtt:ID_adresy>25497660</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 5</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Volutová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2522</dtt:Cislo_do_adresy>
+<dtt:PSC>15500</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-11-01</dtt:Datum_zacatku>
+<dtt:Datum_konce>2012-01-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-07-18" ddo="2011-05-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>1. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Velíšek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1956-11-29</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-07-18" ddo="2011-05-20">
+<dtt:ID_adresy>25497661</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 1</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Nové Město</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Ve Smečkách</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>603/13</dtt:Cislo_do_adresy>
+<dtt:PSC>11000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-06-01</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-07-18" ddo="2012-01-05">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>2. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Viliam</dtt:Jmeno>
+<dtt:Prijmeni>Holub</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1955-12-08</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-07-18" ddo="2012-01-05">
+<dtt:ID_adresy>25497663</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hovorčovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mezi Zahradami</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>486</dtt:Cislo_do_adresy>
+<dtt:PSC>25064</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-06-01</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-07-10" ddo="2007-07-18">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Viliam</dtt:Jmeno>
+<dtt:Prijmeni>Holub</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1955-12-08</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-07-10" ddo="2007-07-18">
+<dtt:ID_adresy>25497659</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hovorčovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mezi Zahradami</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>486</dtt:Cislo_do_adresy>
+<dtt:PSC>25064</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-05-01</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-07-10" ddo="2007-12-19">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Hrdina</dtt:Prijmeni>
+<dtt:Datum_narozeni>1962-03-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-07-10" ddo="2007-12-19">
+<dtt:ID_adresy>25497658</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Brandýs nad Labem-Stará Boleslav</dtt:Nazev_obce>
+<dtt:Nazev_ulice>V olšinkách</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1735</dtt:Cislo_do_adresy>
+<dtt:PSC>25001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-04-05</dtt:Datum_zacatku>
+<dtt:Datum_konce>2007-10-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-05-28" ddo="2007-07-10">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Michal</dtt:Jmeno>
+<dtt:Prijmeni>Smrž</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-02-10</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-05-28" ddo="2007-07-10">
+<dtt:ID_adresy>25497655</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Novorossijská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>890/10</dtt:Cislo_do_adresy>
+<dtt:PSC>10000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-01-01</dtt:Datum_zacatku>
+<dtt:Datum_konce>2007-01-30</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-05-28" ddo="2007-07-10">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>1.zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Hrdina</dtt:Prijmeni>
+<dtt:Datum_narozeni>1962-03-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-05-28" ddo="2007-07-10">
+<dtt:ID_adresy>25497656</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Brandýs nad Labem-Stará Boleslav</dtt:Nazev_obce>
+<dtt:Nazev_ulice>V olšinkách</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1735</dtt:Cislo_do_adresy>
+<dtt:PSC>25001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-01-30</dtt:Datum_zacatku>
+<dtt:Datum_konce>2007-04-05</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-05-28" ddo="2007-07-10">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>2.zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1946-10-01</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-05-28" ddo="2007-07-10">
+<dtt:ID_adresy>25497657</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 9</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Střížkov</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Děčínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>464/3</dtt:Cislo_do_adresy>
+<dtt:PSC>19000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-01-30</dtt:Datum_zacatku>
+<dtt:Datum_konce>2007-05-01</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-04-03" ddo="2007-05-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Lubomír</dtt:Jmeno>
+<dtt:Prijmeni>Němejc</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-07-20</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-04-03" ddo="2007-05-28">
+<dtt:ID_adresy>25497652</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 5</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Živcových</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>445</dtt:Cislo_do_adresy>
+<dtt:PSC>15000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2006-03-02</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-12-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-04-03" ddo="2007-05-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>1. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1946-10-01</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-04-03" ddo="2007-05-28">
+<dtt:ID_adresy>25497653</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 9</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Střížkov</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Děčínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>464/3</dtt:Cislo_do_adresy>
+<dtt:PSC>19000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2006-03-03</dtt:Datum_zacatku>
+<dtt:Datum_konce>2007-01-30</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-04-03" ddo="2007-05-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>2. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Hrdina</dtt:Prijmeni>
+<dtt:Datum_narozeni>1962-03-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-04-03" ddo="2007-05-28">
+<dtt:ID_adresy>25497654</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Brandýs nad Labem-Stará Boleslav</dtt:Nazev_obce>
+<dtt:Nazev_ulice>V olšinkách</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1735</dtt:Cislo_do_adresy>
+<dtt:PSC>25001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2006-03-07</dtt:Datum_zacatku>
+<dtt:Datum_konce>2007-01-30</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-01-20" ddo="2006-04-03">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>1. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Lubomír</dtt:Jmeno>
+<dtt:Prijmeni>Němejc</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-07-20</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-01-20" ddo="2006-04-03">
+<dtt:ID_adresy>25497650</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 5</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Živcových</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>445</dtt:Cislo_do_adresy>
+<dtt:PSC>15000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2006-01-10</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-03-02</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-01-20" ddo="2006-04-03">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>2. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Radek</dtt:Jmeno>
+<dtt:Prijmeni>Orsák</dtt:Prijmeni>
+<dtt:Datum_narozeni>1969-09-12</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-01-20" ddo="2006-04-03">
+<dtt:ID_adresy>25497651</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Kostelec nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>T.G.Masaryka</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>242</dtt:Cislo_do_adresy>
+<dtt:PSC>27713</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2005-03-10</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-01-11</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2005-06-15" ddo="2006-01-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Radek</dtt:Jmeno>
+<dtt:Prijmeni>Orsák</dtt:Prijmeni>
+<dtt:Datum_narozeni>1969-09-12</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-06-15" ddo="2006-01-20">
+<dtt:ID_adresy>25497649</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Kostelec nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>T.G.Masaryka</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>242</dtt:Cislo_do_adresy>
+<dtt:PSC>27713</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2005-03-10</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2005-06-15" ddo="2006-04-03">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1946-10-01</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-06-15" ddo="2006-04-03">
+<dtt:ID_adresy>25497648</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 9</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Střížkov</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Děčínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>464/3</dtt:Cislo_do_adresy>
+<dtt:PSC>19000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2005-03-09</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-03-01</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2004-12-07" ddo="2005-06-15">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>2.zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1946-10-01</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-12-07" ddo="2005-06-15">
+<dtt:ID_adresy>25497647</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 9</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Střížkov</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Děčínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>464/3</dtt:Cislo_do_adresy>
+<dtt:PSC>19000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_konce>2005-03-09</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2004-09-17" ddo="2004-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>3.zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1946-10-01</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-09-17" ddo="2004-12-07">
+<dtt:ID_adresy>25497646</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 9</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Střížkov</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Děčínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>464/3</dtt:Cislo_do_adresy>
+<dtt:PSC>19000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2004-07-10" ddo="2004-09-17">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>3.zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Kamil</dtt:Jmeno>
+<dtt:Prijmeni>Horáček</dtt:Prijmeni>
+<dtt:Datum_narozeni>1951-08-13</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-07-10" ddo="2004-09-17">
+<dtt:ID_adresy>25497644</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha 10</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Záběhlice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Narcisová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2850/2</dtt:Cislo_do_adresy>
+<dtt:PSC>10600</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_konce>2004-04-16</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2004-07-10" ddo="2004-09-17">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>4.zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1946-10-01</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-07-10" ddo="2004-09-17">
+<dtt:ID_adresy>25497645</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Brno</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Hodonínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>628/3</dtt:Cislo_do_adresy>
+<dtt:PSC>61700</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2004-07-10" ddo="2004-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>2.zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Miškovský</dtt:Prijmeni>
+<dtt:Datum_narozeni>1954-04-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-07-10" ddo="2004-12-07">
+<dtt:ID_adresy>25497643</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha 4</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha 4</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Stýblova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>153/25</dtt:Cislo_do_adresy>
+<dtt:PSC>14900</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_konce>2004-11-01</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2004-07-10" ddo="2005-06-15">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>1.zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Dvořák</dtt:Prijmeni>
+<dtt:Datum_narozeni>1965-04-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-07-10" ddo="2005-06-15">
+<dtt:ID_adresy>25497642</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 3</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Květinková</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>348</dtt:Cislo_do_adresy>
+<dtt:PSC>13000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_konce>2005-03-10</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2003-12-11" ddo="2004-07-10">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Miškovský</dtt:Prijmeni>
+<dtt:Datum_narozeni>1954-04-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-12-11" ddo="2004-07-10">
+<dtt:ID_adresy>25497638</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha 4</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha 4</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Stýblova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>153/25</dtt:Cislo_do_adresy>
+<dtt:PSC>14900</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2003-12-11" ddo="2004-07-10">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Kamil</dtt:Jmeno>
+<dtt:Prijmeni>Horáček</dtt:Prijmeni>
+<dtt:Datum_narozeni>1951-08-13</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-12-11" ddo="2004-07-10">
+<dtt:ID_adresy>25497639</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha 10</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Záběhlice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Narcisová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2850/2</dtt:Cislo_do_adresy>
+<dtt:PSC>10600</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2003-12-11" ddo="2004-07-10">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Dvořák</dtt:Prijmeni>
+<dtt:Datum_narozeni>1965-04-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-12-11" ddo="2004-07-10">
+<dtt:ID_adresy>25497640</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 3</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Květinková</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>348</dtt:Cislo_do_adresy>
+<dtt:PSC>13000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2003-12-11" ddo="2004-07-10">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1946-10-01</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-12-11" ddo="2004-07-10">
+<dtt:ID_adresy>25497641</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Brno</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Hodonínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>628/3</dtt:Cislo_do_adresy>
+<dtt:PSC>61700</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2003-11-05" ddo="2005-04-15">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Vratislav</dtt:Jmeno>
+<dtt:Prijmeni>Máslo</dtt:Prijmeni>
+<dtt:Datum_narozeni>1961-03-04</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-11-05" ddo="2005-04-15">
+<dtt:ID_adresy>25497634</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 5</dtt:Nazev_obce>
+<dtt:Nazev_ulice>U jezera</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2042</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_konce>2005-03-02</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2003-07-14" ddo="2003-11-05">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Švarc</dtt:Prijmeni>
+<dtt:Datum_narozeni>1958-09-23</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-07-14" ddo="2003-11-05">
+<dtt:ID_adresy>25497633</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Turnov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Luční</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>606</dtt:Cislo_do_adresy>
+<dtt:PSC>51101</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2003-07-14" ddo="2003-12-11">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Kamil</dtt:Jmeno>
+<dtt:Prijmeni>Horáček</dtt:Prijmeni>
+<dtt:Bydliste dod="2003-07-14" ddo="2003-12-11">
+<dtt:ID_adresy>25497637</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha 10</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Záběhlice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Narcisová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2850/2</dtt:Cislo_do_adresy>
+<dtt:PSC>10600</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2002-09-25" ddo="2003-07-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Fousek</dtt:Prijmeni>
+<dtt:Bydliste dod="2002-09-25" ddo="2003-07-14">
+<dtt:ID_adresy>25497632</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>České Budějovice</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Hlincova Hora 82</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>pošta Rudolfov</dtt:Nazev_casti_obce>
+<dtt:PSC>37371</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-07-14" ddo="2003-07-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Kamil</dtt:Jmeno>
+<dtt:Prijmeni>Horáček</dtt:Prijmeni>
+<dtt:Bydliste dod="1997-07-14" ddo="2003-07-14">
+<dtt:ID_adresy>25497636</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha 10</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Zápasnická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>877</dtt:Cislo_do_adresy>
+<dtt:PSC>10200</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-07-14" ddo="2003-12-11">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Miškovský</dtt:Prijmeni>
+<dtt:Bydliste dod="1997-07-14" ddo="2003-12-11">
+<dtt:ID_adresy>25497635</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha 4</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha 4</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Stýblova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>153/25</dtt:Cislo_do_adresy>
+<dtt:PSC>14900</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1995-12-14" ddo="1997-07-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Běhunčík</dtt:Prijmeni>
+<dtt:Bydliste dod="1995-12-14" ddo="1997-07-14">
+<dtt:ID_adresy>25497628</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 4</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Brechtova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>781</dtt:Cislo_do_adresy>
+<dtt:PSC>14900</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1995-12-14" ddo="1997-07-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Kamil</dtt:Jmeno>
+<dtt:Prijmeni>Horáček</dtt:Prijmeni>
+<dtt:Bydliste dod="1995-12-14" ddo="1997-07-14">
+<dtt:ID_adresy>25497629</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha 10</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>V olšinách</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>25</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1995-12-14" ddo="2002-09-25">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Fousek</dtt:Prijmeni>
+<dtt:Bydliste dod="1995-12-14" ddo="2002-09-25">
+<dtt:ID_adresy>25497631</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Plzeňská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>77</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1994-11-22" ddo="1995-12-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>pplk.</dtt:Titul_pred>
+<dtt:Jmeno>Karek</dtt:Jmeno>
+<dtt:Prijmeni>Fousek</dtt:Prijmeni>
+<dtt:Bydliste dod="1994-11-22" ddo="1995-12-14">
+<dtt:ID_adresy>25497626</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Plzeňská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>77</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1994-11-22" ddo="1995-12-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>pplk.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Běhunčík</dtt:Prijmeni>
+<dtt:Bydliste dod="1994-11-22" ddo="1995-12-14">
+<dtt:ID_adresy>25497627</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 4</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Brechtova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>781</dtt:Cislo_do_adresy>
+<dtt:PSC>14000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1989-08-16" ddo="1994-11-22">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>1. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>pplk.</dtt:Titul_pred>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Fousek</dtt:Prijmeni>
+<dtt:Bydliste dod="1989-08-16" ddo="1994-11-22">
+<dtt:ID_adresy>25497623</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>České Budějovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Plzeňská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>77</dtt:Cislo_do_adresy>
+<dtt:PSC>37001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1989-08-16" ddo="1994-11-22">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>2. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>pplk.ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Mančík</dtt:Prijmeni>
+<dtt:Bydliste dod="1989-08-16" ddo="1994-11-22">
+<dtt:ID_adresy>25497624</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Baškirská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1405</dtt:Cislo_do_adresy>
+<dtt:PSC>10000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1989-08-16" ddo="1994-11-22">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>3. zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>pplk.ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Běhunčík</dtt:Prijmeni>
+<dtt:Bydliste dod="1989-08-16" ddo="1994-11-22">
+<dtt:ID_adresy>25497625</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 4</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Brechtova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>781</dtt:Cislo_do_adresy>
+<dtt:PSC>14000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1989-06-30" ddo="2003-07-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Vladimír</dtt:Jmeno>
+<dtt:Prijmeni>Zasadil</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1946-11-22</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1989-06-30" ddo="2003-07-14">
+<dtt:ID_adresy>25497630</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Uzbecká</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1463</dtt:Cislo_do_adresy>
+<dtt:PSC>10000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Text dod="2006-01-20">
+Za podnik jedná ředitel, v době jeho nepřítomnosti zastupuje ředitele v plném rozsahu jeho zástupce dle určeného pořadí.
+</dtt:Text>
+<dtt:Text dod="1989-08-16" ddo="2006-01-20">
+Za podnik jedná ředitel nebo jeho zástupce.
+
+K názvu podniku připojí svůj podpis ředitel nebo jeho zá-
+
+stupce.
+</dtt:Text>
+</dtt:Statutarni_organ>
+<dtt:Zakladatele_OPS>
+<dtt:Zakladatel_OPS dod="1995-12-14">
+<dtt:Kod_angm>33</dtt:Kod_angm>
+<dtt:Pravnicka_osoba dod="1995-12-14">
+<dtt:Obchodni_firma>Ministerstvo obrany ČR</dtt:Obchodni_firma>
+<dtt:Sidlo dod="1995-12-14">
+<dtt:ID_adresy>25497680</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha</dtt:Nazev_obce>
+</dtt:Sidlo>
+</dtt:Pravnicka_osoba>
+</dtt:Zakladatel_OPS>
+</dtt:Zakladatele_OPS>
+<dtt:Vedouci_odstepnych_zavodu>
+<dtt:Vedouci_OZ dod="2012-09-24" ddo="2013-02-06">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Beran</dtt:Prijmeni>
+<dtt:Datum_narozeni>1976-03-22</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-09-24" ddo="2013-02-06">
+<dtt:ID_adresy>25497679</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Klášterec nad Ohří</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Kostelní</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>67</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>43151</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci_OZ>
+<dtt:Vedouci_OZ dod="2010-09-07" ddo="2014-05-14">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Prokop</dtt:Prijmeni>
+<dtt:Titul_za>MBA</dtt:Titul_za>
+<dtt:Datum_narozeni>1962-12-11</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2010-09-07" ddo="2014-05-14">
+<dtt:ID_adresy>25497674</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 4</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Michle</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Pelhřimovská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>338</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>7</dtt:Cislo_orientacni>
+<dtt:PSC>14000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci_OZ>
+<dtt:Vedouci_OZ dod="2009-01-22" ddo="2012-09-24">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Irovský</dtt:Prijmeni>
+<dtt:Datum_narozeni>1976-04-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2009-01-22" ddo="2012-09-24">
+<dtt:ID_adresy>25497678</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hluboká nad Vltavou</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Fügnerova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>685</dtt:Cislo_do_adresy>
+<dtt:PSC>37341</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci_OZ>
+<dtt:Vedouci_OZ dod="2006-12-06" ddo="2009-01-22">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Viliam</dtt:Jmeno>
+<dtt:Prijmeni>Holub</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1955-12-08</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-12-06" ddo="2009-01-22">
+<dtt:ID_adresy>25497677</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha-východ</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Hovorčovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mezi Zahradami</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>486</dtt:Cislo_do_adresy>
+<dtt:PSC>25064</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci_OZ>
+<dtt:Vedouci_OZ dod="2005-06-15" ddo="2006-12-06">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Radek</dtt:Jmeno>
+<dtt:Prijmeni>Orsák</dtt:Prijmeni>
+<dtt:Datum_narozeni>1969-09-12</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-06-15" ddo="2006-12-06">
+<dtt:ID_adresy>25497676</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Kostelec nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>T.G.Masaryka</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>242</dtt:Cislo_do_adresy>
+<dtt:PSC>27713</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci_OZ>
+<dtt:Vedouci_OZ dod="2004-09-17" ddo="2005-06-15">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Bydliste dod="2004-09-17" ddo="2005-06-15">
+<dtt:ID_adresy>25497675</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 9</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Střížkov</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Děčínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>464/3</dtt:Cislo_do_adresy>
+<dtt:PSC>19000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci_OZ>
+<dtt:Vedouci_OZ dod="2004-02-07" ddo="2004-09-17">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Bydliste dod="2004-02-07" ddo="2004-09-17">
+<dtt:ID_adresy>25497673</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Brno</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Hodonínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>628/3</dtt:Cislo_do_adresy>
+<dtt:PSC>61700</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci_OZ>
+</dtt:Vedouci_odstepnych_zavodu>
+<dtt:Konkurzy_vyrovnani>
+<dtt:Ukon>
+<dtt:Insolvence>
+<dtt:Udaje_KVZ>
+<dtt:Txt_KVZ>
+<dtt:Text>
+Na základě usnesení Městského soudu v Praze č.j. MSPH 99 INS 32043/2015-A-6 ze dne 23.12.2015, které nabylo právní moci dne 27.4.2016, byl insolvenční návrh odmítnut.
+</dtt:Text>
+</dtt:Txt_KVZ>
+</dtt:Udaje_KVZ>
+</dtt:Insolvence>
+</dtt:Ukon>
+<dtt:Ukon>
+<dtt:Insolvence>
+<dtt:Udaje_KVZ>
+<dtt:Txt_KVZ>
+<dtt:Text>
+Insolvenční řízení bylo ukončeno na základě usnesení Městského soudu v Praze č.j. MSPH 99 INS 32043/2015-A-6 ze dne 23.prosince 2015 a na základě usnesení Vrchního soudu v Praze č.j. MSPH 99 INS 32043/2015, 1 VSPH 68/2016-A-14 ze dne 12.4.2016. Účinky spo
+jené se zahájením insolvenčního řízení zanikly dne 23.12.2015 v 9:55 hodin.
+</dtt:Text>
+</dtt:Txt_KVZ>
+<dtt:Txt_KVZ>
+<dtt:Text>
+Insolvenční řízení bylo zahájeno na základě vyhlášky Městského soudu v Praze č.j. MSPH 99 INS 32043/2015-A-2 ze dne 23.12.2015. Účinky zahájení insolvenčního řízení nastaly dne 23.12.2015 v 08:46 hodin.
+</dtt:Text>
+</dtt:Txt_KVZ>
+</dtt:Udaje_KVZ>
+</dtt:Insolvence>
+</dtt:Ukon>
+</dtt:Konkurzy_vyrovnani>
+<dtt:Odstepne_zavody>
+<dtt:Odstepny_zavod>
+<dtt:Obchodni_firma dod="2010-09-07" ddo="2014-05-14">LOM PRAHA s.p., odštěpný závod Letecké pístové motory</dtt:Obchodni_firma>
+<dtt:Sidlo dod="2010-09-07" ddo="2014-05-14">
+<dtt:ID_adresy>25497618</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Malešice</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Tiskařská</dtt:Nazev_ulice>
+<dtt:Cislo_orientacni>8</dtt:Cislo_orientacni>
+<dtt:PSC>10038</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Cinnosti>
+<dtt:Predmet_podnikani>
+<dtt:Text dod="2016-05-10">
+Projekce, výroba, údržba, opravy a modernizace letecké techniky pro nevojenské provozovatele, včetně vedení technické dokumentace, na základě smluvních vztahů.
+</dtt:Text>
+<dtt:Text dod="2014-02-15">
+Nakládání se svěřenými státními lesy v působnosti Ministerstva obrany
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Uspokojování strategických a dalších podstatných zájmů státu v oblasti obrany a bezpečnosti a rozvoje schopností Armády České republiky a dalších ozbrojených bezpečnostních sborů a integrovaného záchranného systému výkonem činnosti průmyslové a obchodní p
+ovahy při zajišťování dodávek a služeb potřebných pro zabezpečení obrany a bezpečnosti České republiky a plnění závazků vyplývajících z členství České republiky v NATO a EU.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Přednostní strategické dodávky a služby pro obranu a bezpečnost státu, generální a jiné opravy vojenské techniky, výroby a dodávky nové speciální techniky, modernizace speciální vojenské techniky a materiálů, výzbroje a jejich zkoušení, montážní a servisn
+í služby a technická pomoc vojskům.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Zajišťování požadované úrovně ochrany utajovaných informací.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výzkum, vývoj projektování, výroba, zkoušky, instalace, údržba, opravy, modifikace a konstrukční změny letadel/letecké techniky, výrobků, motorů letadel, vrtulí, letadlových částí a zařízení a leteckých pozemních zařízení.
+
+
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Posuzování a ověřování letové způsobilosti, provozní způsobilosti nebo uvolnění do provozu, kontrolou, posuzováním a ověřováním shody vlastností letecké techniky. 
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výuka a výcvik na letecké technice.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Letecké práce a další letecké činnosti.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Provozování letišť, letecké služby, letové provozní služby, letecké práce a další letecké činnosti, další související činnosti a služby. 
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Provádění zahraničního obchodu s vojenským materiálem v rozsahu povolení vydaného podle zákona č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem a o doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdě
+jších předpisů a zákona č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů. 
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Nákup a prodej, půjčování, vývoj, výroba, opravy, úpravy, uschovávání, skladování, přeprava, znehodnocování a ničení bezpečnostního materiálu.
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Přeprava, nákup, prodej, půjčování a uschovávání zbraní a střeliva.
+
+
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Kovy a kovové výrobky, zejména klempířství a oprava karoserií, zámečnictví, nástrojářství, obráběčství, galvanizérství, smaltérství, kovářství a podkovářství.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Montáž, opravy, revize a zkoušky elektrických zařízení
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Opravy ostatních dopravních prostředků a pracovních strojů.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Opravy silničních vozidel.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Technicko-organizační činnost v oblasti požární ochrany.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Poskytování služeb v oblasti bezpečnosti a ochrany zdraví při práci
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Činnost účetních poradců, vedení účetnictví, vedení daňové evidence      
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Zpracování dat, služby databank, správa sítí.      
+
+
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona 
+
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+výroba a opravy letecké techniky
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+koupě zboží za účelem jeho dalšího prodeja a prodej
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+testování, měření a analýzy
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+výuka obsluhy (řízení) technických zařízení
+</dtt:Text>
+<dtt:Text dod="2007-10-17" ddo="2013-06-14">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu povolení vydaného podle zákona č. 38/1994 Sb.
+</dtt:Text>
+<dtt:Text dod="2006-12-06" ddo="2013-06-14">
+provádění oprav speciální techniky a zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů vojenské pozemní techniky
+</dtt:Text>
+<dtt:Text dod="2006-12-06" ddo="2013-06-14">
+výroba, instalace a opravy elektrických strojů a přístrojů
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2007-10-17">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení po změně vydaného podle zákona č. 38/1994 Sb. č.j.
+
+P-199f č. R040799033 ze dne 8.4.2003:
+
+SMV 1 - Zbraně a jejich speciálně konstruované součásti
+
+SMV 3 - Střelivo a jeho speciálně konstruované součásti pro zbraně uvedené v položkách SVM 1, SVM 2 a SVM 23
+
+SVM 4 - Bomby, torpéda, rakety a střely a jejich speciálně
+
+konstruované součásti
+
+SVM 5 - Systémy a podsystémy řízení palby speciálně konstruované
+
+pro vojenské použití a jejich speciálně konstruované součásti a
+
+příslušenství
+
+SVM 6 - Vozidla speciálně konstruovaná nebo upravená pro vojenské použití a jejich speciálně konstruované součásti
+
+SVM - 7 Toxikologické prostředky , slzný plyn, příslušná
+
+zařízení, součásti, materiály a technologie - pouze podpoložky
+
+d), e)
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 11 - Elektronická zařízení speciálně konstruovaná pro
+
+vojenské použití a jejich speciálně konstruované součásti
+
+SVM 12 - Fotografická a elektrooptická zobrazovací zařízení a
+
+pro ně speciálně konstruované součásti
+
+SVM 13 - Speciální pancéřové materiály
+
+SVM 14 - Speciální zařízení pro vojenský výcvik nebo pro simulování vojenských situací a speciálně konstruované součásti a příslušenství pro tato zařízení
+
+SVM 15 - Vojenská infračervená zařízení, tepelně zobrazující a
+
+obraz zesilující zařízení a pro tato zařízení speciálně
+
+konstruované součásti
+
+SVM 17 - Různá zařízení a matriály a pro ně speciálně konstruované součásti
+
+SVM 18 - Zařízení a technologie pro &quot;výrobu&quot; výrobků uvedených v tomto povolení
+
+SVM 22 - Programové vybavení, pokud je určeno pro výrobky uvedené v tomto povolení - kromě položky b)2
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření
+
+Afghanistán, Alžírsko, Angola, Argentina, Austrálie, Bangladéš, Belgie, Bělorusko, Brazílie, Bulharsko, Čína, Dánsko, Egypt, Ekvádor, Estonsko, Etiopie, Finsko, Francie, Gruzie, Chile, Chorvatsko, Indie, Indonésie, Irák, Island, Itálie, Izrael, Jemen, Jih
+oafrická republika, Kambodža, Kanada, Kazachstán, Keňa, Kolumbie, Kojeská republika, Kuvajt, Kyperská republika, Laos, Libye, Litva, Lotyšsko, Lucembursko, Maďarsko, Makedonie, Malajsie, Malat, maroko, Mexiko, Moldávie, Monako, Mongolsko, Mosambik, Namíbi
+e, Nepál, Německo, Niger, Nigérie, Nikaragua, Nizozemí, Norsko, Nový Zéland, Oman, Panama, Paraguay, Pakistán, Peru, Polsko, Portugalsko, Rakousko, Rumunsko, Ruská federace, Řecko, Salvádor, San Marino, Saudská Arabie, Singapur, Slovesnko, Slovinsko, Spoj
+ené arabské emiráty, Srí Lanka, Španělsko, Švédsko, Švýcarsko, Thajsko, Tchaj-wan, Tunisko, Turecko, Turkmenistán, Uganda, Ukrajina, Uruguay, USA, Uzbekistán, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2013-06-14">
+činnost podnikatelských, finančních, organizačních a ekonomických poradců
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2013-06-14">
+činnost účetních poradců, vedení účetnictví, vedení daňové evidence
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2013-06-14">
+galvanizérství
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+provádění oprav speciální techniky a zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů i nově vznikajících potřeb AČR s přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+výroba a opravy letecké techniky
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+výzkumné a vývojové práce v oblasti společenských a přírodních věd
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+koupě zboží za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-06-14">
+provádění oprav speciální techniky a zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů i nově vznikajících potřeb AČR s přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-06-14">
+výzkum a vývoj v oblasti přírodních a technických věd nebo společenských věd
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2004-02-07">
+provádění oprav speciální techniky a zajišťování vývojových, vý-
+
+robních a opravářských úkolů i nově vznikajících potřeb AČR a
+
+přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2006-01-20">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení po změně vydaného podle zákona č. 38/1994 Sb. č.j.
+
+P-199f č. R040799033 ze dne 8.4.2003:
+
+SMV 1 - Zbraně a jejich speciálně konstruované součásti
+
+SMV 3 - Střelivo a jeho speciálně konstruované součásti pro zbraně uvedené v položkách SVM 1, SVM 2 a SVM 23
+
+SVM 4 - Bomby, torpéda, rakety a střely a jejich speciálně
+
+konstruované součásti
+
+SVM 5 - Systémy a podsystémy řízení palby speciálně konstruované
+
+pro vojenské použití a jejich speciálně konstruované součásti a
+
+příslušenství
+
+SVM 6 - Vozidla speciálně konstruovaná nebo upravená pro vojenské použití a jejich speciálně konstruované součásti
+
+SVM - 7 Toxikologické prostředky , slzný plyn, příslušná
+
+zařízení, součásti, materiály a technologie - pouze podpoložky
+
+d), e)
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 11 - Elektronická zařízení speciálně konstruovaná pro
+
+vojenské použití a jejich speciálně konstruované součásti
+
+SVM 12 - Fotografická a elektrooptická zobrazovací zařízení a
+
+pro ně speciálně konstruované součásti
+
+SVM 13 - Speciální pancéřové materiály
+
+SVM 14 - Speciální zařízení pro vojenský výcvik nebo pro simulování vojenských situací a speciálně konstruované součásti a příslušenství pro tato zařízení
+
+SVM 15 - Vojenská infračervená zařízení, tepelně zobrazující a
+
+obraz zesilující zařízení a pro tato zařízení speciálně
+
+konstruované součásti
+
+SVM 22 - Programové vybavení, pokud je určeno pro výrobky uvedené v tomto povolení - kromě položky b)2
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření Alžírsko, Argentina, Bangladéš, Belgie, Bělorusko, Bulharsko, Čína, Egypt, Ekvádor, Estonsko, Etiopie, Finsko, Francie, Gruzie, Chorvatsko, Indie, Itálie, Izrael, Kambodža, Kanada, Kazachstán, Kypr, Laos,
+
+Litva, Lotyšsko, Maďarsko, Makedonie, Mexiko, Německo, Nigérie, Nizozemí, Peru, Polsko, Rumunsko, Ruská federace, Slovensko, Slovinsko, Srí Lanka, Sýrie, Španělsko, Švédsko, Thajsko, Tunisko, Ukrajina, USA, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+přeprava, nákup, prodej zbraní
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+nákup, prodej, přeprava střeliva
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+testování, měření a analýzy
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+vázání a konečné zpracování knih
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+poskytování software a poradenství v oblasti hardware a software
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+překladatelská a tlumočnická činnost
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+pořádání odborných kurzů, školení a jiných vzdělávacích akcí včetně lektorské činnosti
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+výuka obsluhy (řízení) technických zařízení
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+kopírovací práce
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+zpracování dat, služby databank, správa sítí
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+vývoj, projektování, výroba, zkoušky, údržba, opravy, modifikace, zástavba, servis a konstrukční změny vojenských letadel, jejich součástí a výrobků vojenské letecké techniky
+</dtt:Text>
+<dtt:Text dod="2002-09-25" ddo="2003-11-05">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení po změně vydaného podle zákona č. 38/1994 Sb. č.j.
+
+P-199d č. R040799033 ze dne 29.05.2002:
+
+SVM 4 - Bomby, torpéda, rakety a střely a jejich speciálně
+
+konstruované součásti - pouze podpoložka b)
+
+SVM 5 - Systémy a posystémy řízení palby speciálně konstruované
+
+pro vojenské použití a jejich speciálně konstruované součásti a
+
+příslušenství
+
+SVM - 7 Toxikologické prostředky , slzný plyn, příslušná
+
+zařízení, součásti, materiály a technologie - pouze podpoložky
+
+d), e)
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 11 - Elektronická zařízení speciálně konstruovaná pro
+
+vojenká použití a jejich speciálně konstruované součásti
+
+SVM 12 - Fotografická a elektrooptická zobrazovací zařízení a
+
+pro ně speciálně konstruované součásti
+
+SVM 15 - Vojenská infračervená zařízení, tepelně zobrazující a
+
+obraz zesilující zařízení a pro tato zařízení speciálně
+
+konstruované součásti
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření Alžírsko, Bangladéš, Belgie, Bělorusko,
+
+Bulharsko, Egypt, Estonsko, Etiopie, Finsko, Francie, Gruzie,
+
+Chorvatsko, Indie, Itálie, Izrael, Kanada, Kazachstán, Kypr,
+
+Litva, Lotyšsko, Maďarsko, Makedonie, Mexiko, Německo, Nigérie,
+
+Nizozemí, Polsko, Rumunsko, Ruská federace, Slovensko,
+
+Slovinsko, Srí Lanka, Sýrie, Španělsko, Švédsko, Thajsko,
+
+Tunisko, Ukrajina, USA, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="1999-10-04" ddo="2002-09-25">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení vydaného podle zák. č. 38/1994 Sb. č.j. P-199
+
+č. R040799033 ze dne 29.7.1999:
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření Alžírsko, Bangladéš, Belgie, Bělorusko,
+
+Bulharsko, Egypt, Estonsko, Etiopie, Finsko, Francie, Gruzie,
+
+Indie, Itálie, Izrael, Kanada, Kazachstán, Kypr, Litva,
+
+Lotyšsko, Maďarsko, Makedonie, Mexiko, Německo, Nigérie,
+
+Nizozemí, Polsko, Rumunsko, Ruská federace, Slovensko,
+
+Slovinsko, Srí Lanka, Sýrie, Španělsko, Švédsko, Thajsko,
+
+Tunisko, Ukrajina, USA, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="1998-02-24" ddo="2013-06-14">
+výroba a opravy letecké techniky
+</dtt:Text>
+<dtt:Text dod="1998-02-24" ddo="2013-06-14">
+koupě zboží za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="1994-11-10" ddo="1999-10-04">
+provádění zahraničního obchodu s vojenským materiálem v
+
+rozsahu povolení vydaného podle zákona č.38/1994 Sb.
+
+/Povolení č.j.P-44, č.R990994033 ze dne 27.9.1994 vydané mi-
+
+nisterstvem průmyslu a obchodu ČR/
+</dtt:Text>
+<dtt:Text dod="1991-09-20" ddo="1998-02-24">
+uspokojování veřejně prospěšných zájmů
+</dtt:Text>
+<dtt:Text dod="1989-06-30" ddo="2003-11-05">
+provádění oprav speciální techniky a zajišťování vývojových, vý-
+
+robních a opravářských úkolů i nově vznikajících potřeb ČSLA a
+
+přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+</dtt:Predmet_podnikani>
+</dtt:Cinnosti>
+<dtt:Vedouci dod="2010-09-07" ddo="2014-05-14">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Prokop</dtt:Prijmeni>
+<dtt:Titul_za>MBA</dtt:Titul_za>
+<dtt:Datum_narozeni>1962-12-11</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2010-09-07" ddo="2014-05-14">
+<dtt:ID_adresy>25497674</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 4</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Michle</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Pelhřimovská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>338</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>7</dtt:Cislo_orientacni>
+<dtt:PSC>14000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci>
+</dtt:Odstepny_zavod>
+<dtt:Odstepny_zavod dod="2010-09-07" ddo="2014-05-14">
+<dtt:Obchodni_firma dod="2004-02-07" ddo="2013-02-06">LOM PRAHA s.p., odštěpný závod VTÚLaPVO</dtt:Obchodni_firma>
+<dtt:Sidlo dod="2004-02-07" ddo="2013-02-06">
+<dtt:ID_adresy>25497617</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 9</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Kbely</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Mladoboleslavská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>944</dtt:Cislo_do_adresy>
+<dtt:PSC>19706</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Cinnosti>
+<dtt:Predmet_podnikani>
+<dtt:Text dod="2016-05-10">
+Projekce, výroba, údržba, opravy a modernizace letecké techniky pro nevojenské provozovatele, včetně vedení technické dokumentace, na základě smluvních vztahů.
+</dtt:Text>
+<dtt:Text dod="2014-02-15">
+Nakládání se svěřenými státními lesy v působnosti Ministerstva obrany
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Uspokojování strategických a dalších podstatných zájmů státu v oblasti obrany a bezpečnosti a rozvoje schopností Armády České republiky a dalších ozbrojených bezpečnostních sborů a integrovaného záchranného systému výkonem činnosti průmyslové a obchodní p
+ovahy při zajišťování dodávek a služeb potřebných pro zabezpečení obrany a bezpečnosti České republiky a plnění závazků vyplývajících z členství České republiky v NATO a EU.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Přednostní strategické dodávky a služby pro obranu a bezpečnost státu, generální a jiné opravy vojenské techniky, výroby a dodávky nové speciální techniky, modernizace speciální vojenské techniky a materiálů, výzbroje a jejich zkoušení, montážní a servisn
+í služby a technická pomoc vojskům.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Zajišťování požadované úrovně ochrany utajovaných informací.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výzkum, vývoj projektování, výroba, zkoušky, instalace, údržba, opravy, modifikace a konstrukční změny letadel/letecké techniky, výrobků, motorů letadel, vrtulí, letadlových částí a zařízení a leteckých pozemních zařízení.
+
+
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Posuzování a ověřování letové způsobilosti, provozní způsobilosti nebo uvolnění do provozu, kontrolou, posuzováním a ověřováním shody vlastností letecké techniky. 
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výuka a výcvik na letecké technice.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Letecké práce a další letecké činnosti.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Provozování letišť, letecké služby, letové provozní služby, letecké práce a další letecké činnosti, další související činnosti a služby. 
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Provádění zahraničního obchodu s vojenským materiálem v rozsahu povolení vydaného podle zákona č. 38/1994 Sb., o zahraničním obchodu s vojenským materiálem a o doplnění zákona č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdě
+jších předpisů a zákona č. 140/1961 Sb., trestní zákon, ve znění pozdějších předpisů. 
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Nákup a prodej, půjčování, vývoj, výroba, opravy, úpravy, uschovávání, skladování, přeprava, znehodnocování a ničení bezpečnostního materiálu.
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Přeprava, nákup, prodej, půjčování a uschovávání zbraní a střeliva.
+
+
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Kovy a kovové výrobky, zejména klempířství a oprava karoserií, zámečnictví, nástrojářství, obráběčství, galvanizérství, smaltérství, kovářství a podkovářství.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Montáž, opravy, revize a zkoušky elektrických zařízení
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Opravy ostatních dopravních prostředků a pracovních strojů.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Opravy silničních vozidel.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Technicko-organizační činnost v oblasti požární ochrany.
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Poskytování služeb v oblasti bezpečnosti a ochrany zdraví při práci
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Činnost účetních poradců, vedení účetnictví, vedení daňové evidence      
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Zpracování dat, služby databank, správa sítí.      
+
+
+
+</dtt:Text>
+<dtt:Text dod="2013-06-14">
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona 
+
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+výroba a opravy letecké techniky
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+koupě zboží za účelem jeho dalšího prodeja a prodej
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+testování, měření a analýzy
+</dtt:Text>
+<dtt:Text dod="2010-09-07" ddo="2014-05-14">
+výuka obsluhy (řízení) technických zařízení
+</dtt:Text>
+<dtt:Text dod="2007-10-17" ddo="2013-06-14">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu povolení vydaného podle zákona č. 38/1994 Sb.
+</dtt:Text>
+<dtt:Text dod="2006-12-06" ddo="2013-06-14">
+provádění oprav speciální techniky a zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů vojenské pozemní techniky
+</dtt:Text>
+<dtt:Text dod="2006-12-06" ddo="2013-06-14">
+výroba, instalace a opravy elektrických strojů a přístrojů
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2007-10-17">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení po změně vydaného podle zákona č. 38/1994 Sb. č.j.
+
+P-199f č. R040799033 ze dne 8.4.2003:
+
+SMV 1 - Zbraně a jejich speciálně konstruované součásti
+
+SMV 3 - Střelivo a jeho speciálně konstruované součásti pro zbraně uvedené v položkách SVM 1, SVM 2 a SVM 23
+
+SVM 4 - Bomby, torpéda, rakety a střely a jejich speciálně
+
+konstruované součásti
+
+SVM 5 - Systémy a podsystémy řízení palby speciálně konstruované
+
+pro vojenské použití a jejich speciálně konstruované součásti a
+
+příslušenství
+
+SVM 6 - Vozidla speciálně konstruovaná nebo upravená pro vojenské použití a jejich speciálně konstruované součásti
+
+SVM - 7 Toxikologické prostředky , slzný plyn, příslušná
+
+zařízení, součásti, materiály a technologie - pouze podpoložky
+
+d), e)
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 11 - Elektronická zařízení speciálně konstruovaná pro
+
+vojenské použití a jejich speciálně konstruované součásti
+
+SVM 12 - Fotografická a elektrooptická zobrazovací zařízení a
+
+pro ně speciálně konstruované součásti
+
+SVM 13 - Speciální pancéřové materiály
+
+SVM 14 - Speciální zařízení pro vojenský výcvik nebo pro simulování vojenských situací a speciálně konstruované součásti a příslušenství pro tato zařízení
+
+SVM 15 - Vojenská infračervená zařízení, tepelně zobrazující a
+
+obraz zesilující zařízení a pro tato zařízení speciálně
+
+konstruované součásti
+
+SVM 17 - Různá zařízení a matriály a pro ně speciálně konstruované součásti
+
+SVM 18 - Zařízení a technologie pro &quot;výrobu&quot; výrobků uvedených v tomto povolení
+
+SVM 22 - Programové vybavení, pokud je určeno pro výrobky uvedené v tomto povolení - kromě položky b)2
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření
+
+Afghanistán, Alžírsko, Angola, Argentina, Austrálie, Bangladéš, Belgie, Bělorusko, Brazílie, Bulharsko, Čína, Dánsko, Egypt, Ekvádor, Estonsko, Etiopie, Finsko, Francie, Gruzie, Chile, Chorvatsko, Indie, Indonésie, Irák, Island, Itálie, Izrael, Jemen, Jih
+oafrická republika, Kambodža, Kanada, Kazachstán, Keňa, Kolumbie, Kojeská republika, Kuvajt, Kyperská republika, Laos, Libye, Litva, Lotyšsko, Lucembursko, Maďarsko, Makedonie, Malajsie, Malat, maroko, Mexiko, Moldávie, Monako, Mongolsko, Mosambik, Namíbi
+e, Nepál, Německo, Niger, Nigérie, Nikaragua, Nizozemí, Norsko, Nový Zéland, Oman, Panama, Paraguay, Pakistán, Peru, Polsko, Portugalsko, Rakousko, Rumunsko, Ruská federace, Řecko, Salvádor, San Marino, Saudská Arabie, Singapur, Slovesnko, Slovinsko, Spoj
+ené arabské emiráty, Srí Lanka, Španělsko, Švédsko, Švýcarsko, Thajsko, Tchaj-wan, Tunisko, Turecko, Turkmenistán, Uganda, Ukrajina, Uruguay, USA, Uzbekistán, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2013-06-14">
+činnost podnikatelských, finančních, organizačních a ekonomických poradců
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2013-06-14">
+činnost účetních poradců, vedení účetnictví, vedení daňové evidence
+</dtt:Text>
+<dtt:Text dod="2006-01-20" ddo="2013-06-14">
+galvanizérství
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+provádění oprav speciální techniky a zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů i nově vznikajících potřeb AČR s přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+výroba a opravy letecké techniky
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+výzkumné a vývojové práce v oblasti společenských a přírodních věd
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-02-06">
+koupě zboží za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-06-14">
+provádění oprav speciální techniky a zajišťování vývojových, výzkumných, výrobních, opravářských a modernizačních úkolů i nově vznikajících potřeb AČR s přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+<dtt:Text dod="2004-02-07" ddo="2013-06-14">
+výzkum a vývoj v oblasti přírodních a technických věd nebo společenských věd
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2004-02-07">
+provádění oprav speciální techniky a zajišťování vývojových, vý-
+
+robních a opravářských úkolů i nově vznikajících potřeb AČR a
+
+přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2006-01-20">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení po změně vydaného podle zákona č. 38/1994 Sb. č.j.
+
+P-199f č. R040799033 ze dne 8.4.2003:
+
+SMV 1 - Zbraně a jejich speciálně konstruované součásti
+
+SMV 3 - Střelivo a jeho speciálně konstruované součásti pro zbraně uvedené v položkách SVM 1, SVM 2 a SVM 23
+
+SVM 4 - Bomby, torpéda, rakety a střely a jejich speciálně
+
+konstruované součásti
+
+SVM 5 - Systémy a podsystémy řízení palby speciálně konstruované
+
+pro vojenské použití a jejich speciálně konstruované součásti a
+
+příslušenství
+
+SVM 6 - Vozidla speciálně konstruovaná nebo upravená pro vojenské použití a jejich speciálně konstruované součásti
+
+SVM - 7 Toxikologické prostředky , slzný plyn, příslušná
+
+zařízení, součásti, materiály a technologie - pouze podpoložky
+
+d), e)
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 11 - Elektronická zařízení speciálně konstruovaná pro
+
+vojenské použití a jejich speciálně konstruované součásti
+
+SVM 12 - Fotografická a elektrooptická zobrazovací zařízení a
+
+pro ně speciálně konstruované součásti
+
+SVM 13 - Speciální pancéřové materiály
+
+SVM 14 - Speciální zařízení pro vojenský výcvik nebo pro simulování vojenských situací a speciálně konstruované součásti a příslušenství pro tato zařízení
+
+SVM 15 - Vojenská infračervená zařízení, tepelně zobrazující a
+
+obraz zesilující zařízení a pro tato zařízení speciálně
+
+konstruované součásti
+
+SVM 22 - Programové vybavení, pokud je určeno pro výrobky uvedené v tomto povolení - kromě položky b)2
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření Alžírsko, Argentina, Bangladéš, Belgie, Bělorusko, Bulharsko, Čína, Egypt, Ekvádor, Estonsko, Etiopie, Finsko, Francie, Gruzie, Chorvatsko, Indie, Itálie, Izrael, Kambodža, Kanada, Kazachstán, Kypr, Laos,
+
+Litva, Lotyšsko, Maďarsko, Makedonie, Mexiko, Německo, Nigérie, Nizozemí, Peru, Polsko, Rumunsko, Ruská federace, Slovensko, Slovinsko, Srí Lanka, Sýrie, Španělsko, Švédsko, Thajsko, Tunisko, Ukrajina, USA, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+přeprava, nákup, prodej zbraní
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+nákup, prodej, přeprava střeliva
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+testování, měření a analýzy
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+vázání a konečné zpracování knih
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+poskytování software a poradenství v oblasti hardware a software
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+překladatelská a tlumočnická činnost
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+pořádání odborných kurzů, školení a jiných vzdělávacích akcí včetně lektorské činnosti
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+výuka obsluhy (řízení) technických zařízení
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+kopírovací práce
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+zpracování dat, služby databank, správa sítí
+</dtt:Text>
+<dtt:Text dod="2003-11-05" ddo="2013-06-14">
+vývoj, projektování, výroba, zkoušky, údržba, opravy, modifikace, zástavba, servis a konstrukční změny vojenských letadel, jejich součástí a výrobků vojenské letecké techniky
+</dtt:Text>
+<dtt:Text dod="2002-09-25" ddo="2003-11-05">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení po změně vydaného podle zákona č. 38/1994 Sb. č.j.
+
+P-199d č. R040799033 ze dne 29.05.2002:
+
+SVM 4 - Bomby, torpéda, rakety a střely a jejich speciálně
+
+konstruované součásti - pouze podpoložka b)
+
+SVM 5 - Systémy a posystémy řízení palby speciálně konstruované
+
+pro vojenské použití a jejich speciálně konstruované součásti a
+
+příslušenství
+
+SVM - 7 Toxikologické prostředky , slzný plyn, příslušná
+
+zařízení, součásti, materiály a technologie - pouze podpoložky
+
+d), e)
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 11 - Elektronická zařízení speciálně konstruovaná pro
+
+vojenká použití a jejich speciálně konstruované součásti
+
+SVM 12 - Fotografická a elektrooptická zobrazovací zařízení a
+
+pro ně speciálně konstruované součásti
+
+SVM 15 - Vojenská infračervená zařízení, tepelně zobrazující a
+
+obraz zesilující zařízení a pro tato zařízení speciálně
+
+konstruované součásti
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření Alžírsko, Bangladéš, Belgie, Bělorusko,
+
+Bulharsko, Egypt, Estonsko, Etiopie, Finsko, Francie, Gruzie,
+
+Chorvatsko, Indie, Itálie, Izrael, Kanada, Kazachstán, Kypr,
+
+Litva, Lotyšsko, Maďarsko, Makedonie, Mexiko, Německo, Nigérie,
+
+Nizozemí, Polsko, Rumunsko, Ruská federace, Slovensko,
+
+Slovinsko, Srí Lanka, Sýrie, Španělsko, Švédsko, Thajsko,
+
+Tunisko, Ukrajina, USA, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="1999-10-04" ddo="2002-09-25">
+provádění zahraničního obchodu s vojenským materiálem v rozsahu
+
+povolení vydaného podle zák. č. 38/1994 Sb. č.j. P-199
+
+č. R040799033 ze dne 29.7.1999:
+
+SVM 10 - Letadla a vrtulníky, vzdušná vozidla bez posádky,
+
+letecké motory a zařízení letadel nebo vrtulníků a s tím spojená
+
+zařízení a součásti speciálně konstruované pro vojenské účely
+
+SVM 24 - Služby poskytované nebo přijímané v souvislosti s
+
+výrobky uvedenými v tomto povolení
+
+v teritoriálním zaměření Alžírsko, Bangladéš, Belgie, Bělorusko,
+
+Bulharsko, Egypt, Estonsko, Etiopie, Finsko, Francie, Gruzie,
+
+Indie, Itálie, Izrael, Kanada, Kazachstán, Kypr, Litva,
+
+Lotyšsko, Maďarsko, Makedonie, Mexiko, Německo, Nigérie,
+
+Nizozemí, Polsko, Rumunsko, Ruská federace, Slovensko,
+
+Slovinsko, Srí Lanka, Sýrie, Španělsko, Švédsko, Thajsko,
+
+Tunisko, Ukrajina, USA, Velká Británie, Venezuela, Vietnam
+</dtt:Text>
+<dtt:Text dod="1998-02-24" ddo="2013-06-14">
+výroba a opravy letecké techniky
+</dtt:Text>
+<dtt:Text dod="1998-02-24" ddo="2013-06-14">
+koupě zboží za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="1994-11-10" ddo="1999-10-04">
+provádění zahraničního obchodu s vojenským materiálem v
+
+rozsahu povolení vydaného podle zákona č.38/1994 Sb.
+
+/Povolení č.j.P-44, č.R990994033 ze dne 27.9.1994 vydané mi-
+
+nisterstvem průmyslu a obchodu ČR/
+</dtt:Text>
+<dtt:Text dod="1991-09-20" ddo="1998-02-24">
+uspokojování veřejně prospěšných zájmů
+</dtt:Text>
+<dtt:Text dod="1989-06-30" ddo="2003-11-05">
+provádění oprav speciální techniky a zajišťování vývojových, vý-
+
+robních a opravářských úkolů i nově vznikajících potřeb ČSLA a
+
+přednostní dodávkou pro obranu a bezpečnost státu
+</dtt:Text>
+</dtt:Predmet_podnikani>
+</dtt:Cinnosti>
+<dtt:Vedouci dod="2012-09-24" ddo="2013-02-06">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Beran</dtt:Prijmeni>
+<dtt:Datum_narozeni>1976-03-22</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-09-24" ddo="2013-02-06">
+<dtt:ID_adresy>25497679</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Klášterec nad Ohří</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Kostelní</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>67</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>43151</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci>
+<dtt:Vedouci dod="2009-01-22" ddo="2012-09-24">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Irovský</dtt:Prijmeni>
+<dtt:Datum_narozeni>1976-04-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2009-01-22" ddo="2012-09-24">
+<dtt:ID_adresy>25497678</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hluboká nad Vltavou</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Fügnerova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>685</dtt:Cislo_do_adresy>
+<dtt:PSC>37341</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci>
+<dtt:Vedouci dod="2006-12-06" ddo="2009-01-22">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Viliam</dtt:Jmeno>
+<dtt:Prijmeni>Holub</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1955-12-08</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-12-06" ddo="2009-01-22">
+<dtt:ID_adresy>25497677</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha-východ</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Hovorčovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mezi Zahradami</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>486</dtt:Cislo_do_adresy>
+<dtt:PSC>25064</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci>
+<dtt:Vedouci dod="2005-06-15" ddo="2006-12-06">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Radek</dtt:Jmeno>
+<dtt:Prijmeni>Orsák</dtt:Prijmeni>
+<dtt:Datum_narozeni>1969-09-12</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-06-15" ddo="2006-12-06">
+<dtt:ID_adresy>25497676</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Kostelec nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>T.G.Masaryka</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>242</dtt:Cislo_do_adresy>
+<dtt:PSC>27713</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci>
+<dtt:Vedouci dod="2004-09-17" ddo="2005-06-15">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Bydliste dod="2004-09-17" ddo="2005-06-15">
+<dtt:ID_adresy>25497675</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 9</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Střížkov</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Děčínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>464/3</dtt:Cislo_do_adresy>
+<dtt:PSC>19000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci>
+<dtt:Vedouci dod="2004-02-07" ddo="2004-09-17">
+<dtt:Kod_angm>23</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Libor</dtt:Jmeno>
+<dtt:Prijmeni>Šťastný</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Bydliste dod="2004-02-07" ddo="2004-09-17">
+<dtt:ID_adresy>25497673</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Brno</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Hodonínská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>628/3</dtt:Cislo_do_adresy>
+<dtt:PSC>61700</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Vedouci>
+</dtt:Odstepny_zavod>
+</dtt:Odstepne_zavody>
+</dtt:Vypis_OR>
+</are:Odpoved>
+</are:Ares_odpovedi>

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.2" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2018-09-21T10:40:27" odpoved_pocet="1" odpoved_typ="Vypis_OR" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2/ares_answer_or_v_1.0.2.xsd" Id="ares">
+<are:Odpoved>
+<dtt:Pomocne_ID>0</dtt:Pomocne_ID>
+<dtt:Vysledek_hledani>
+<dtt:Kod>1</dtt:Kod>
+</dtt:Vysledek_hledani>
+<dtt:Pocet_zaznamu>1</dtt:Pocet_zaznamu>
+<dtt:Vypis_OR>
+<dtt:Uvod>
+<dtt:Nadpis>Výpis z dat Obchodního Rejstříku v ARES</dtt:Nadpis>
+<dtt:Aktualizace_DB>2018-09-20</dtt:Aktualizace_DB>
+<dtt:Datum_vypisu>2018-09-21</dtt:Datum_vypisu>
+<dtt:Cas_vypisu>10:40:26</dtt:Cas_vypisu>
+<dtt:Typ_vypisu>uplny</dtt:Typ_vypisu>
+<dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+</dtt:Uvod>
+<dtt:Zakladni_udaje>
+<dtt:Platnost_od>2016-11-19</dtt:Platnost_od>
+<dtt:Stav>
+<dtt:Stav_subjektu>Aktivní</dtt:Stav_subjektu>
+<dtt:Konkurz>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Konkurz>
+<dtt:Vyrovnani>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Vyrovnani>
+<dtt:Zamitnuti>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Zamitnuti>
+<dtt:Likvidace>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Likvidace>
+</dtt:Stav>
+<dtt:ICO dod="2001-01-10">00037494</dtt:ICO>
+<dtt:Obchodni_firma dod="2001-01-10">Technické služby města Vítkova, příspěvková organizace</dtt:Obchodni_firma>
+<dtt:Pravni_forma_OR dod="2001-01-10">
+<dtt:Kod_PF>331</dtt:Kod_PF>
+<dtt:Nazev_PF>Příspěvková organizace</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Sidlo dod="2015-03-24">
+<dtt:ID_adresy>23275546</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Opava</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Vítkov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dělnická</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>705</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>74901</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="2001-01-10" ddo="2015-03-24">
+<dtt:ID_adresy>23275545</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Opava</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Vítkov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dělnická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>705</dtt:Cislo_do_adresy>
+<dtt:PSC>74901</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Datum_zapisu_OR>2001-01-10</dtt:Datum_zapisu_OR>
+</dtt:Zakladni_udaje>
+<dtt:Registrace>
+<dtt:Spisova_znacka dod="2001-01-10">
+<dtt:Soud>
+<dtt:Kod>8</dtt:Kod>
+<dtt:Text>Krajský soud v Ostravě</dtt:Text>
+</dtt:Soud>
+<dtt:Oddil_vlozka>Pr          4</dtt:Oddil_vlozka>
+</dtt:Spisova_znacka>
+</dtt:Registrace>
+<dtt:Cinnosti>
+<dtt:Doplnkova_cinnost>
+<dtt:Text dod="2016-11-02">
+Provádění staveb, jejich změn a odstraňování
+</dtt:Text>
+<dtt:Text dod="2016-11-02">
+Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+</dtt:Text>
+<dtt:Text dod="2016-11-02">
+Hostinská činnost
+</dtt:Text>
+<dtt:Text dod="2016-11-02">
+Podnikání v oblasti nakládání s nebezpečnými odpady
+</dtt:Text>
+<dtt:Text dod="2005-08-23" ddo="2016-11-02">
+2. Doplňková činnost navazující na hlavní činnost:
+
+Organizace je oprávněna provozovat tuto doplňkovou činnost mimo svoji hlavní činnost podle čl. III bodu 1 této zřizovací listiny za předpokladu, že tato činnost neomezí výkon hlavní činosti pro zřizovatele.
+
+- provádění staveb, jejich změn a odstraňování
+
+- koupě zboží za účelem jeho dalšího prodeje a prodej
+
+- hostinská činnost
+
+- podnikání v oblasti nakládání s nebezpečnými odpady
+
+- podnikání v oblasti nakládání s odpady
+</dtt:Text>
+<dtt:Text dod="2002-08-13" ddo="2005-08-23">
+2. Doplňková činnost navazující na hlavní činnost:
+
+Organizace je oprávněna provozovat tuto doplňkovou činnost mimo svoji hlavní činnost podle čl. VI bodu 1 této zřizovací listiny za předpokladu, že tato činnost neomezí výkon hlavní činosti pro zřizovatele.
+
+- stavební činnost
+
+- provoz městských lesů (pěstební činnost, těžba a prodej dřeva)
+
+- koupě zboží za účelem dalšího prodeje a prodej
+
+- hostinská činnost
+
+- odvoz pevného domovního odpadu, nakládání s odpady, separace, provoz skládky v Nových Těchanovicích
+</dtt:Text>
+<dtt:Text dod="2001-01-10" ddo="2002-08-13">
+2. Doplňková činnost navazující na hlavní činnost:
+
+Organizace je oprávněna provozovat tuto doplňkovou činnost mimo svoji hlavní činnost podle čl. VI bodu 1 této zřizovací listiny za předpokladu, že tato činnost neomezí výkon hlavní činosti pro zřizovatele.
+
+- sběrna prádla a šatstva
+</dtt:Text>
+</dtt:Doplnkova_cinnost>
+<dtt:Predmet_cinnosti>
+<dtt:Text dod="2016-11-02">
+Hlavní činnost, tj. činnost odpovídající hlavnímu účelu:
+
+- čištění města, opravy a údržba místních komunikací, správa a opravy veřejného osvětlení, provádění staveb, jejich změn a odstraňování dle potřeby zřizovatele, péče o zeleň ve vlastnictví města, sadové úpravy, zemědělská a zahradnická činnost
+
+- odvoz pevného domovního odpadu, nakládání s odpady, separace, provoz skládky v Nových Těchanovicích
+
+- správa svěřeného majetku dle dispozic vlastníka
+
+- provozování autobusové čekárny, pohřební a hřbitovní služby
+
+- provozování lyžařského vleku
+
+- provozování koupaliště
+
+- osobní a nákladní doprava
+
+- provoz městských lesů (pěstební činnost, těžba a prodej dřeva)
+</dtt:Text>
+<dtt:Text dod="2005-08-23" ddo="2016-11-02">
+1. Hlavní činnost, tj. činnost odpovídající hlavnímu účelu:
+
+- čištění města, opravy a údržba místních komunikací, správa a opravy veřejného osvětlení, provádění staveb, jejich změn a odstraňování dle potřeby zřizovatele, péče o zeleň ve vlastnictví města, sadové úpravy, zemědělská a zahradnická činnost
+
+- odvoz pevného domovního odpadu, nakládání s odpady, separace, provoz skládky v Nových Těchanovicích
+
+- správa svěřeného majetku dle dispozic vlastníka
+
+- provozování autobusové čekárny, pohřební a hřbitovní služby
+
+- provozování lyžařského vleku
+
+- provozování koupaliště
+
+- osobní a nákladní doprava
+
+- provoz městských lesů (pěstební činnost, těžba a prodej dřeva)
+</dtt:Text>
+<dtt:Text dod="2002-08-13">
+Účelem zřízení příspěvkové organizace je hospodářské využívání majetku města a provozování veřejně prospěšných prací.
+</dtt:Text>
+<dtt:Text dod="2002-08-13" ddo="2005-08-23">
+1. Hlavní činnost, tj. činnost odpovídající hlavnímu účelu:
+
+- čištění města, údržba místních komunikací, správa a opravy veřejného osvětlení, péče o zeleň ve vlastnictví města, sadové úpravy, zemědělská a zahradnická činnost
+
+- správa svěřeného majetku dle dispozic vlastníka
+
+- provozování autobusové čekárny, koupaliště, pohřební a hřbitovní služby
+
+- provozování lyžařského vleku
+
+- provozování turistické ubytovny
+</dtt:Text>
+<dtt:Text dod="2001-01-10" ddo="2002-08-13">
+Vymezení činnosti příspěvkové organizace je obsaženo ve zřizovací listině, čl. VI ze dne 13. prosince 2000.
+</dtt:Text>
+<dtt:Text dod="2001-01-10" ddo="2002-08-13">
+1. Hlavní činnost, tj. činnost odpovídající hlavnímu účelu:
+
+- čištění města, údržba místních komunikací, veřejně prospěšné práce, stavební činnost, osobní a nákladní doprava, správa a opravy veřejného osvětlení, péče o zeleň ve vlastnictví města, sadové úpravy, zemědělská a zahradnická činnost, zemní práce
+
+- odvoz pevného domovního odpadu, nakládání s odpady, separace, provoz skládky
+
+- správa městských lesů
+
+- správa svěřeného majetku dle dispozic vlastníka
+
+- provozování autobusové čekárny, veřejného WC, koupaliště, pohřební a hřbitovní služby
+
+- hostinská činnost
+
+- zprostředkovatelské služby
+
+- koupě zboží za účelem jeho dalšího prodeje a prodej
+
+- čištění budov, úklidové služby
+
+- výroba, opravy a instalace elektrických strojů a přístrojů
+</dtt:Text>
+</dtt:Predmet_cinnosti>
+</dtt:Cinnosti>
+<dtt:Statutarni_organ>
+<dtt:Clen_SO dod="2016-11-19">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>PETR</dtt:Jmeno>
+<dtt:Prijmeni>FRANĚK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1965-07-31</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-11-19">
+<dtt:ID_adresy>23275551</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Opava</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Budišov nad Budišovkou</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Jiráskova</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>594</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>74787</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-10-17</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2015-09-03" ddo="2016-11-19">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>TOMÁŠ</dtt:Jmeno>
+<dtt:Prijmeni>ODSTRČIL</dtt:Prijmeni>
+<dtt:Datum_narozeni>1981-08-16</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2015-09-03" ddo="2016-11-19">
+<dtt:ID_adresy>23275550</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Vítkov</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Prostřední Dvůr</dtt:Nazev_casti_obce>
+<dtt:Cislo_domovni>2030</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>74901</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2015-09-01</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-09-30</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2015-04-11" ddo="2015-09-03">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>ZDENĚK</dtt:Jmeno>
+<dtt:Prijmeni>HEGAR</dtt:Prijmeni>
+<dtt:Datum_narozeni>1950-11-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2015-04-11" ddo="2015-09-03">
+<dtt:ID_adresy>23275549</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Vítkov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Opavská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>52</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>74901</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2014-11-06</dtt:Datum_zacatku>
+<dtt:Datum_konce>2015-05-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2011-03-19" ddo="2015-04-11">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>František</dtt:Jmeno>
+<dtt:Prijmeni>Vrchovecký</dtt:Prijmeni>
+<dtt:Datum_narozeni>1954-03-29</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2011-03-19" ddo="2015-04-11">
+<dtt:ID_adresy>23275548</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Budišov nad Budišovkou</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dukelská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>592</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>74787</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-02-02</dtt:Datum_zacatku>
+<dtt:Datum_konce>2014-11-05</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-01-10" ddo="2011-03-19">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Hegar</dtt:Prijmeni>
+<dtt:Datum_narozeni>1950-11-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-01-10" ddo="2011-03-19">
+<dtt:ID_adresy>23275547</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Opava</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Vítkov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Opavská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>52</dtt:Cislo_do_adresy>
+<dtt:PSC>74901</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_konce>2011-02-02</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Text dod="2007-08-28">
+Ředitel jedná jménem příspěvkové organizace v souladu s platnou zřizovací listinou.
+</dtt:Text>
+<dtt:Text dod="2001-01-10" ddo="2007-08-28">
+Ředitel jedná jménem příspěvkové organizace v souladu se zřizovací listinou ze dne 13. prosince 2000.
+</dtt:Text>
+</dtt:Statutarni_organ>
+<dtt:Zakladatele_OPS>
+<dtt:Zakladatel_OPS dod="2005-08-23">
+<dtt:Kod_angm>33</dtt:Kod_angm>
+<dtt:Pravnicka_osoba dod="2005-08-23">
+<dtt:ICO>00300870</dtt:ICO>
+<dtt:Obchodni_firma>Město Vítkov</dtt:Obchodni_firma>
+<dtt:Nazev_PF>Obec</dtt:Nazev_PF>
+<dtt:Sidlo dod="2005-08-23">
+<dtt:ID_adresy>23275553</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Vítkov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>náměstí Jana Zajíce</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>7</dtt:Cislo_do_adresy>
+<dtt:PSC>74901</dtt:PSC>
+</dtt:Sidlo>
+</dtt:Pravnicka_osoba>
+</dtt:Zakladatel_OPS>
+<dtt:Zakladatel_OPS dod="2001-01-10" ddo="2005-08-23">
+<dtt:Kod_angm>33</dtt:Kod_angm>
+<dtt:Pravnicka_osoba dod="2001-01-10" ddo="2005-08-23">
+<dtt:ICO>00300870</dtt:ICO>
+<dtt:Obchodni_firma>Město Vítkov</dtt:Obchodni_firma>
+<dtt:Nazev_PF>Obec</dtt:Nazev_PF>
+<dtt:Sidlo dod="2001-01-10" ddo="2005-08-23">
+<dtt:ID_adresy>23275552</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Opava</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Vítkov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Wolkerova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>890</dtt:Cislo_do_adresy>
+</dtt:Sidlo>
+</dtt:Pravnicka_osoba>
+</dtt:Zakladatel_OPS>
+</dtt:Zakladatele_OPS>
+</dtt:Vypis_OR>
+</are:Odpoved>
+</are:Ares_odpovedi>

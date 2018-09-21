@@ -1,0 +1,4053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.2" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2018-09-21T10:37:05" odpoved_pocet="1" odpoved_typ="Vypis_OR" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2/ares_answer_or_v_1.0.2.xsd" Id="ares">
+<are:Odpoved>
+<dtt:Pomocne_ID>0</dtt:Pomocne_ID>
+<dtt:Vysledek_hledani>
+<dtt:Kod>1</dtt:Kod>
+</dtt:Vysledek_hledani>
+<dtt:Pocet_zaznamu>2</dtt:Pocet_zaznamu>
+<dtt:Vypis_OR>
+<dtt:Uvod>
+<dtt:Nadpis>Výpis z dat Obchodního Rejstříku v ARES</dtt:Nadpis>
+<dtt:Aktualizace_DB>2018-09-20</dtt:Aktualizace_DB>
+<dtt:Datum_vypisu>2018-09-21</dtt:Datum_vypisu>
+<dtt:Cas_vypisu>10:36:53</dtt:Cas_vypisu>
+<dtt:Typ_vypisu>uplny</dtt:Typ_vypisu>
+<dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+</dtt:Uvod>
+<dtt:Zakladni_udaje>
+<dtt:Platnost_od>2015-10-20</dtt:Platnost_od>
+<dtt:Stav>
+<dtt:Stav_subjektu>Aktivní</dtt:Stav_subjektu>
+<dtt:Konkurz>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Konkurz>
+<dtt:Vyrovnani>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Vyrovnani>
+<dtt:Zamitnuti>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Zamitnuti>
+<dtt:Likvidace>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Likvidace>
+</dtt:Stav>
+<dtt:ICO dod="1990-12-03">00012661</dtt:ICO>
+<dtt:Obchodni_firma dod="2011-09-01">SAINT-GOBAIN ADFORS CZ s.r.o.</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="2006-06-01" ddo="2011-09-01">Saint-Gobain Vertex, s.r.o.</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="2001-10-02" ddo="2006-06-01">Saint-Gobain Vertex, a.s.</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="1993-11-12" ddo="2001-10-02">VERTEX, a. s.</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="1990-12-03" ddo="1993-11-12">VERTEX , akciová společnost</dtt:Obchodni_firma>
+<dtt:Pravni_forma_OR dod="2006-06-01">
+<dtt:Kod_PF>112</dtt:Kod_PF>
+<dtt:Nazev_PF>Společnost s ručením omezeným</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Pravni_forma_OR dod="1990-12-03" ddo="2006-06-01">
+<dtt:Kod_PF>121</dtt:Kod_PF>
+<dtt:Nazev_PF>Akciová společnost</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Sidlo dod="2015-10-20">
+<dtt:ID_adresy>32131253</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Svitavy</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Nedošín</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Sokolovská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>106</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="2006-06-01" ddo="2015-10-20">
+<dtt:ID_adresy>32131250</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sokolovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>106</dtt:Cislo_do_adresy>
+<dtt:PSC>57021</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="1995-11-29" ddo="2006-06-01">
+<dtt:ID_adresy>32131252</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Svitavy</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sokolovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>106</dtt:Cislo_do_adresy>
+<dtt:PSC>57021</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="1993-05-04" ddo="1995-11-29">
+<dtt:ID_adresy>32131251</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl, okr.Svitavy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Ropkova 51</dtt:Nazev_ulice>
+<dtt:PSC>57021</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="1990-12-03" ddo="1993-05-04">
+<dtt:ID_adresy>32131249</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl, okr.Svitavy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Robkova 51</dtt:Nazev_ulice>
+</dtt:Sidlo>
+<dtt:Datum_zapisu_OR>1990-12-03</dtt:Datum_zapisu_OR>
+</dtt:Zakladni_udaje>
+<dtt:Registrace>
+<dtt:Spisova_znacka dod="2006-06-01">
+<dtt:Soud>
+<dtt:Kod>6</dtt:Kod>
+<dtt:Text>Krajský soud v Hradci Králové</dtt:Text>
+</dtt:Soud>
+<dtt:Oddil_vlozka>C      22416</dtt:Oddil_vlozka>
+</dtt:Spisova_znacka>
+<dtt:Spisova_znacka dod="1990-12-03" ddo="2006-06-01">
+<dtt:Soud>
+<dtt:Kod>6</dtt:Kod>
+<dtt:Text>Krajský soud v Hradci Králové</dtt:Text>
+</dtt:Soud>
+<dtt:Oddil_vlozka>B         71</dtt:Oddil_vlozka>
+</dtt:Spisova_znacka>
+</dtt:Registrace>
+<dtt:Cinnosti>
+<dtt:Predmet_podnikani>
+<dtt:Text dod="2014-07-01">
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+silniční motorová doprava - nákladní vnitrostátní provozovaná vozidly nebo jízdními soupravami o největší povolené hmotnosti nepřesahující  3,5 tuny, jsou-li určeny k přepravě zvířat nebo věcí
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+výroba nebezpečných chemických látek a nebezpečných chemických směsí a prodej chemických látek a chemických směsí klasifikovaných jako vysoce toxické a toxické
+</dtt:Text>
+<dtt:Text dod="2010-09-15">
+Projektová činnost ve výstavbě
+</dtt:Text>
+<dtt:Text dod="2010-09-15">
+zámečnictví, nástrojářství
+</dtt:Text>
+<dtt:Text dod="2010-09-15">
+hostinská činnost
+</dtt:Text>
+<dtt:Text dod="2010-09-15">
+provádění dobrovolných dražeb movitých věcí podle zákona o veřejných dražbách
+</dtt:Text>
+<dtt:Text dod="2010-09-15">
+Činnost účetních poradců, vedení účetnictví, vedení daňové evidence
+</dtt:Text>
+<dtt:Text dod="2010-09-15">
+poskytování služeb v oblasti bezpečnosti a ochrany zdraví při práci
+</dtt:Text>
+<dtt:Text dod="2010-09-15">
+technicko-organizační činnost v oblasti požární ochrany
+</dtt:Text>
+<dtt:Text dod="2010-09-15" ddo="2014-07-01">
+výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona
+
+Obory činnosti:
+
+Výroba textilií, textilních výrobků, oděvů a oděvních doplňků
+
+Výroba a zpracování skla
+
+Provozování vodovodů a kanalizací a úprava a rozvod vody
+
+Zprostředkování obchodu a služeb
+
+Velkoobchod a maloobchod
+
+Skladování, balení zboží, manipulace s nákladem a technické činnosti v dopravě
+
+Ubytovací služby
+
+Poskytování software, poradenství v oblasti informačních technologií, zpracování dat, hostingové a související činnosti a webové portály
+
+Činnost informačních a zpravodajských kanceláří
+
+Pronájem a pujčování věcí movitých
+
+Poradenská a konzultační činnost, zpracování odborných studií a posudků
+
+Příprava a vypracování technických návrhů, grafické a kresličské práce
+
+Projetkování elektrických zařízení
+
+Reklamní činnost, marketing, mediální zastoupení
+
+Služby v oblasti administrativní správy a služby organizačně hospodářské povahy.
+</dtt:Text>
+<dtt:Text dod="2010-09-15" ddo="2014-07-01">
+silniční motorová doprava - nákladní vnitrostátní provozovaná vozidly o největší povolené hmotnosti do 3,5 tuny včetně, - nákladní mezinárodní provozovaná vozidly o největší povolené hmotnosti do 3,5 tuny včetně,
+</dtt:Text>
+<dtt:Text dod="2010-09-15" ddo="2014-07-01">
+výroba nebezpečných chemických látek a nebezpečných chemických přípravků a prodej chemických látek a chemických přípravků klasifikovaných jako vysoce toxické a toxické
+</dtt:Text>
+<dtt:Text dod="2006-09-05" ddo="2010-09-15">
+Skladování zboží a manipulace s nákladem
+</dtt:Text>
+<dtt:Text dod="2005-08-15" ddo="2010-09-15">
+Úprava a rozvod užitkové vody a provozování vodovodů a kanalizací pro neveřejnou potřebu
+</dtt:Text>
+<dtt:Text dod="2004-11-24" ddo="2010-09-15">
+Poskytování služeb v oblasti bezpečnosti a ochrany zdraví při práci
+</dtt:Text>
+<dtt:Text dod="2004-11-24" ddo="2010-09-15">
+Technicko-organizační činnost v oblasti požární ochrany
+</dtt:Text>
+<dtt:Text dod="2004-11-24" ddo="2010-09-15">
+Služby v oblasti administrativní správy a služby organizačně hospodářské povahy u fyzických a právnických osob
+</dtt:Text>
+<dtt:Text dod="2004-11-24" ddo="2010-09-15">
+Inženýrská činnost v investiční výstavbě
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2005-08-15">
+Kopírovací práce
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2005-08-15">
+Nástrojařství
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2005-08-15">
+Kovoobráběčství
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2005-08-15">
+Truhlářství
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2005-08-15">
+Zednictví
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Výroba a zpracovní skla
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Velkoobchod
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Specializovaný maloobchod
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Zprostředkování obchodu
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Zprostředkování služeb
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Pronájem a půjčování věcí movitých
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Projektování elektrických zařízení
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Příprava a vypracování technických návrhů
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Činnost podnikatelských, finančních, organizačních a
+
+ekonomických poradců
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Zpracování dat, služby databank, správa sítí
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Poskytování software a poradenství v oblasti hardware a software
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Ubytovací služby
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Zámečnictví
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Hostinská činnost
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Činnost účetních poradců, vedení účetnictví
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Projektová činnost ve výstavbě
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Výroba a dovoz chemických látek a chemických přípravků
+
+klasifikovaných jako oxidující, extrémně hořlavé, vysoce
+
+hořlavé, vysoce toxické, toxické, nebezpečné pro životní
+
+prostředí a prodej chemických látek a chemických přípravků
+
+klasifikovaných jako vysoce toxické a toxické
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Výroba a dovoz chemických látek a chemických přípravků
+
+klasifikovaných jako hořlavé, zdraví škodlivé, žíravé a dráždivé
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Provádění dobrovolných dražeb movitých věcí podle zákona o
+
+veřejných dražbách
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Provozování vodovodů a kanalizací pro veřejnou potřebu
+</dtt:Text>
+<dtt:Text dod="2002-12-27" ddo="2010-09-15">
+Silniční motorová doprava nákladní
+</dtt:Text>
+<dtt:Text dod="2000-08-17" ddo="2002-12-27">
+Pronájem průmyslového zboží
+</dtt:Text>
+<dtt:Text dod="2000-08-17" ddo="2002-12-27">
+Zprostředkovatelská činnost
+</dtt:Text>
+<dtt:Text dod="2000-08-17" ddo="2002-12-27">
+Výroba a dovoz chemických látek a chemických přípravků
+
+klasifikovaných jako hořlavé, zdraví škodlivé, žíravé, dráždivé
+</dtt:Text>
+<dtt:Text dod="2000-08-17" ddo="2002-12-27">
+Výroba a dovoz chemických látek a chemických přípravků
+
+klasifikovaných jako oxidující, extremně hořlavé, vysoce
+
+hořlavé, vysoce toxické, toxické, nebezpečné pro životní
+
+prostředí a prodej chemických látek a chemických přípravků
+
+klasifikovaných jako vysoce toxické a toxické
+</dtt:Text>
+<dtt:Text dod="2000-08-17" ddo="2002-12-27">
+Provozování vodovodů a kanalizací
+</dtt:Text>
+<dtt:Text dod="2000-08-17" ddo="2002-12-27">
+Činnost účetních poradců, vedení účetnictví
+</dtt:Text>
+<dtt:Text dod="2000-08-17" ddo="2002-12-27">
+Provádění dobrovolných dražeb movitých věcí podle zákona o
+
+veřejných dražbách
+</dtt:Text>
+<dtt:Text dod="2000-08-17" ddo="2002-12-27">
+Pronájem motorových vozidel
+</dtt:Text>
+<dtt:Text dod="1999-10-07" ddo="2002-12-27">
+Činnost organizačních a ekonomických poradců
+</dtt:Text>
+<dtt:Text dod="1999-05-04" ddo="2000-08-17">
+Vedení účetnictví a účetní poradenství
+</dtt:Text>
+<dtt:Text dod="1997-08-21" ddo="1999-10-07">
+Činnost organizačních a ekonomických poradců (v oblasti výroby
+
+skleněných vláken a výrobků z nich, a výrobků z plastů)
+</dtt:Text>
+<dtt:Text dod="1997-08-21" ddo="2002-12-27">
+Výroba skleněných vláken a výrobků z nich, a výrobků z plastů
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="1997-08-21">
+Výroba skleněných a minerálních vláken a výrobků z nich a plastů
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="1997-08-21">
+Činnost organizačních a ekonomických poradců (v oblasti výroby
+
+skleněných a minerálních vláken a výrobků z nich a plastů)
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2000-08-17">
+Provádění dražeb mimo výkon rozhodnutí
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Kopírování a rozmnožování
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Nástrojařství
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Kovoobráběčství
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Truhlářství
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Zednictví
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Hostinská činnost
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Projektování elektrických zařízení
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Projektová činnost ve výstavbě
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Silniční motorová doprava nákladní
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Koupě zboží za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Konstrukce strojů a zařízení
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Provoz ubytovacích a rekreačních zařízení k přechodnému
+
+ubytování
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="2002-12-27">
+Zámečnictví
+</dtt:Text>
+<dtt:Text dod="1994-03-28" ddo="1996-08-14">
+výroba skleněných a minerálních vláken a výrobků z nich
+
+a plastů
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1993-06-15">
+výroba elektrické energie
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1994-03-28">
+výroba skleněných a minerálních vládek a výrobků z nich,
+
+a plastů
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1995-07-24">
+výroba a rozvod elektrického proudu v malých elektrárnách
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+koupě zboží za účelem jeho dalšího prodeje a prodej
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+konstrukce strojů a zařízení
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+kopírování a rozmnožování
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+provoz ubytovacích a rekreačních zařízení k přechodnému
+
+ubytování
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+zámečnictví
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+truhlářství
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+zednictví
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+činnost organizačních a ekonomických poradců (v oblasti
+
+výroba skleněných a minerálních vláken a výrobků z nich a
+
+plastů)
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+projektování elektrických zařízení
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+projektování činnost v investiční výstavbě
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+provádění dražeb mimo výkon rozhodnutí (platí do 1.10.2002)
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+hostinská činnost (bez ubytovaních zařízení), vyjma prodeje
+
+nalkoholických nápojů, lahvového piva a doplňkového prodeje
+
+potravin na veřejných prostranstvích (platí do 5.11.2002)
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+silniční motorová doprava (platí do 10.12.1993)
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+výroba nástrojů
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+broušení a leštění kovů s výjimkouc broušení nožů, nůžek a
+
+jednoduchých nástrojů
+</dtt:Text>
+<dtt:Text dod="1993-05-04" ddo="1996-08-14">
+kovoobrábění
+</dtt:Text>
+<dtt:Text dod="1990-12-03" ddo="1993-05-04">
+výroba sklených a minerálních vláken a výrobků z nich, desky
+
+Horbex, filtrační vložky a papíry, tvářené součásti z polyesterů,
+
+ostatní tvářené strojní součásti z ostatních termosetů, stavební
+
+izolační materiál z polotovarů z plastických hmot, krabice a
+
+nádoby z plast. hmot, přepravky, palety a ukládací bedny z plast.
+
+hmot, díly s příslušenstvím z polyesterů a z plast. hmot, drobné
+
+výrobky z ostatních termosetů, sedací nábytek, doplňkové stolky,
+
+sklolaminátové lodě, rekreační a sportovní zařízení pro dětská
+
+hřiště, netkané textilie, skleněné tkaniny pro průmyslové i
+
+spotřební použití, výroba staplových vláken a výrobků z nich  s
+
+užitím pro tepelné a zvukové izolace, vlákno pro filtrační účely
+
+a výrobky z nich,
+</dtt:Text>
+<dtt:Text dod="1990-12-03" ddo="1993-05-04">
+dále sortiment výrobků vznikajících využitím výrobních odpadů,
+
+výroba tepelné a elektrické energie převážně pro vlastní potřebu,
+
+provoz ubytovacích a rekreačních zařízení převážně pro potřeby
+
+pracovníků podniku a jejich rodinných příslušníků, projektová
+
+činnost v rozsahu uděleného oprávnění, výkony výpočetní techniky,
+
+převážně pro vlastní potřebu, provádění zahraničně obchodní
+
+činnosti ve výrobcích, které jsou výrobním programem společnosti
+
+VERTEX, nebo které na ni navazují.
+</dtt:Text>
+<dtt:Text dod="1990-12-03" ddo="1993-05-04">
+Povolením k zahraničně obchodní činnosti Federálního ministerstva
+
+zahraničního obchodu z 18.4.1990 čj. 6/375/63/90 byl udělen
+
+organizaci VERTEX souhlas se zahraniční obchodní činností v
+
+rozsahu jak je uvedeno v citovaném povolení.
+</dtt:Text>
+</dtt:Predmet_podnikani>
+<dtt:Predmet_cinnosti>
+<dtt:Text dod="2014-07-01">
+Skladování, balení zboží, manipulace s nákladem a technické činnosti v dopravě
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Ubytovací služby
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Velkoobchod a maloobchod
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Poskytování software, poradenství v oblasti informačních technologií, zpracování dat, hostingové a související činnosti a webové portály
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Činnost informačních a zpravodajských kanceláří
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Pronájem a půjčování věcí movitých
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Poradenská a konzultační činnost, zpracování odborných studií a posudků
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Projektování elektrických zařízení
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Příprava a vypracování technických návrhů, grafické a kresličské práce
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Reklamní činnost, marketing, mediální zastoupení
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Služby v oblasti administrativní správy a služby organizačně hospodářské povahy
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Výroba textilií, textilních výrobků, oděvů a oděvních doplňků
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Provozování vodovodů a kanalizací a úprava a rozvod vody
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Výroba a zpracování skla
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Zprostředkování obchodu a služeb
+</dtt:Text>
+<dtt:Text dod="2014-07-01">
+Mimoškolní výchova a vzdělávání, pořádání kurzů, školení, včetně lektorské činnosti
+</dtt:Text>
+</dtt:Predmet_cinnosti>
+</dtt:Cinnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2015-10-22">
+Na základě Projektu  fúze sloučením ze dne 28. srpna 2015 jmění zanikající společnosti SAINT-GOBAIN ADFORS CZ Glass Mat s.r.o. se sídlem Litomyšl, Sokolovská 106, PSČ 570 21, identifikační číslo 259 70 712 přešlo na společnost SAINT-GOBAIN ADFORS CZ s.r.o
+. se sídlem Litomyšl, Sokolovská 106, PSČ 570 21, identifikační číslo 000 12 661
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2014-07-01">
+Společnost se ve smyslu ust. § 777 odst. 5 zákona č. 90/2012 Sb., o obchodních korporacích a družstvech (zákon o obchodních korporacích) podrobuje změnou své společenské smlouvy zákonu o obchodních korporacích jako celku..
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2014-07-01" ddo="2017-02-01">
+Počet členů statutárního orgánu: 5
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2012-07-28">
+Na základě fúze sloučením přešlo na společnost SAINT-GOBAIN ADFORS CZ s.r.o., jako společnost nástupnickou, jmění zanikající společnosti SAINT-GOBAIN ADFORS CZ Fabrics s.r.o. se sídlem Litomyšl, Sokolovská 106, PSČ 570 21, identifikační číslo 259 18 966,
+v Obchodním rejstříku vedeném Krajským soudem v Hradci Králové zapsané v odd. C, vložka 14524.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2006-06-01">
+Společnost změnila právní formu rozhodnutím o změně právní formy ze dne 31.3.2006 ze společnosti Saint-Gobain Vertex, a.s. se sídlem Litomyšl, Sokolovská 106, PSČ 570 21, identifikační číslo 000 12 661, vedené obchodním rejstříkem Krajského soudu v Hradci
+ Králové oddíl B, vložka 71.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="2005-10-05" ddo="2006-06-01">
+Mimořádná valná hromada, konaná dne 2. září 2005 v souladu s ustanovením § 183i zákona č. 513/1991, Sb. obchodního zákoníku v platném znění, přijala usnesení následujícího obsahu:
+
+&quot;Mimořádná valná hromada v souladu s ustanovením § 183i zákona č. 513/1991, Sb. obchodního zákoníku v platném znění
+
+- konstatuje, že společnost SAINT-GOBAIN Vetrotex Deutschland GmbH, se sídlem Herzogenrath, Spolková republika Německo vlastní celkem 2.039.932 z celkového počtu 2.045.816 kmenových akcií na majitele o jmenovité hodnotě 1.000,- Kč na jednou akcii, ISIN 77
+0990001388, vydaných Společností v zaknihované podobě, jejichž jmenovitá hodnota činí přibližně 99,71 % základního kapitálu společnosti, což je osvědčeno výpisy z registru emitenta Společnosti ze Střediska cenných papírů vyhotovenými k 25. červenci 2005 a
+ k rozhodnému dni pro konání této mimořádné valné hromady, tj. k 26. srpnu 2005. Společnost SAINT-GOBAIN Vetrotex Deutschland GmbH je tedy hlavním akcionářem společnosti Saint-Gobain Vertex, a.s. ve smyslu ustanovení § 183i odst. 1 obchodního zákoníku.
+
+- rozhoduje podle § 183i obchodního zákoníku o přechodu všech ostatních účastnických cenných papírů vydaných společností Saint-Gobain Vertex, a.s., tj. akcií o jmenovité hodnotě 1.000 Kč (slovy: jeden tisíc korun českých) Kč na jednu akcii vydaných v zakn
+ihované podobě ve formě na majitele ISIN 770990001388, které jsou ve vlastnictví ostatních akcionářů na hlavního akcionáře, tj. společnost SAINT-GOBAIN Vetrotex Deutschland GmbH, se sídlem Herzogenrath, Spolková republika Německo, za protiplnění ve výši 5
+.021 Kč (slovy: pět tisíc dvacet jedna korun českých) za jednu akcii. Právní účinky spojené s přechodem akcií společnosti Saint Gobain Vertex, a.s. na hlavního akcionáře nastávají uplynutím lhůty jednoho (1) měsíce od zveřejnění zápisu tohoto usnesení mim
+ořádné valné hromady do obchodního rejstříku  v Obchodním věstníku (dále jen &quot;Den účinnosti&quot;). Dnem účinnosti se stává hlavní akcionář SAINT-GOBAIN Vetrotex Deutschland GmbH vlastníkem všech akcií společnosti, které budou k danému okamžiku ve vlastnictví
+ostatních akcionářů společnosti odlišných od hlavního akcionáře a současně na hlavního akcionáře přecházejí veškerá práva spojená s vykupovanými akciemi společnosti Saint-Gobain Vertex, a.s.
+
+- určuje, že společnost SAINT-GOBAIN Vetrotex Deutschland GmbH poskytne všem ostaním akcionářům společnosti Saint-Gobain Vertex, a.s. resp. zástavním věřitelům či jiným oprávněným osobám protiplnění ve výši 5.021 Kč (slovy: pět tisíc dvacet jedna korun če
+ských) za jednu akcii ISIN 770990001388 o jmenovité hodnotě 1.000,- Kč (slovy: jeden tisíc korun českých). Přiměřenost stanovené výše protiplnění byla v souladu s § 183i a násl. obchodního zákoníku doložena posudkem znalce vypracovaným znaleckým ústavem T
+ACOMA Consulting, a.s., se sídlem Olivova 2096/4 Praha 1, PSČ 110 00, IČ: 639 98 581, pod č. 69-1/2005 ze dne 22. července 2005, podle kterého je hodnota protiplnění určená společností SAINT-GOBAIN Vetrotex Deutschland GmbH v rámci práva výkupu účastnický
+ch cenných papírů ve výši 5.021 Kč (slovy: pět tisíc dvacet jedna korun českých) přiměřená ve smyslu § 183i a násl. obchodního zákoníku. V souladu s ustanovením § 183j odst. 2 obchodního zákoníku představenstvo společnosti Saint-Gobain Vertex, a.s. projed
+nalo přiměřenost protiplnění a vyjádřilo se k tomu, zda považuje výši protiplnění stanovenou společností SAINT-GOBAIN Vetrotex Deutschland GmbH za spravedlivou ve smyslu § 183j odst. 2 obchodního zákoníku tak, že výše protiplnění stanovená společností SAI
+NT-GOBAIN Vetrotex Deutschland GmbH v její žádosti o svolání valné hromady dle § 183i obchodního zákoníku, je přiměřená hodnotě akcií společnosti. Společnost SAINT-GOBAIN Vetrotex Deutschland GmbH poskytne (v souladu s § 183m odst. 2, 3 a 5 obchodního zák
+oníku) protiplnění oprávněným osobám bez zbytečného odkladu, nejpozději však do dvou měsíců ode dne zápisu vlastnického práva společnost SAINT-GOBAIN Vetrotex Deutschland GmbH k vykoupeným akciím na majetkovém účtu v příslušné evidenci cenných papírů (Stř
+edisko cenných papírů). Osobou oprávněnou k poskytnutí protiplnění bude vždy vlastník vykoupených akcií, ledaže bude prokázáno zastavení akcií. V takovém případě hlavní akcionář poskytne příslušnou částku zástavnímu věřiteli: to neplatí, prokáže-li vlastn
+ík, že zástavní právo již zaniklo, nebo že dohoda mezi ním a zástavním věřitelem určuje jinak.
+
+- pověřuje představenstvo společnosti Saint-Gobain Vertex, a.s. k provedení veškerých kroků potřebných k zápisu tohoto usnesení mimořádné valné hromady do obchodního rejstříku a k realizaci dalších kroků vyžadovaných právními předpisy v této souvislosti:
+a dále k poskytnutí potřebné součinnosti společnosti SAINT-GOBAIN Vetrotex Deutschland GmbH  v souvislosti s výplatou protiplnění oprávněným osobám.&quot;
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Usnesení mimořádné valné hromady akciové společnosti VERTEX,
+
+a.s.
+
+Rozhodnutí o zvýšení základního jmění společnosti.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Základní jmění akciové společnosti VERTEX, a.s. se sídlem
+
+Litomyšl, Sokolovská 106, PSČ 570 21, IČO 00 012 661, zapsané v
+
+obchodním rejstříku Krajského soudu v Hradci Králové, oddílu B,
+
+vložka 71, dále jen &quot;společnost&quot;, se zvyšuje o 340.970.000,- Kč,
+
+slovy třistačtyřicetmilionůdevětsetsedmdesáttisíc korun českých,
+
+upsáním nových akcií. Celková výše základního jmění společnosti
+
+po zvýšení činí: 2.045.816.000,- Kč,
+
+slovy: dvěmiliardyčtyřicetpětmilionůosmsetšestnácttisíc
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Upisování nových akcií nad částku tohoto zvýšení, t.j. nad
+
+340.970.000,- Kč se nepřipouští.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Základní charakteristika:
+
+- počet akcií: 340.970 ks
+
+- jmenovitá hodnota jedné akcie: 1.000,- Kč
+
+- emisní kurz: 2.900,- Kč/ks
+
+- forma akcií: na doručitele
+
+- druh akcií: kmenové
+
+- podoba akcií: zaknihovaná
+
+- obchodovatelnost: neveřejně obchodovatelné
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Upisování bude probíhat dvoukolově, upisované akcie musí být
+
+splaceny peněžitými vklady.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Při upisování akcií mají stávající akcionáři nebo osoby, které
+
+listinami prokáží, že řádně nabyly samostatné převoditelné
+
+přednostní právo na úpis akcií, přednostní právo upsat část
+
+nových akcií společnosti v rozsahu jejich podílů na dosavadním
+
+základním jmění /dále jen přednostní právo/.
+
+Za jednu stávající akcii o jmenovité hodnotě 1.000,- Kč získá
+
+akcionář jednu akcii nové série o jmenovité hodnotě 1.000,- Kč.
+
+Přednostní právo lze vykonat v sídle společnosti VERTEX, a.s., a
+
+to na adrese Litomyšl, Sokolovská 106, v kanceláři č. 309, III.
+
+poschodí, od 9.oo do 14.oo hod. v pracovních dnech.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Lhůta pro vykonání přednostního práva činí 15 dnů a začíná běžet
+
+následující den po zveřejnění usnesení mimořádné valné hromady o
+
+zvýšení základního jmění společnosti v Obchodním věstníku.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Rozhodným dnem pro uplatnění přednostního práva je první den
+
+výše uvedené lhůty, tedy den následující po zveřejnění usnesení
+
+mimořádné valné hromady o zvýšení základního jmění společnosti v
+
+Obchodním věstníku.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Úpisu se zúčastní osoby, jenž budou k tomuto dni vlastníky akcií
+
+společnosti nebo osoby, jenž prokáží, že řádně nabyly samostatné
+
+převoditelné přednostní právo na úpis akcií. Upisovatel se dále
+
+prokáže občanským průkazem, v případě zastoupení plnou mocí s
+
+úředně ověřeným podpisem zmocnitele, právnická osoba navíc
+
+úředně ověřenou kopií výpisu z obchodního rejstříku.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Upisovatel se zapíše do listiny upisovatelů. Zápis zahrnuje
+
+počet, jmenovitou hodnotu, formu, podobu, popřípadě druh
+
+upisovaných akcií, hodnotu vkladu s uvedením, zda se jedná o
+
+vklad peněžitý nebo nepeněžitý, emisní kurs upsaných akcií,
+
+lhůty pro splácení upsaných akcií, obchodní jméno nebo název a
+
+sídlo právnické osoby nebo jméno a bydliště fyzické osoby, která
+
+je upisovatelem, a její podpis.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Při splacení vkladu nebo jeho části vydá společnost upisovateli
+
+písemné potvrzení, ve kterém uvede:
+
+- druh, formu, podobu, počet a jmenovitou hodnotu upsaných akcií
+
+- celkovou hodnotu emisního kursu upsaných akcií
+
+- rozsah splacení emisního kursu upsaných akcií
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Akcie, které nebudou upsány s využitím přednostního práva budou
+
+všechny nabídnuty zájemci
+
+- VETROTEX Deutschland GmbH se sídlem BICHEROUX strasse 61, 521
+
+  34 Herzogenrath, SRN.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Upisování akcií touto osobou proběhne v patnáctidenní lhůtě
+
+počínající prvním pracovním dnem následujícím po ukončení
+
+prvního kola v sídle společnosti VERTEX, a.s., a to na adrese
+
+Litomyšl, Sokolovská 106, v kanceláři č. 309, III. poschodí, od
+
+9.oo do 14.oo hod. v pracovních dnech. Emisní kurs takto
+
+upisovaných akcií je 2.900,- Kč/ks.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Upisovatelé, jenž budou využívat přednostního práva, i osoba
+
+určená valnou hromadou pro upisování akcií bez využití
+
+přednostního práva, jsou povinni splatit 100% ceny upsaných
+
+akcií včetně emisního ažia nejpozději do sedmi dnů po skončení
+
+lhůt stanovených k upisování. Výši ceny upsaných akcií, která
+
+nepřevýší 50.000,- Kč, je upisovatel povinen uhradit v plné
+
+výši v hotovosti při úpisu. Ostatní platby mohou probíhat buď v
+
+hotovosti složením celé částky do pokladny v sídle společnosti,
+
+nebo převodem na účet společnosti č.: 160380209/1900 u Societe
+
+Generale pobočka Praha, variabilní symbol: IČO nebo rodné číslo
+
+fyzické osoby. Při platbě ze zahraničí uveďte bankovní spojení:
+
+Societe Generale, Prague branch
+
+Pobřežní 3, 186 00, Prague 8
+
+Czech Republic
+
+SWIFT: SOGECZPP
+
+account number: 16038020
+
+beneficiary: VERTEX
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1999-05-04" ddo="1999-07-08">
+Platba se považuje za včasnou, bude-li nejpozději v poslední den
+
+stanovené lhůty připsána na účet společnosti. V  opačném případě
+
+bude společnost postupovat dle stanov společnosti a příslušných
+
+ustanovení zákona.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1994-11-02" ddo="1999-07-08">
+Ostatní skutečnosti:
+
+Základní jmění zvýšeno rozhodnutím představenstva ze dne
+
+21.9.1994.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1994-08-01" ddo="2006-06-01">
+Právní poměry - změny schváleny na valné hromadě dne
+
+25.5.1994.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1994-01-27" ddo="2006-06-01">
+generální ředitel - ing. Jiří  Z a g o r a
+
+ul. Jateční čp. 155, 570 01 Litomyšl
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1993-11-12" ddo="1995-07-24">
+Cizojazyčné mutace obchodního jména:
+
+anglicky:  VERTEX Company Limited
+
+francouzsky:  VERTEX Societe Anonyme
+
+německy:  VERTEX Aktiengesellschaft
+
+rusky:  VERTEX Akcioněrnoje obščestvo
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1993-11-12" ddo="1996-08-14">
+Nové stanovy schváleny na valné hromadě dne 22.9.1993.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1991-10-23" ddo="1993-05-04">
+Podnikový rejstřík bere na vědomí doplňení stanov doplňkem
+
+č.1/1991, kterým se vkládá nový článek Xa.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1991-01-25" ddo="1993-05-04">
+Zapisuje se změna Stanov v bodu IV, odst.1, nyní zní:
+
+Základní kapitál společnosti je oceněn na 1.313 279 tis.Kčs
+
+včetně pozemků, z toho hmotná část základního kapitálu činí
+
+795.762 tis - Kčs, cena pozemků činí 30.732 tis. Kčs.
+
+Dále bod VII, odst.2. Zakladatelský plán se doplňuje v bodě 3.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1990-12-03" ddo="1993-05-04">
+Výše základního kapitálu:
+
+Výše základního kapitálu společnosti činí 1 313 279 tis. Kčs,
+
+včetně započtení cen pozemků, z toho hmotná část základního
+
+kapitálu činí 795 762 tis.
+
+Kčs. Základní kapitál byl oceněn bilanční metodou.
+
+Správnost stanovené výše základního kapitálu je stvrzena
+
+znaleckým posudkem z oboru ekonomiky Jana Koláře, odvětví účetní
+
+evidence.
+
+Základní kapitál je rozdělen na 118 195 akcií.Jmenovitá hodnota
+
+jedné akcie je 10.000-Kčs a zní na jméno. Výhradním majitelem
+
+akcií bude stát zastoupený ministerstvem průmyslu České
+
+republiky.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1990-12-03" ddo="1993-11-12">
+Zastupování společnosti:
+
+Společnost navenek zastupuje představenstvo. Představenstvo může
+
+pověřit výkonem svých práv další orgány společnosti i jiné osoby.
+
+Výkonným orgánem společnosti je ředitel. Ředitel zastupuje
+
+společnost navenek v rámci oprávnění udělených mu
+
+představenstvem.
+
+Podepisování:
+
+Za společnost podepisuje představenstvo a to tak, že k
+
+vytištěnému, nebo napsanému názvu spol.připojí svůj podpis
+
+předseda představ.,popř.místopředseda, v době nepřítomnosti
+
+předsedy a jeden člen představ., nebo dva členové představ., v
+
+případě nepřítomnosti předsedy a místopředsedy.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1990-12-03" ddo="2006-06-01">
+Údaje o zřízení:
+
+Akciová společnost byla založena podle ustanovení §u 15 a násl.
+
+zák. o akciových společnostech rozhodnutím ministra průmyslu
+
+České republiky č.485/ /90 ze dne 26.11.1990 s účinností od
+
+1.12.1990.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Kapital>
+<dtt:Zakladni dod="1999-07-08">
+<dtt:Vklad>
+<dtt:Kc>2045816000;00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100</dtt:Procenta>
+</dtt:Splaceno>
+</dtt:Zakladni>
+<dtt:Zakladni dod="1994-11-02" ddo="1999-07-08">
+<dtt:Vklad>
+<dtt:Kc>1704846000;00</dtt:Kc>
+</dtt:Vklad>
+</dtt:Zakladni>
+<dtt:Zakladni dod="1994-08-01" ddo="1994-11-02">
+<dtt:Vklad>
+<dtt:Kc>1578846000;00</dtt:Kc>
+</dtt:Vklad>
+</dtt:Zakladni>
+<dtt:Zakladni dod="1993-05-04" ddo="1994-08-01">
+<dtt:Vklad>
+<dtt:Kc>1278846000;00</dtt:Kc>
+</dtt:Vklad>
+</dtt:Zakladni>
+<dtt:Akcie>
+<dtt:Emise dod="1999-07-08" ddo="2006-06-01">
+<dtt:Druh_akcie>Akcie na majitele</dtt:Druh_akcie>
+<dtt:Hodnota>1000;00</dtt:Hodnota>
+<dtt:Pocet>2045816</dtt:Pocet>
+</dtt:Emise>
+<dtt:Emise dod="1995-07-24" ddo="1999-07-08">
+<dtt:Druh_akcie>Akcie na majitele</dtt:Druh_akcie>
+<dtt:Hodnota>1000;00</dtt:Hodnota>
+<dtt:Pocet>1704846</dtt:Pocet>
+</dtt:Emise>
+<dtt:Emise dod="1993-05-04" ddo="1995-07-24">
+<dtt:Druh_akcie>Akcie na majitele</dtt:Druh_akcie>
+<dtt:Hodnota>1000;00</dtt:Hodnota>
+<dtt:Pocet>1253269</dtt:Pocet>
+</dtt:Emise>
+<dtt:Emise dod="1993-05-04" ddo="1995-07-24">
+<dtt:Druh_akcie>Zaměstnanecké akcie na jméno</dtt:Druh_akcie>
+<dtt:Hodnota>1000;00</dtt:Hodnota>
+<dtt:Pocet>25577</dtt:Pocet>
+</dtt:Emise>
+</dtt:Akcie>
+</dtt:Kapital>
+<dtt:Statutarni_organ>
+<dtt:Clen_SO dod="2018-07-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>ZUZANA</dtt:Jmeno>
+<dtt:Prijmeni>ZÍTKOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1986-06-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2018-07-04">
+<dtt:ID_adresy>32131282</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha-západ</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Jinočany</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mirešická</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>357</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>25225</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2017-02-01</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2017-02-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>MARKÉTA</dtt:Jmeno>
+<dtt:Prijmeni>KOPECKÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-06-10</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2017-02-01">
+<dtt:ID_adresy>32131284</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Hradec Králové</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Hradec Králové</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Třebeš</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Zborovská</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>630</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>50011</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2017-02-01</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2017-02-01" ddo="2018-07-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>ZUZANA</dtt:Jmeno>
+<dtt:Prijmeni>ZÍTKOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1986-06-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2017-02-01" ddo="2018-07-04">
+<dtt:ID_adresy>32131281</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Jablonec nad Nisou</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Tanvald</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Šumburk nad Desnou</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Vítězná</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>338</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>46841</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2017-02-01</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-06-10" ddo="2017-02-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>LUCIE</dtt:Jmeno>
+<dtt:Prijmeni>VEJAČKOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1979-09-10</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-06-10" ddo="2017-02-01">
+<dtt:ID_adresy>32131275</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Svitavy</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Zahájí</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Václava Boštíka</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>402</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-19</dtt:Datum_zacatku>
+<dtt:Datum_konce>2017-01-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2015-10-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>RAIMUND</dtt:Jmeno>
+<dtt:Prijmeni>HEINL</dtt:Prijmeni>
+<dtt:Datum_narozeni>1959-11-23</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2015-10-20">
+<dtt:ID_adresy>32131259</dtt:ID_adresy>
+<dtt:Kod_statu>056</dtt:Kod_statu>
+<dtt:Nazev_statu>Belgické království</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hauset</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Kirchstr. 91</dtt:Nazev_ulice>
+<dtt:PSC>4730</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-07-11</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2015-10-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>MILOŠ</dtt:Jmeno>
+<dtt:Prijmeni>PAVLIŠ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-05-14</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2015-10-20">
+<dtt:ID_adresy>32131265</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Choceň</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Větrná</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1771</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>56501</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-07-11</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2015-10-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>KAREL</dtt:Jmeno>
+<dtt:Prijmeni>KYNCL</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-03-30</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2015-10-20">
+<dtt:ID_adresy>32131269</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Záhradí</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Peciny</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>307</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-19</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2015-10-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JAROSLAW</dtt:Jmeno>
+<dtt:Prijmeni>MALIK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1971-06-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2015-10-20">
+<dtt:ID_adresy>32131279</dtt:ID_adresy>
+<dtt:Kod_statu>616</dtt:Kod_statu>
+<dtt:Nazev_statu>Polská republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Zabrzeg</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pasieczna 4c</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-19</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2015-10-20" ddo="2016-06-10">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>LUCIE</dtt:Jmeno>
+<dtt:Prijmeni>VEJAČKOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1979-09-10</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2015-10-20" ddo="2016-06-10">
+<dtt:ID_adresy>32131273</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Vamberk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Husovo náměstí</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>3</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>51754</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-19</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2014-07-01" ddo="2015-10-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>MILOŠ</dtt:Jmeno>
+<dtt:Prijmeni>PAVLIŠ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-05-14</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2014-07-01" ddo="2015-10-20">
+<dtt:ID_adresy>32131263</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Choceň</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Větrná</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1771</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>56501</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-07-11</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2013-07-10" ddo="2015-10-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>KAREL</dtt:Jmeno>
+<dtt:Prijmeni>KYNCL</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-03-30</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2013-07-10" ddo="2015-10-20">
+<dtt:ID_adresy>32131267</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Záhradí</dtt:Nazev_casti_obce>
+<dtt:Nazev_ulice>Peciny</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>307</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-19</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2013-07-10" ddo="2015-10-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>LUCIE</dtt:Jmeno>
+<dtt:Prijmeni>VEJAČKOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1979-09-10</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2013-07-10" ddo="2015-10-20">
+<dtt:ID_adresy>32131271</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Vamberk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Husovo náměstí</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>3</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>51754</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-19</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2013-07-10" ddo="2015-10-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JAROSLAW</dtt:Jmeno>
+<dtt:Prijmeni>MALIK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1971-06-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2013-07-10" ddo="2015-10-20">
+<dtt:ID_adresy>32131277</dtt:ID_adresy>
+<dtt:Kod_statu>616</dtt:Kod_statu>
+<dtt:Nazev_statu>Polská republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Zabrzeg</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pasieczna 4c</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2013-06-19</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-07-16" ddo="2014-07-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miloš</dtt:Jmeno>
+<dtt:Prijmeni>Pavliš</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-05-14</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-07-16" ddo="2014-07-01">
+<dtt:ID_adresy>32131261</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Choceň</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Větrná</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1771</dtt:Cislo_do_adresy>
+<dtt:PSC>56501</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-07-11</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-07-16" ddo="2015-10-20">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Raimund Heinl</dtt:Prijmeni>
+<dtt:Bydliste dod="2007-07-16" ddo="2015-10-20">
+<dtt:ID_adresy>32131257</dtt:ID_adresy>
+<dtt:Kod_statu>056</dtt:Kod_statu>
+<dtt:Nazev_statu>Belgické království</dtt:Nazev_statu>
+<dtt:Adresa_textem>Hauset, Kirchstr. 91, PSČ 4730</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2007-07-11</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-06-01" ddo="2007-07-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Jednatel</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Arnaud Pierre Genis</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-06-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-06-01" ddo="2007-07-16">
+<dtt:ID_adresy>32131255</dtt:ID_adresy>
+<dtt:Kod_statu>056</dtt:Kod_statu>
+<dtt:Nazev_statu>Belgické království</dtt:Nazev_statu>
+<dtt:Adresa_textem>Brusel, Avenue de la Sapiniere 22, 1180</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2006-06-01</dtt:Datum_zacatku>
+<dtt:Datum_konce>2007-07-11</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-04-27" ddo="2006-06-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Arnaud Pierre Genis</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-06-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-04-27" ddo="2006-06-01">
+<dtt:ID_adresy>32131332</dtt:ID_adresy>
+<dtt:Kod_statu>056</dtt:Kod_statu>
+<dtt:Nazev_statu>Belgické království</dtt:Nazev_statu>
+<dtt:Adresa_textem>Brusel, Avenue de la Sapiniere 22, PSČ 1180</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-03-10</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2006-03-10</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-04-27" ddo="2006-06-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miloš</dtt:Jmeno>
+<dtt:Prijmeni>Pavliš</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-05-14</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-04-27" ddo="2006-06-01">
+<dtt:ID_adresy>32131337</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Morašice</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>99</dtt:Cislo_do_adresy>
+<dtt:PSC>56951</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-03-10</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2006-04-27" ddo="2006-06-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Kyncl</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-03-30</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-04-27" ddo="2006-06-01">
+<dtt:ID_adresy>32131338</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Peciny</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>307</dtt:Cislo_do_adresy>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-03-10</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2005-08-04" ddo="2006-04-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miloš</dtt:Jmeno>
+<dtt:Prijmeni>Veselý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1960-11-28</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-08-04" ddo="2006-04-27">
+<dtt:ID_adresy>32131336</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 8</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Osinalická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>720/9</dtt:Cislo_do_adresy>
+<dtt:PSC>18000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2005-05-12</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-03-10</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2005-03-22" ddo="2006-04-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jean-Noël</dtt:Jmeno>
+<dtt:Prijmeni>Solesio</dtt:Prijmeni>
+<dtt:Datum_narozeni>1951-06-23</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-03-22" ddo="2006-04-27">
+<dtt:ID_adresy>32131330</dtt:ID_adresy>
+<dtt:Kod_statu>250</dtt:Kod_statu>
+<dtt:Nazev_statu>Francouzská republika</dtt:Nazev_statu>
+<dtt:Adresa_textem>254, Rue des Gobins, 69390 Charly</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2004-11-18</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-03-10</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2004-12-10</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-03-10</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2005-03-22" ddo="2006-04-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Andrle</dtt:Prijmeni>
+<dtt:Datum_narozeni>1957-07-04</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-03-22" ddo="2006-04-27">
+<dtt:ID_adresy>32131335</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Osevní</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>315</dtt:Cislo_do_adresy>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2004-11-18</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-03-10</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2002-12-27" ddo="2005-03-22">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Zagora</dtt:Prijmeni>
+<dtt:Datum_narozeni>1943-06-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-12-27" ddo="2005-03-22">
+<dtt:ID_adresy>32131329</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Svitavy</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Jateční</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>155</dtt:Cislo_do_adresy>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-10-09</dtt:Datum_zacatku>
+<dtt:Datum_konce>2004-11-18</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2002-10-14</dtt:Datum_zacatku>
+<dtt:Datum_konce>2004-11-18</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2002-12-27" ddo="2005-03-22">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Kyncl</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-03-30</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-12-27" ddo="2005-03-22">
+<dtt:ID_adresy>32131334</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Peciny</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>307</dtt:Cislo_do_adresy>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-10-09</dtt:Datum_zacatku>
+<dtt:Datum_konce>2004-11-18</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2002-12-27" ddo="2005-08-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miroslav</dtt:Jmeno>
+<dtt:Prijmeni>Fric</dtt:Prijmeni>
+<dtt:Datum_narozeni>1958-01-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-12-27" ddo="2005-08-04">
+<dtt:ID_adresy>32131331</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Svitavy</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Dolní Újezd</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>478</dtt:Cislo_do_adresy>
+<dtt:PSC>56961</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-10-09</dtt:Datum_zacatku>
+<dtt:Datum_konce>2005-05-12</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2002-10-14</dtt:Datum_zacatku>
+<dtt:Datum_konce>2005-05-12</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2002-12-27" ddo="2006-06-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Boucník</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-05-29</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-12-27" ddo="2006-06-01">
+<dtt:ID_adresy>32131333</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Svitavy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Majakovského</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2139</dtt:Cislo_do_adresy>
+<dtt:PSC>56802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-10-09</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2002-10-14</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2000-05-05" ddo="2002-12-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Boucník</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-05-29</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2000-05-05" ddo="2002-12-27">
+<dtt:ID_adresy>32131327</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Svitavy</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Svitavy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Majakovského</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2139</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1999-01-26" ddo="2000-05-05">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Boucník</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-05-29</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1999-01-26" ddo="2000-05-05">
+<dtt:ID_adresy>32131324</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Svitavy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Ant. Slavíčka</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>37</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1999-01-26" ddo="2002-12-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Zagora</dtt:Prijmeni>
+<dtt:Datum_narozeni>1943-06-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1999-01-26" ddo="2002-12-27">
+<dtt:ID_adresy>32131325</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Svitavy</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Jateční</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>155</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1999-01-26" ddo="2002-12-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miroslav</dtt:Jmeno>
+<dtt:Prijmeni>Fric</dtt:Prijmeni>
+<dtt:Datum_narozeni>1958-01-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1999-01-26" ddo="2002-12-27">
+<dtt:ID_adresy>32131326</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Dolní Újezd</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>478</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1999-01-26" ddo="2002-12-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Kyncl</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-03-30</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1999-01-26" ddo="2002-12-27">
+<dtt:ID_adresy>32131328</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Peciny</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>307</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1998-06-30" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Ptáček</dtt:Prijmeni>
+<dtt:Datum_narozeni>1946-01-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-06-30" ddo="1999-01-26">
+<dtt:ID_adresy>32131316</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 7</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Františka Křižíka</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>15</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1998-06-30" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>První místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miroslav</dtt:Jmeno>
+<dtt:Prijmeni>Vaněk</dtt:Prijmeni>
+<dtt:Datum_narozeni>1943-10-16</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-06-30" ddo="1999-01-26">
+<dtt:ID_adresy>32131319</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 4</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Vavřenova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1168</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1998-06-30" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Druhý místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Šedý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1966-08-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-06-30" ddo="1999-01-26">
+<dtt:ID_adresy>32131320</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 6</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Makovského</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1339/15</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1998-06-30" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Ivan</dtt:Jmeno>
+<dtt:Prijmeni>Mikšátko</dtt:Prijmeni>
+<dtt:Datum_narozeni>1953-05-13</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-06-30" ddo="1999-01-26">
+<dtt:ID_adresy>32131321</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Mladá Vožice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>17. listopadu</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>631</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1998-06-30" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Mgr.</dtt:Titul_pred>
+<dtt:Jmeno>Aleš</dtt:Jmeno>
+<dtt:Prijmeni>Blažek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1972-03-08</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-06-30" ddo="1999-01-26">
+<dtt:ID_adresy>32131322</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 8</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sokolovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>53</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-04-07" ddo="1998-06-30">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Votoupal</dtt:Prijmeni>
+<dtt:Datum_narozeni>1966-08-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-04-07" ddo="1998-06-30">
+<dtt:ID_adresy>32131308</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 2</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Vinohradská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>6</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-04-07" ddo="1998-06-30">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Lukáš</dtt:Jmeno>
+<dtt:Prijmeni>Oliva</dtt:Prijmeni>
+<dtt:Datum_narozeni>1973-12-20</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-04-07" ddo="1998-06-30">
+<dtt:ID_adresy>32131309</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>28. pluku</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>46</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-04-07" ddo="1998-06-30">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Bořivoj</dtt:Jmeno>
+<dtt:Prijmeni>Frýbert</dtt:Prijmeni>
+<dtt:Datum_narozeni>1945-06-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-04-07" ddo="1998-06-30">
+<dtt:ID_adresy>32131310</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 5</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Kroftova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>9</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-04-07" ddo="1998-06-30">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Druhý místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Bohuslav</dtt:Jmeno>
+<dtt:Prijmeni>Poduška</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-01-19</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-04-07" ddo="1998-06-30">
+<dtt:ID_adresy>32131311</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 5-Stodůlky</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Fantova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1794</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-04-07" ddo="1998-06-30">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>První místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Ptáček</dtt:Prijmeni>
+<dtt:Datum_narozeni>1946-01-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-04-07" ddo="1998-06-30">
+<dtt:ID_adresy>32131318</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 7</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Františka Křižíka</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>15</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-04-07" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>RNDr.</dtt:Titul_pred>
+<dtt:Jmeno>Stanislav</dtt:Jmeno>
+<dtt:Prijmeni>Hájek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1946-11-23</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-04-07" ddo="1999-01-26">
+<dtt:ID_adresy>32131317</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Čelákovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>U hřiště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1118</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-04-07" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Zagora</dtt:Prijmeni>
+<dtt:Datum_narozeni>1943-06-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-04-07" ddo="1999-01-26">
+<dtt:ID_adresy>32131323</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Svitavy</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Jateční</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>155</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1997-01-06" ddo="1997-04-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miloš</dtt:Jmeno>
+<dtt:Prijmeni>Lisý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1946-02-12</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-01-06" ddo="1997-04-07">
+<dtt:ID_adresy>32131307</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 6</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Haberfeldova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>8</dtt:Cislo_do_adresy>
+<dtt:PSC>16900</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1996-08-14" ddo="1997-01-06">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Mário</dtt:Jmeno>
+<dtt:Prijmeni>Polák</dtt:Prijmeni>
+<dtt:Bydliste dod="1996-08-14" ddo="1997-01-06">
+<dtt:ID_adresy>32131302</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Bratislava V-Petržalka</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Hálova ul.</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1056/9</dtt:Cislo_do_adresy>
+<dtt:PSC>85101</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1996-08-14" ddo="1997-04-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>RNDr.</dtt:Titul_pred>
+<dtt:Jmeno>Vlastimil</dtt:Jmeno>
+<dtt:Prijmeni>Brandejs</dtt:Prijmeni>
+<dtt:Datum_narozeni>1961-11-09</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1996-08-14" ddo="1997-04-07">
+<dtt:ID_adresy>32131304</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 5-Hlubočepy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pivcova ul.</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>958/10</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1996-08-14" ddo="1997-04-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Kamil</dtt:Jmeno>
+<dtt:Prijmeni>Ziegler</dtt:Prijmeni>
+<dtt:Datum_narozeni>1962-03-22</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1996-08-14" ddo="1997-04-07">
+<dtt:ID_adresy>32131306</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 4</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Klapálkova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2243/11</dtt:Cislo_do_adresy>
+<dtt:PSC>14000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1994-08-01" ddo="1996-08-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>II. místopředseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miloslav</dtt:Jmeno>
+<dtt:Prijmeni>Novák</dtt:Prijmeni>
+<dtt:Bydliste dod="1994-08-01" ddo="1996-08-14">
+<dtt:ID_adresy>32131301</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 3</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Lucemburská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>3/1578</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1994-08-01" ddo="1996-08-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Mário</dtt:Jmeno>
+<dtt:Prijmeni>Polák</dtt:Prijmeni>
+<dtt:Bydliste dod="1994-08-01" ddo="1996-08-14">
+<dtt:ID_adresy>32131314</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Senica nad Myjavou</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Robotnická ul. 55</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Text dod="1994-08-01" ddo="1996-08-14">
+.
+</dtt:Text>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1994-03-28" ddo="1997-04-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Bohuslav</dtt:Prijmeni>
+<dtt:Datum_narozeni>1953-11-27</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1994-03-28" ddo="1997-04-07">
+<dtt:ID_adresy>32131300</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 8</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Vosmíkových</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>13</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1994-03-16" ddo="1994-08-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Šeps</dtt:Prijmeni>
+<dtt:Bydliste dod="1994-03-16" ddo="1994-08-01">
+<dtt:ID_adresy>32131299</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hradec Králové</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pouchovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>787</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1994-03-16" ddo="1997-04-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>I.místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Zagora</dtt:Prijmeni>
+<dtt:Datum_narozeni>1943-06-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1994-03-16" ddo="1997-04-07">
+<dtt:ID_adresy>32131313</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Jateční</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>155</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-11-12" ddo="1994-03-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>I. místopředseda představens.</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Šeps</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1994-03-16">
+<dtt:ID_adresy>32131296</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hradec Králové</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pouchovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>787</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-11-12" ddo="1994-03-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Roman</dtt:Jmeno>
+<dtt:Prijmeni>Trebichavský</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1994-03-16">
+<dtt:ID_adresy>32131298</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Bratislava</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sklenárova 24</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-11-12" ddo="1994-03-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Bohuslav</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1994-03-28">
+<dtt:ID_adresy>32131295</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 8</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Vosmíkových</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>23</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-11-12" ddo="1994-08-01">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>II. místopředseda představens.</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Drahomír</dtt:Jmeno>
+<dtt:Prijmeni>Ziegler</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1994-08-01">
+<dtt:ID_adresy>32131297</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 9</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Cíglerova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1082</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-11-12" ddo="1996-08-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>RNDr.</dtt:Titul_pred>
+<dtt:Jmeno>Vlastimil</dtt:Jmeno>
+<dtt:Prijmeni>Brandejs</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1996-08-14">
+<dtt:ID_adresy>32131315</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 8</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Thámova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>23</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-11-12" ddo="1997-04-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miroslav</dtt:Jmeno>
+<dtt:Prijmeni>Brýdl</dtt:Prijmeni>
+<dtt:Datum_narozeni>1941-06-05</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1997-04-07">
+<dtt:ID_adresy>32131303</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Lidická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>913</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-11-12" ddo="1997-04-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miroslav</dtt:Jmeno>
+<dtt:Prijmeni>Fric</dtt:Prijmeni>
+<dtt:Datum_narozeni>1958-01-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1997-04-07">
+<dtt:ID_adresy>32131305</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Dolní Újezd</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>478</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-11-12" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Tomáš</dtt:Jmeno>
+<dtt:Prijmeni>Fuks</dtt:Prijmeni>
+<dtt:Datum_narozeni>1951-10-31</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1999-01-26">
+<dtt:ID_adresy>32131312</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Kodaňská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1459/48</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-05-04" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Šeps</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-05-04" ddo="1993-11-12">
+<dtt:ID_adresy>32131287</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hradec Králové</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pouchovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>787</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-05-04" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Smola</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-05-04" ddo="1993-11-12">
+<dtt:ID_adresy>32131288</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hradec Králové</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Veverkova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1397</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1993-05-04" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>dozorčí rada</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Krejčí</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-05-04" ddo="1993-11-12">
+<dtt:ID_adresy>32131293</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomzšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dukelská 977</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1992-05-04" ddo="1993-05-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>dozorčí rada</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Večeře</dtt:Prijmeni>
+<dtt:Bydliste dod="1992-05-04" ddo="1993-05-04">
+<dtt:ID_adresy>32131290</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Moravský Krumlov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>323</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1992-05-04" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>JUDr.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Kejík</dtt:Prijmeni>
+<dtt:Bydliste dod="1992-05-04" ddo="1993-11-12">
+<dtt:ID_adresy>32131285</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Moravský Krumlov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pionýrská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>469</dtt:Cislo_do_adresy>
+<dtt:PSC>67201</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1992-05-04" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaromír</dtt:Jmeno>
+<dtt:Prijmeni>Semerád</dtt:Prijmeni>
+<dtt:Bydliste dod="1992-05-04" ddo="1993-11-12">
+<dtt:ID_adresy>32131286</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Znojmo</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Gagarinova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>14</dtt:Cislo_do_adresy>
+<dtt:PSC>66902</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1992-05-04" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaraslav</dtt:Jmeno>
+<dtt:Prijmeni>Kudrna</dtt:Prijmeni>
+<dtt:Bydliste dod="1992-05-04" ddo="1993-11-12">
+<dtt:ID_adresy>32131289</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 6- Strašnice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Farní 1010/19</dtt:Nazev_ulice>
+<dtt:PSC>16000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1992-05-04" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>dozorčí rada</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Talíř</dtt:Prijmeni>
+<dtt:Bydliste dod="1992-05-04" ddo="1993-11-12">
+<dtt:ID_adresy>32131291</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Svitavy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Bří Čapků</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>15</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1992-05-04" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>dozorčí rada</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>JUDr.</dtt:Titul_pred>
+<dtt:Jmeno>Rudolf</dtt:Jmeno>
+<dtt:Prijmeni>Brož</dtt:Prijmeni>
+<dtt:Bydliste dod="1992-05-04" ddo="1993-11-12">
+<dtt:ID_adresy>32131292</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 3- Žižkov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pod lipami 61</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1992-05-04" ddo="1994-01-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel společnosti</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Šeps</dtt:Prijmeni>
+<dtt:Bydliste dod="1992-05-04" ddo="1994-01-27">
+<dtt:ID_adresy>32131294</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hradec Králové</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pouchovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>787</dtt:Cislo_do_adresy>
+<dtt:PSC>50000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1991-10-23" ddo="1992-05-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Talíř</dtt:Prijmeni>
+<dtt:Bydliste dod="1991-10-23" ddo="1992-05-04">
+<dtt:ID_adresy>32131270</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Svitavy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Bří Čapků</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>15</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1991-10-23" ddo="1992-05-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaromír</dtt:Jmeno>
+<dtt:Prijmeni>Čermák</dtt:Prijmeni>
+<dtt:Bydliste dod="1991-10-23" ddo="1992-05-04">
+<dtt:ID_adresy>32131278</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Znojmo</dtt:Nazev_obce>
+<dtt:Nazev_ulice>17.listopadu</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>17</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1991-10-23" ddo="1992-05-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Bohuslav</dtt:Jmeno>
+<dtt:Prijmeni>Zedník</dtt:Prijmeni>
+<dtt:Bydliste dod="1991-10-23" ddo="1992-05-04">
+<dtt:ID_adresy>32131280</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Moravský Krumlov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dvořákova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>637</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1991-10-23" ddo="1993-05-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Souček</dtt:Prijmeni>
+<dtt:Bydliste dod="1991-10-23" ddo="1993-05-04">
+<dtt:ID_adresy>32131276</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hradec Králové</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Písečná</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>769</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1991-10-23" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Ing.Jan Lorenc, Csc</dtt:Prijmeni>
+<dtt:Bydliste dod="1991-10-23" ddo="1993-11-12">
+<dtt:ID_adresy>32131268</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pod altánem</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>46</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1991-10-23" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Rückl</dtt:Prijmeni>
+<dtt:Bydliste dod="1991-10-23" ddo="1993-11-12">
+<dtt:ID_adresy>32131272</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 1</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Rámová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1/739</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1991-10-23" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaromír</dtt:Jmeno>
+<dtt:Prijmeni>Hegr</dtt:Prijmeni>
+<dtt:Bydliste dod="1991-10-23" ddo="1993-11-12">
+<dtt:ID_adresy>32131274</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mařákova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1108</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1991-10-23" ddo="1993-11-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Prokopec</dtt:Prijmeni>
+<dtt:Bydliste dod="1991-10-23" ddo="1993-11-12">
+<dtt:ID_adresy>32131283</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Broumov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Křenická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>209</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1991-01-25" ddo="1991-10-23">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Holejšovský</dtt:Prijmeni>
+<dtt:Bydliste dod="1991-01-25" ddo="1991-10-23">
+<dtt:ID_adresy>32131266</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 1</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Zlatnická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>11</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1991-01-25" ddo="1992-05-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představ.-generál.řed</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Šeps</dtt:Prijmeni>
+<dtt:Bydliste dod="1991-01-25" ddo="1992-05-04">
+<dtt:ID_adresy>32131264</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hradec Králové 3</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pouchovská 787</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1990-12-03" ddo="1991-01-25">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Šeps</dtt:Prijmeni>
+<dtt:Bydliste dod="1990-12-03" ddo="1991-01-25">
+<dtt:ID_adresy>32131254</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hradec Králové 3</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pouchovská 787</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1990-12-03" ddo="1991-01-25">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Holejšovský</dtt:Prijmeni>
+<dtt:Bydliste dod="1990-12-03" ddo="1991-01-25">
+<dtt:ID_adresy>32131258</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 1</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Zlatnická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>11</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1990-12-03" ddo="1991-10-23">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Paťava</dtt:Prijmeni>
+<dtt:Bydliste dod="1990-12-03" ddo="1991-10-23">
+<dtt:ID_adresy>32131256</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Budislav 34, okr. Svitavy</dtt:Nazev_obce>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1990-12-03" ddo="1991-10-23">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Dr.</dtt:Titul_pred>
+<dtt:Jmeno>Viktor</dtt:Jmeno>
+<dtt:Prijmeni>Kožený</dtt:Prijmeni>
+<dtt:Bydliste dod="1990-12-03" ddo="1991-10-23">
+<dtt:ID_adresy>32131260</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>MA 02108-USA, ó Louisburg Sg.</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Boston</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1990-12-03" ddo="1991-10-23">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Dr.</dtt:Titul_pred>
+<dtt:Jmeno>Jana</dtt:Jmeno>
+<dtt:Prijmeni>Suchá</dtt:Prijmeni>
+<dtt:Bydliste dod="1990-12-03" ddo="1991-10-23">
+<dtt:ID_adresy>32131262</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha - Libeň</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sokolovská 179</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Text dod="2011-06-13">
+Způsob jednání za společnost:
+
+Za společnost jsou oprávněni jednat vždy dva jednatelé společně.
+</dtt:Text>
+<dtt:Text dod="2007-07-27" ddo="2011-06-13">
+Způsob jednání za společnost:
+
+Za společnost jsou oprávněni jednat ve všech záležitostech vždy dva jednatelé společně. Za společnost jsou oprávněni jednat rovněž kterýkoliv z jednatelů a kterýkoliv z prokuristů, a to vždy společně, s výjimkou zcizování a zatěžování nemovitostí.
+</dtt:Text>
+<dtt:Text dod="2006-06-01" ddo="2007-07-27">
+Způsob jednání za společnost:
+
+Má-li společnost pouze jednoho jednatele jedná tento jednatel jménem společnosti samostatně. Je-li jednatelů více, jednají jménem společnosti vždy dva jednatelé společně.
+</dtt:Text>
+<dtt:Text dod="1999-01-26" ddo="2006-06-01">
+Zastupování a podepisování:
+
+1. Společnost bude zastupována představenstvem, a to vždy dvěma
+
+členy představenstva společnosti společně.
+
+2. Za společnost podepisují dva členové představenstva společně.
+
+Podepisování jménem společnosti probíhá tak, že vždy dva tito
+
+členové představenstva společnosti připojí své vlastnoruční
+
+podpisy k napsanému nebo vytištěnému obchodnímu jménu
+
+společnosti.
+</dtt:Text>
+<dtt:Text dod="1996-08-14" ddo="1999-01-26">
+Zastupování a podepisování:
+
+K jednání a zastupování společnosti je oprávněno předsta-
+
+venstvo v rozsahu stanoveném obecně závaznými právními předpisy
+
+a těmito stanovami. K samostatnému jednání a zastupování spo-
+
+lečnosti je oprávněn předseda představenstva nebo místopředseda
+
+představenstva nebo společně dva členové představenstva nebo
+
+osoba, která je k tomu představenstvem písemně zmocněna.
+
+Podepisování za společnost se uskutečňuje tak, že k vytiště-
+
+nému, otištěnému nebo napsanému obchodnímu jménu společnosti
+
+připojí svůj vlastnoruční podpis
+
+a) předseda představenstva
+
+b) místopředseda představenstva
+
+c) dva členové představenstva společně
+
+d) osoba, která je k tomu představenstvem písemně zmocněna.
+</dtt:Text>
+<dtt:Text dod="1993-11-12" ddo="1996-08-14">
+Zastupování a podepisování:
+
+Společnost zastupuje vůči třetím osobám před soudy a před
+
+jinými orgány v celém rozsahu představenstvo a nebo osoby,
+
+které k tomu jsou představenstvem písemně pověřeny. Ředitel
+
+jedná za společnost v rozsahu písemného pověření
+
+představenstvem. Za společnost podepisuje předseda
+
+představenstva, místopředseda, nebo dva členové
+
+představenstva nebo osoba, která je k tomu představenstvem
+
+písemně zmocněna.
+</dtt:Text>
+</dtt:Statutarni_organ>
+<dtt:Prokura>
+<dtt:Prokurista dod="2013-03-05" ddo="2013-07-10">
+<dtt:Kod_angm>3</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jaroslaw</dtt:Jmeno>
+<dtt:Prijmeni>Malik</dtt:Prijmeni>
+<dtt:Datum_narozeni>1971-06-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2013-03-05" ddo="2013-07-10">
+<dtt:ID_adresy>32131347</dtt:ID_adresy>
+<dtt:Kod_statu>616</dtt:Kod_statu>
+<dtt:Nazev_statu>Polská republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Zabrzeg</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pasieczna</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>4c</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Prokurista>
+<dtt:Prokurista dod="2011-03-08" ddo="2013-07-10">
+<dtt:Kod_angm>3</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Lucie</dtt:Jmeno>
+<dtt:Prijmeni>Vejačková</dtt:Prijmeni>
+<dtt:Datum_narozeni>1979-09-10</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2011-03-08" ddo="2013-07-10">
+<dtt:ID_adresy>32131346</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Vamberk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Husovo náměstí</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>3</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>51754</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Prokurista>
+<dtt:Prokurista dod="2010-06-02" ddo="2013-03-05">
+<dtt:Kod_angm>3</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Anja Griesche</dtt:Prijmeni>
+<dtt:Datum_narozeni>1979-03-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2010-06-02" ddo="2013-03-05">
+<dtt:ID_adresy>32131345</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>U Školek</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1196</dtt:Cislo_do_adresy>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Prokurista>
+<dtt:Prokurista dod="2009-07-11" ddo="2010-06-02">
+<dtt:Kod_angm>3</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Anja Griesche</dtt:Prijmeni>
+<dtt:Datum_narozeni>1979-03-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2009-07-11" ddo="2010-06-02">
+<dtt:ID_adresy>32131344</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>J.E.Purkyně</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>917</dtt:Cislo_do_adresy>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Prokurista>
+<dtt:Prokurista dod="2006-08-16" ddo="2008-06-18">
+<dtt:Kod_angm>3</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Xavier Marie</dtt:Jmeno>
+<dtt:Prijmeni>Lagresle</dtt:Prijmeni>
+<dtt:Datum_narozeni>1962-01-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-08-16" ddo="2008-06-18">
+<dtt:ID_adresy>32131343</dtt:ID_adresy>
+<dtt:Kod_statu>250</dtt:Kod_statu>
+<dtt:Nazev_statu>Francouzská republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Drumettaz-Clarafond</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Chemin du Moulin</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>208</dtt:Cislo_do_adresy>
+<dtt:PSC>73420</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Prokurista>
+<dtt:Prokurista dod="2006-07-04" ddo="2007-07-16">
+<dtt:Kod_angm>3</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Miloš</dtt:Jmeno>
+<dtt:Prijmeni>Pavliš</dtt:Prijmeni>
+<dtt:Datum_narozeni>1974-05-14</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-07-04" ddo="2007-07-16">
+<dtt:ID_adresy>32131340</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Choceň</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Větrná</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1771</dtt:Cislo_do_adresy>
+<dtt:PSC>56501</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Prokurista>
+<dtt:Prokurista dod="2006-07-04" ddo="2009-06-05">
+<dtt:Kod_angm>3</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Boucník</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-05-29</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-07-04" ddo="2009-06-05">
+<dtt:ID_adresy>32131339</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Svitavy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Majakovského</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2139</dtt:Cislo_do_adresy>
+<dtt:PSC>56802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Prokurista>
+<dtt:Prokurista dod="2006-07-04" ddo="2011-03-08">
+<dtt:Kod_angm>3</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Pavel</dtt:Jmeno>
+<dtt:Prijmeni>Kusý</dtt:Prijmeni>
+<dtt:Datum_narozeni>1945-12-05</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-07-04" ddo="2011-03-08">
+<dtt:ID_adresy>32131342</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dukelská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>987</dtt:Cislo_do_adresy>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Prokurista>
+<dtt:Prokurista dod="2006-07-04" ddo="2013-07-10">
+<dtt:Kod_angm>3</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Kyncl</dtt:Prijmeni>
+<dtt:Datum_narozeni>1964-03-30</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2006-07-04" ddo="2013-07-10">
+<dtt:ID_adresy>32131341</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Peciny</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>307</dtt:Cislo_do_adresy>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Prokurista>
+<dtt:Text dod="2006-07-04">
+Prokurista se podepisuje tím způsobem, že k firmě společnosti připojí dodatek označující prokuru a svůj podpis. Za společnost podepisují vždy dva prokuristé společně.
+</dtt:Text>
+</dtt:Prokura>
+<dtt:Dozorci_rada>
+<dtt:Clen_DR dod="2005-08-15" ddo="2006-06-01">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Předseda dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Reinier Paul Neeteson</dtt:Prijmeni>
+<dtt:Datum_narozeni>1947-01-19</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2005-08-15" ddo="2006-06-01">
+<dtt:ID_adresy>32131371</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Adresa_textem>Fichthang 11, D-52074 Aachen</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2005-05-12</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2005-05-12</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2004-11-24" ddo="2006-06-01">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Jean-Philippe Buisson</dtt:Prijmeni>
+<dtt:Datum_narozeni>1966-02-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-11-24" ddo="2006-06-01">
+<dtt:ID_adresy>32131374</dtt:ID_adresy>
+<dtt:Kod_statu>156</dtt:Kod_statu>
+<dtt:Nazev_statu>Čínská lidová republika</dtt:Nazev_statu>
+<dtt:Adresa_textem>Windsor Palace, Villa no 44, 2222 Jianhe Lu, 200336 Shanghai</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2004-05-12</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2004-11-24" ddo="2006-06-01">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Nadhir Laggoune</dtt:Prijmeni>
+<dtt:Datum_narozeni>1959-03-20</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-11-24" ddo="2006-06-01">
+<dtt:ID_adresy>32131375</dtt:ID_adresy>
+<dtt:Kod_statu>250</dtt:Kod_statu>
+<dtt:Nazev_statu>Francouzská republika</dtt:Nazev_statu>
+<dtt:Adresa_textem>28, route de Secheron - 73000 Jacob Bellecombette</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2004-05-12</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2003-03-31" ddo="2004-11-24">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Roberto</dtt:Jmeno>
+<dtt:Prijmeni>Caliari</dtt:Prijmeni>
+<dtt:Datum_narozeni>1946-02-03</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-03-31" ddo="2004-11-24">
+<dtt:ID_adresy>32131367</dtt:ID_adresy>
+<dtt:Kod_statu>250</dtt:Kod_statu>
+<dtt:Nazev_statu>Francouzská republika</dtt:Nazev_statu>
+<dtt:Adresa_textem>225, Rue du Fbg St-Honoré, 78008 Paříž</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-10-25</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2003-03-31" ddo="2004-11-24">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Douglas James Mattscheck</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-05-23</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-03-31" ddo="2004-11-24">
+<dtt:ID_adresy>32131368</dtt:ID_adresy>
+<dtt:Kod_statu>840</dtt:Kod_statu>
+<dtt:Nazev_statu>Spojené státy americké</dtt:Nazev_statu>
+<dtt:Adresa_textem>36, Lebrun Circle, Amherst (NY), 14226</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-10-25</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2003-03-31" ddo="2006-06-01">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Edouard Pierre Joseph Koeune</dtt:Prijmeni>
+<dtt:Datum_narozeni>1943-08-26</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2003-03-31" ddo="2006-06-01">
+<dtt:ID_adresy>32131369</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Adresa_textem>I. Rote-Haag-Weg 47, 52076 Aachen</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-10-25</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2002-12-27" ddo="2006-06-01">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Tmej</dtt:Prijmeni>
+<dtt:Datum_narozeni>1959-05-21</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-12-27" ddo="2006-06-01">
+<dtt:ID_adresy>32131372</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Chotěnov</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>60</dtt:Cislo_do_adresy>
+<dtt:PSC>56966</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-08-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2002-12-27" ddo="2006-06-01">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Urban</dtt:Prijmeni>
+<dtt:Datum_narozeni>1954-09-20</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2002-12-27" ddo="2006-06-01">
+<dtt:ID_adresy>32131373</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mařákova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1106</dtt:Cislo_do_adresy>
+<dtt:PSC>57001</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2002-08-23</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="2001-10-02" ddo="2005-08-15">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Předseda dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Reinier Paul Neeteson</dtt:Prijmeni>
+<dtt:Datum_narozeni>1947-01-19</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-10-02" ddo="2005-08-15">
+<dtt:ID_adresy>32131370</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Adresa_textem>Fichthang 11, D-52074 Aachen</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2001-03-22</dtt:Datum_zacatku>
+<dtt:Datum_konce>2005-05-12</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2001-03-22</dtt:Datum_zacatku>
+<dtt:Datum_konce>2005-05-12</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1999-01-26" ddo="2001-10-02">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Předseda dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Marc Louis Paul Van Ossel, dat.nar. 9. února 1947</dtt:Prijmeni>
+<dtt:Bydliste dod="1999-01-26" ddo="2001-10-02">
+<dtt:ID_adresy>32131363</dtt:ID_adresy>
+<dtt:Kod_statu>056</dtt:Kod_statu>
+<dtt:Nazev_statu>Belgické království</dtt:Nazev_statu>
+<dtt:Adresa_textem>Avenue Bel Air 31, 1330 Rixensart</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_konce>2000-09-27</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1999-01-26" ddo="2003-03-31">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Roberto</dtt:Jmeno>
+<dtt:Prijmeni>Caliari</dtt:Prijmeni>
+<dtt:Datum_narozeni>1946-02-03</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1999-01-26" ddo="2003-03-31">
+<dtt:ID_adresy>32131364</dtt:ID_adresy>
+<dtt:Kod_statu>250</dtt:Kod_statu>
+<dtt:Nazev_statu>Francouzská republika</dtt:Nazev_statu>
+<dtt:Adresa_textem>225 Rue du Fbg St.-Honoré, 78008 Paris</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1999-01-26" ddo="2003-03-31">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Prijmeni>Douglas James Mattscheck, dat.nar. 23. května 1955</dtt:Prijmeni>
+<dtt:Bydliste dod="1999-01-26" ddo="2003-03-31">
+<dtt:ID_adresy>32131365</dtt:ID_adresy>
+<dtt:Kod_statu>840</dtt:Kod_statu>
+<dtt:Nazev_statu>Spojené státy americké</dtt:Nazev_statu>
+<dtt:Adresa_textem>36 Lebrun Circle, Amherst (NY), 14226</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1999-01-26" ddo="2003-03-31">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Funkce>Člen dozorčí rady</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Edouard</dtt:Jmeno>
+<dtt:Prijmeni>Koeune</dtt:Prijmeni>
+<dtt:Datum_narozeni>1943-08-26</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1999-01-26" ddo="2003-03-31">
+<dtt:ID_adresy>32131366</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Adresa_textem>I. Rote-Haag-Weg 47, 52076 Aachen</dtt:Adresa_textem>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1998-09-14" ddo="2002-12-27">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Antoš</dtt:Prijmeni>
+<dtt:Datum_narozeni>1959-02-10</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-09-14" ddo="2002-12-27">
+<dtt:ID_adresy>32131361</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Znojmo</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Moravský Krumlov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>T.G. Masaryka</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>42</dtt:Cislo_do_adresy>
+<dtt:PSC>67201</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1998-09-14" ddo="2002-12-27">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Coufal</dtt:Prijmeni>
+<dtt:Datum_narozeni>1954-01-06</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-09-14" ddo="2002-12-27">
+<dtt:ID_adresy>32131362</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Znojmo</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Moravský Krumlov</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Znojemská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>331</dtt:Cislo_do_adresy>
+<dtt:PSC>67201</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1998-06-30" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Chroustovský</dtt:Prijmeni>
+<dtt:Datum_narozeni>1966-12-15</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-06-30" ddo="1999-01-26">
+<dtt:ID_adresy>32131359</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 5</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Geologická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>922/3</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1998-06-30" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jakub</dtt:Jmeno>
+<dtt:Prijmeni>Moš</dtt:Prijmeni>
+<dtt:Datum_narozeni>1970-07-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1998-06-30" ddo="1999-01-26">
+<dtt:ID_adresy>32131360</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 6 - Veleslavín</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Nad stanicí</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2/147</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1997-04-07" ddo="1998-06-30">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Talíř</dtt:Prijmeni>
+<dtt:Datum_narozeni>1947-07-13</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-04-07" ddo="1998-06-30">
+<dtt:ID_adresy>32131354</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Svitavy</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Svitavy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>bří Čapků</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>15</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1997-04-07" ddo="1998-06-30">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Lenka</dtt:Jmeno>
+<dtt:Prijmeni>Kenderová</dtt:Prijmeni>
+<dtt:Datum_narozeni>1962-10-17</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-04-07" ddo="1998-06-30">
+<dtt:ID_adresy>32131355</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 2</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Italská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1997-04-07" ddo="1999-01-26">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>ing.</dtt:Titul_pred>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Schut</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1948-05-10</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-04-07" ddo="1999-01-26">
+<dtt:ID_adresy>32131358</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Vyžlovská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>48</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1997-01-06" ddo="1997-04-07">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jarmila</dtt:Jmeno>
+<dtt:Prijmeni>Čermáková</dtt:Prijmeni>
+<dtt:Datum_narozeni>1948-02-29</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-01-06" ddo="1997-04-07">
+<dtt:ID_adresy>32131352</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 9</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Novoborská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>374/29</dtt:Cislo_do_adresy>
+<dtt:PSC>19000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1997-01-06" ddo="1997-04-07">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Pekárek</dtt:Prijmeni>
+<dtt:Datum_narozeni>1936-10-20</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1997-01-06" ddo="1997-04-07">
+<dtt:ID_adresy>32131353</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Pardubice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sezemická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1397</dtt:Cislo_do_adresy>
+<dtt:PSC>53000</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1995-07-24" ddo="1997-04-07">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Prof.Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Seger</dtt:Prijmeni>
+<dtt:Titul_za>CSc.</dtt:Titul_za>
+<dtt:Datum_narozeni>1938-02-21</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1995-07-24" ddo="1997-04-07">
+<dtt:ID_adresy>32131351</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 10</dtt:Nazev_obce>
+<dtt:Nazev_ulice>U Zdravotního ústavu</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>č.1</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1993-11-12" ddo="1995-07-24">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Ivan</dtt:Jmeno>
+<dtt:Prijmeni>Seyček</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1995-07-24">
+<dtt:ID_adresy>32131348</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Praha 8</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Bezinkova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>164</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1993-11-12" ddo="1997-01-06">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Bobek</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1997-01-06">
+<dtt:ID_adresy>32131349</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Liberec 5</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Na výšinkách 437</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1993-11-12" ddo="1997-01-06">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Talíř</dtt:Prijmeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1997-01-06">
+<dtt:ID_adresy>32131350</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Svitavy</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Bří Čapků</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>15</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1993-11-12" ddo="1998-09-14">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Koc</dtt:Prijmeni>
+<dtt:Datum_narozeni>1959-01-07</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1998-09-14">
+<dtt:ID_adresy>32131356</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hodonice</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>120</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+<dtt:Clen_DR dod="1993-11-12" ddo="1998-09-14">
+<dtt:Clen>
+<dtt:Kod_angm>4</dtt:Kod_angm>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Krejčí</dtt:Prijmeni>
+<dtt:Datum_narozeni>1960-02-26</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1993-11-12" ddo="1998-09-14">
+<dtt:ID_adresy>32131357</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dukelská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>977</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_DR>
+</dtt:Dozorci_rada>
+<dtt:Spolecnici_s_vkladem>
+<dtt:Spolecnik_s_vkladem dod="2017-02-01">
+<dtt:Kod_angm>24</dtt:Kod_angm>
+<dtt:Pravnicka_osoba dod="2017-02-01">
+<dtt:Obchodni_firma>Compagnie de Saint-Gobain Zweigniederlassung Deutschland</dtt:Obchodni_firma>
+<dtt:Sidlo dod="2017-02-01">
+<dtt:ID_adresy>32131381</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Nazev_obce>52070 Aachen</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Krefelder Straße 195</dtt:Nazev_ulice>
+</dtt:Sidlo>
+</dtt:Pravnicka_osoba>
+<dtt:Vklad_spolecnika dod="2017-02-01">
+<dtt:Vklad>
+<dtt:Kc>20000</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100</dtt:Procenta>
+</dtt:Splaceno>
+<dtt:Obchodni_podil>
+<dtt:Text>0;01</dtt:Text>
+</dtt:Obchodni_podil>
+</dtt:Vklad_spolecnika>
+</dtt:Spolecnik_s_vkladem>
+<dtt:Spolecnik_s_vkladem dod="2014-07-01">
+<dtt:Kod_angm>24</dtt:Kod_angm>
+<dtt:Pravnicka_osoba dod="2014-07-01">
+<dtt:IZO>HRB 17325</dtt:IZO>
+<dtt:Obchodni_firma>Saint-Gobain Performance Plastics Isofluor GmbH</dtt:Obchodni_firma>
+<dtt:Sidlo dod="2014-07-01">
+<dtt:ID_adresy>32131378</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Nazev_obce>Neuss</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Ziegeleistraße 2/Kreitzweg</dtt:Nazev_ulice>
+<dtt:PSC>41472</dtt:PSC>
+</dtt:Sidlo>
+</dtt:Pravnicka_osoba>
+<dtt:Vklad_spolecnika dod="2015-10-20">
+<dtt:Vklad>
+<dtt:Kc>2045796000;00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100;00</dtt:Procenta>
+</dtt:Splaceno>
+<dtt:Obchodni_podil>
+<dtt:Text>99;99</dtt:Text>
+</dtt:Obchodni_podil>
+</dtt:Vklad_spolecnika>
+<dtt:Vklad_spolecnika dod="2014-07-01" ddo="2015-10-20">
+<dtt:Vklad>
+<dtt:Kc>2045796000,00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100</dtt:Procenta>
+</dtt:Splaceno>
+<dtt:Obchodni_podil>
+<dtt:Text>99,99 %</dtt:Text>
+</dtt:Obchodni_podil>
+</dtt:Vklad_spolecnika>
+</dtt:Spolecnik_s_vkladem>
+<dtt:Spolecnik_s_vkladem dod="2014-07-01" ddo="2017-02-01">
+<dtt:Kod_angm>24</dtt:Kod_angm>
+<dtt:Pravnicka_osoba dod="2014-07-01" ddo="2017-02-01">
+<dtt:Obchodni_firma>Compagnie de Saint-Gobain Zweigniederlassung Deutschland</dtt:Obchodni_firma>
+<dtt:Sidlo dod="2014-07-01" ddo="2017-02-01">
+<dtt:ID_adresy>32131380</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Adresa_textem>Cáchy, Viktoriaallee 3-5, 52066</dtt:Adresa_textem>
+</dtt:Sidlo>
+</dtt:Pravnicka_osoba>
+<dtt:Vklad_spolecnika dod="2015-10-20" ddo="2017-02-01">
+<dtt:Vklad>
+<dtt:Kc>20000;00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100;00</dtt:Procenta>
+</dtt:Splaceno>
+<dtt:Obchodni_podil>
+<dtt:Text>0;01</dtt:Text>
+</dtt:Obchodni_podil>
+</dtt:Vklad_spolecnika>
+<dtt:Vklad_spolecnika dod="2014-07-01" ddo="2015-10-20">
+<dtt:Vklad>
+<dtt:Kc>20000,00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100</dtt:Procenta>
+</dtt:Splaceno>
+<dtt:Obchodni_podil>
+<dtt:Text>0,01 %</dtt:Text>
+</dtt:Obchodni_podil>
+</dtt:Vklad_spolecnika>
+</dtt:Spolecnik_s_vkladem>
+<dtt:Spolecnik_s_vkladem dod="2013-03-05" ddo="2014-07-01">
+<dtt:Kod_angm>24</dtt:Kod_angm>
+<dtt:Pravnicka_osoba dod="2013-03-05" ddo="2014-07-01">
+<dtt:IZO>HRB 1364</dtt:IZO>
+<dtt:Obchodni_firma>SAINT-GOBAIN Vetrotex Deutschland GmbH</dtt:Obchodni_firma>
+<dtt:Sidlo dod="2013-03-05" ddo="2014-07-01">
+<dtt:ID_adresy>32131377</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Nazev_obce>Aachen</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Viktoriaallee</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>3-5</dtt:Cislo_do_adresy>
+<dtt:PSC>52066</dtt:PSC>
+</dtt:Sidlo>
+</dtt:Pravnicka_osoba>
+<dtt:Vklad_spolecnika dod="2013-03-05" ddo="2014-07-01">
+<dtt:Vklad>
+<dtt:Kc>2045796000;00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100</dtt:Procenta>
+</dtt:Splaceno>
+<dtt:Obchodni_podil>
+<dtt:Text>99,99 %</dtt:Text>
+</dtt:Obchodni_podil>
+</dtt:Vklad_spolecnika>
+</dtt:Spolecnik_s_vkladem>
+<dtt:Spolecnik_s_vkladem dod="2006-06-01" ddo="2013-03-05">
+<dtt:Kod_angm>24</dtt:Kod_angm>
+<dtt:Pravnicka_osoba dod="2006-06-01" ddo="2013-03-05">
+<dtt:Obchodni_firma>SAINT-GOBAIN Vetrotex Deutschland GmbH</dtt:Obchodni_firma>
+<dtt:Sidlo dod="2006-06-01" ddo="2013-03-05">
+<dtt:ID_adresy>32131376</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Adresa_textem>Herzogenrath, Bicherouxstrasse 61, 52134</dtt:Adresa_textem>
+</dtt:Sidlo>
+</dtt:Pravnicka_osoba>
+<dtt:Vklad_spolecnika dod="2006-06-01" ddo="2013-03-05">
+<dtt:Vklad>
+<dtt:Kc>2045796000;00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100</dtt:Procenta>
+</dtt:Splaceno>
+<dtt:Obchodni_podil>
+<dtt:Text>99,99 %</dtt:Text>
+</dtt:Obchodni_podil>
+</dtt:Vklad_spolecnika>
+</dtt:Spolecnik_s_vkladem>
+<dtt:Spolecnik_s_vkladem dod="2006-06-01" ddo="2014-07-01">
+<dtt:Kod_angm>24</dtt:Kod_angm>
+<dtt:Pravnicka_osoba dod="2006-06-01" ddo="2014-07-01">
+<dtt:Obchodni_firma>Compagnie de Saint-Gobain Zweigniederlassung Deutschland</dtt:Obchodni_firma>
+<dtt:Sidlo dod="2006-06-01" ddo="2014-07-01">
+<dtt:ID_adresy>32131379</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Adresa_textem>Cáchy, Viktoriaallee 3-5, 52066</dtt:Adresa_textem>
+</dtt:Sidlo>
+</dtt:Pravnicka_osoba>
+<dtt:Vklad_spolecnika dod="2006-06-01" ddo="2014-07-01">
+<dtt:Vklad>
+<dtt:Kc>20000;00</dtt:Kc>
+</dtt:Vklad>
+<dtt:Splaceno>
+<dtt:Procenta>100</dtt:Procenta>
+</dtt:Splaceno>
+<dtt:Obchodni_podil>
+<dtt:Text>0,01 %</dtt:Text>
+</dtt:Obchodni_podil>
+</dtt:Vklad_spolecnika>
+</dtt:Spolecnik_s_vkladem>
+</dtt:Spolecnici_s_vkladem>
+<dtt:Akcionari>
+<dtt:Akcionar dod="2006-01-17" ddo="2006-06-01">
+<dtt:Kod_angm>5</dtt:Kod_angm>
+<dtt:Pravnicka_osoba dod="2006-01-17" ddo="2006-06-01">
+<dtt:Obchodni_firma>SAINT-GOBAIN Vetrotex Deutschland GmbH</dtt:Obchodni_firma>
+<dtt:Sidlo dod="2006-01-17" ddo="2006-06-01">
+<dtt:ID_adresy>32131382</dtt:ID_adresy>
+<dtt:Kod_statu>276</dtt:Kod_statu>
+<dtt:Nazev_statu>Spolková republika Německo</dtt:Nazev_statu>
+<dtt:Adresa_textem>Herzogenrath, Bicherouxstrasse 61, 52134</dtt:Adresa_textem>
+</dtt:Sidlo>
+</dtt:Pravnicka_osoba>
+<dtt:Text dod="2006-01-17" ddo="2006-06-01">
+HRB 1364
+</dtt:Text>
+</dtt:Akcionar>
+</dtt:Akcionari>
+<dtt:Konkurzy_vyrovnani>
+<dtt:Ukon>
+<dtt:Insolvence>
+<dtt:Udaje_KVZ>
+<dtt:Txt_KVZ>
+<dtt:Text>
+Insolvenční řízení bylo zahájeno na základě vyhlášky Krajského soudu v Hradci Králové, pobočka Pardubice č.j. KSPA 59 INS 19109/2012-A-7 ze dne 7.8.2012.
+
+Účinky zahájení insolvenčního řízení nastaly dne 7.8.2012 v 14:25 hod.
+</dtt:Text>
+</dtt:Txt_KVZ>
+</dtt:Udaje_KVZ>
+</dtt:Insolvence>
+</dtt:Ukon>
+</dtt:Konkurzy_vyrovnani>
+</dtt:Vypis_OR>
+<dtt:Vypis_OR>
+<dtt:Uvod>
+<dtt:Nadpis>Výpis z dat Obchodního Rejstříku v ARES</dtt:Nadpis>
+<dtt:Aktualizace_DB>2018-09-20</dtt:Aktualizace_DB>
+<dtt:Datum_vypisu>2018-09-21</dtt:Datum_vypisu>
+<dtt:Cas_vypisu>10:37:03</dtt:Cas_vypisu>
+<dtt:Typ_vypisu>uplny</dtt:Typ_vypisu>
+<dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+</dtt:Uvod>
+<dtt:Zakladni_udaje>
+<dtt:Stav>
+<dtt:Stav_subjektu>Zaniklý</dtt:Stav_subjektu>
+<dtt:Konkurz>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Konkurz>
+<dtt:Vyrovnani>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Vyrovnani>
+<dtt:Zamitnuti>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Zamitnuti>
+<dtt:Likvidace>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Likvidace>
+</dtt:Stav>
+<dtt:ICO dod="1988-10-04" ddo="1990-12-03">00012661</dtt:ICO>
+<dtt:Obchodni_firma dod="1988-07-01" ddo="1990-12-03">VERTEX, státní podnik</dtt:Obchodni_firma>
+<dtt:Pravni_forma_OR dod="1988-07-01" ddo="1990-12-03">
+<dtt:Kod_PF>301</dtt:Kod_PF>
+<dtt:Nazev_PF>Státní podnik</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Sidlo dod="1988-07-01" ddo="1990-12-03">
+<dtt:ID_adresy>10031082</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl, okres Svitavy</dtt:Nazev_obce>
+</dtt:Sidlo>
+<dtt:Datum_zapisu_OR>1988-07-01</dtt:Datum_zapisu_OR>
+<dtt:Datum_zaniku>1990-12-03</dtt:Datum_zaniku>
+</dtt:Zakladni_udaje>
+<dtt:Registrace>
+<dtt:Spisova_znacka dod="1988-07-01" ddo="1990-12-03">
+<dtt:Soud>
+<dtt:Kod>6</dtt:Kod>
+<dtt:Text>Krajský soud v Hradci Králové</dtt:Text>
+</dtt:Soud>
+<dtt:Oddil_vlozka>AXII         25</dtt:Oddil_vlozka>
+</dtt:Spisova_znacka>
+</dtt:Registrace>
+<dtt:Cinnosti>
+<dtt:Predmet_podnikani>
+<dtt:Text dod="1990-05-30" ddo="1990-12-03">
+zahraničně obchodní činnost
+
+Podle dopisu FMZO ze dne 18.4.1990, čj. 6/375/63/90 poř.č.
+
+0480 udšleno organizace VERTEX, státní podnik se sídlem
+
+Litomyšl povolení k zahraničně obchodní činnosti podle par.
+
+6 odst. 1/ písm. a) a odst. 3/ zákona č. 42/1980 Sb., o
+
+hospodářských stycích se zahraničím ve znění zákona č.
+
+102/1988 Sb. v tomto rozsahu:
+</dtt:Text>
+<dtt:Text dod="1990-05-30" ddo="1990-12-03">
+1. vývoz v ěcí z vlastní produkce organizace v rozsahu příl.
+
+č. 1, která je nedílnou součástí povolení
+
+skleněné hedvábí jednoduché
+
+skleněné hedvábí tkané
+
+skleněné hedvábí objemované
+
+skleněný roving
+
+skleněná rohož Arvaver
+
+skleněná mikrovlákna nepojená
+
+skleněná netkaná rohož pramenová
+
+skleněné tkaniny pro filtrační účely
+</dtt:Text>
+<dtt:Text dod="1990-05-30" ddo="1990-12-03">
+skovýseky pro řezné a brusné kotouče
+
+sekaná skleněná vlákna pro termoplasty
+
+sklolaminátové desky
+</dtt:Text>
+<dtt:Text dod="1988-07-01" ddo="1990-12-03">
+výroba skleněných vláken a výrobků z nich
+</dtt:Text>
+<dtt:Text dod="1988-07-01" ddo="1990-12-03">
+výroba užitkových i technických výrobků ze sklolaminátů
+</dtt:Text>
+</dtt:Predmet_podnikani>
+</dtt:Cinnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1990-12-03" ddo="1990-12-03">
+Rozhodnutím č. 485/90 ministra průmyslu ČR ze dne 26.11.1990 byl
+
+dnem 30.11.1990 zrušen bez likvidace státní podnik VERTEX,
+
+Litomyšl a celý hmotný majetek tohoto státního podniku byl tímto
+
+rozhodnutím vložen dnem 1.12.1990 do akciové společnosti VERTEX
+
+se sídlem v Litomyšli.
+
+Z podnikového rejstříku se  v y m a z á v á  státní podnik
+
+VERTEX, Litomyšl.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1988-10-04" ddo="1990-12-03">
+Podle rozhodnutí č. 101/1988 ministra průmyslu ČSR ze dne
+
+20.9.1988 se zapisuje dodatek k zakládací listině ze dne
+
+27.6.1988, jímž se určuje jmění státního podniku.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1988-07-01" ddo="1990-12-03">
+Údaje o zřízení:
+
+Rozhodnutím č. 55/1988 ministra průmyslu ČSR ze dne 27.6.1988
+
+byla založena socialistická organizace.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1988-07-01" ddo="1990-12-03">
+Státní podnik se zakládá na dobu neurčitou.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Kapital>
+<dtt:Kmenove_jmeni dod="1988-10-04" ddo="1990-12-03">
+<dtt:Vklad>
+<dtt:Kc>1190440;00</dtt:Kc>
+</dtt:Vklad>
+</dtt:Kmenove_jmeni>
+</dtt:Kapital>
+<dtt:Statutarni_organ>
+<dtt:Clen_SO dod="1990-09-27" ddo="1990-12-03">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Paťava</dtt:Prijmeni>
+<dtt:Bydliste dod="1990-09-27" ddo="1990-12-03">
+<dtt:ID_adresy>10031087</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Budislav 34, okr. Svitavy</dtt:Nazev_obce>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1989-04-27" ddo="1990-09-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Ivan</dtt:Jmeno>
+<dtt:Prijmeni>Ritzinger</dtt:Prijmeni>
+<dtt:Bydliste dod="1989-04-27" ddo="1990-09-27">
+<dtt:ID_adresy>10031084</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>ul. 9. května</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>791</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1989-01-17" ddo="1990-12-03">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel státního podniku</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Šeps</dtt:Prijmeni>
+<dtt:Bydliste dod="1989-01-17" ddo="1990-12-03">
+<dtt:ID_adresy>10031085</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Hradec Králové 3</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pouchovská 787</dtt:Nazev_ulice>
+<dtt:PSC>50003</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1988-07-01" ddo="1989-01-17">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>ředitel státního podniku</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>František</dtt:Jmeno>
+<dtt:Prijmeni>Pokorný</dtt:Prijmeni>
+<dtt:Bydliste dod="1988-07-01" ddo="1989-01-17">
+<dtt:ID_adresy>10031083</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dukelská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>955</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1988-07-01" ddo="1990-12-03">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>zástupce ředitele</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Zagora</dtt:Prijmeni>
+<dtt:Bydliste dod="1988-07-01" ddo="1990-12-03">
+<dtt:ID_adresy>10031086</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Zaháj, Litomyšl</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Jateční 155</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Text dod="1988-07-01" ddo="1990-12-03">
+Způsob jednání za společnost:
+
+Státní podnik zastupuje ředitel nebo zástupce ředitele.
+
+K vytištěnému názvu státního podniku připojí svůj podpis ředitel
+
+nebo jeho zástupce.
+</dtt:Text>
+</dtt:Statutarni_organ>
+</dtt:Vypis_OR>
+</are:Odpoved>
+</are:Ares_odpovedi>

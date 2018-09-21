@@ -1,0 +1,2955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<are:Ares_odpovedi xmlns:are="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2" xmlns:dtt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.2" xmlns:udt="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.1" odpoved_datum_cas="2018-09-21T10:38:53" odpoved_pocet="1" odpoved_typ="Vypis_OR" vystup_format="XML" xslt="klient" validation_XSLT="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_or/v_1.0.2/ares_answer_or_v_1.0.2.xsd" Id="ares">
+<are:Odpoved>
+<dtt:Pomocne_ID>0</dtt:Pomocne_ID>
+<dtt:Vysledek_hledani>
+<dtt:Kod>1</dtt:Kod>
+</dtt:Vysledek_hledani>
+<dtt:Pocet_zaznamu>1</dtt:Pocet_zaznamu>
+<dtt:Vypis_OR>
+<dtt:Uvod>
+<dtt:Nadpis>Výpis z dat Obchodního Rejstříku v ARES</dtt:Nadpis>
+<dtt:Aktualizace_DB>2018-09-20</dtt:Aktualizace_DB>
+<dtt:Datum_vypisu>2018-09-21</dtt:Datum_vypisu>
+<dtt:Cas_vypisu>10:38:44</dtt:Cas_vypisu>
+<dtt:Typ_vypisu>uplny</dtt:Typ_vypisu>
+<dtt:Typ_odkazu>0</dtt:Typ_odkazu>
+</dtt:Uvod>
+<dtt:Zakladni_udaje>
+<dtt:Platnost_od>2016-12-29</dtt:Platnost_od>
+<dtt:Stav>
+<dtt:Stav_subjektu>Aktivní</dtt:Stav_subjektu>
+<dtt:Konkurz>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Konkurz>
+<dtt:Vyrovnani>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Vyrovnani>
+<dtt:Zamitnuti>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Zamitnuti>
+<dtt:Likvidace>
+<dtt:Kod>0</dtt:Kod>
+</dtt:Likvidace>
+</dtt:Stav>
+<dtt:ICO dod="1996-06-27">00036421</dtt:ICO>
+<dtt:Obchodni_firma dod="1976-01-22">Stavební bytové družstvo Nymburk</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="1974-04-16" ddo="1976-01-22">Stavební bytové družstvo v Nymburce</dtt:Obchodni_firma>
+<dtt:Obchodni_firma dod="1960-01-08" ddo="1974-04-16">Stavební bytové družstvo zaměstnanců ČSD dílny pro opravu vozidel v Nymburce</dtt:Obchodni_firma>
+<dtt:Pravni_forma_OR dod="1960-01-08">
+<dtt:Kod_PF>205</dtt:Kod_PF>
+<dtt:Nazev_PF>Družstvo</dtt:Nazev_PF>
+<dtt:PF_osoba>P</dtt:PF_osoba>
+<dtt:TZU_osoba>Tuzemská</dtt:TZU_osoba>
+</dtt:Pravni_forma_OR>
+<dtt:Sidlo dod="2012-12-07">
+<dtt:ID_adresy>24443814</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Topolová</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2149</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="2001-12-28" ddo="2012-12-07">
+<dtt:ID_adresy>24443813</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2107</dtt:Cislo_do_adresy>
+<dtt:PSC>28803</dtt:PSC>
+</dtt:Sidlo>
+<dtt:Sidlo dod="1996-06-27" ddo="2001-12-28">
+<dtt:ID_adresy>24443812</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2107</dtt:Cislo_do_adresy>
+</dtt:Sidlo>
+<dtt:Sidlo dod="1988-12-07" ddo="1996-06-27">
+<dtt:ID_adresy>24443811</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2162</dtt:Cislo_do_adresy>
+</dtt:Sidlo>
+<dtt:Sidlo dod="1983-06-02" ddo="1988-12-07">
+<dtt:ID_adresy>24443810</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk-Jankovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová ul.</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2105</dtt:Cislo_do_adresy>
+</dtt:Sidlo>
+<dtt:Sidlo dod="1960-01-08" ddo="1983-06-02">
+<dtt:ID_adresy>24443809</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+</dtt:Sidlo>
+<dtt:Datum_zapisu_OR>1960-01-08</dtt:Datum_zapisu_OR>
+</dtt:Zakladni_udaje>
+<dtt:Registrace>
+<dtt:Spisova_znacka dod="1960-01-08">
+<dtt:Soud>
+<dtt:Kod>1</dtt:Kod>
+<dtt:Text>Městský soud v Praze</dtt:Text>
+</dtt:Soud>
+<dtt:Oddil_vlozka>DrXCVIII         85</dtt:Oddil_vlozka>
+</dtt:Spisova_znacka>
+</dtt:Registrace>
+<dtt:Cinnosti>
+<dtt:Predmet_podnikani>
+<dtt:Text dod="1996-06-27">
+Pronájem nemovitostí, bytů a nebytových prostor a poskytování
+
+základních služeb zajišťujících řádný provoz nemovitosti, bytů a
+
+nebytových prostor.
+</dtt:Text>
+<dtt:Text dod="1996-06-27">
+Zajišťování plnění služeb spojených s užíváním bytů a nebytových
+
+prostor ve vlastnictví jiných osob
+</dtt:Text>
+<dtt:Text dod="1996-06-27">
+Realitní kancelář
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+1/ Předmětem činnosti družstva je především organizování
+
+přípravy a provádění výstvby, provoz bytových a nebytových
+
+objektů a zabezpčeování slžeb spojených s bydlením.
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+2/ V rámci předmětu činnosti družstvo připravuje a zabezpečuje:
+
+a) výstavbu bytů v družstevních domech, rodinných domků a
+
+místností nesloužících k bydlení
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+b) přidělování družstevních bytů, včetně bytů v rodinných
+
+domcích a místností nesloužících k bydlení do osobního
+
+užívání svým členům, popřípadě převody rodinných domků do
+
+osobního vlastnictví
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+c) pdržbu, opravy rekonstrukci a modernizaci bytového majetku a
+
+nebytových prostor
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+d) poskytování služeb spojených s bydlením svým členům
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+e) poskytování služeb spojených s bydlením za úplatu občanům a
+
+organizacím
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+f) materiálně-výrobní základnu pro údržbu a opravy bytů a
+
+nebytových prostor a pro poskytování služeb spojených s
+
+bydlením
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+g) dopravní služby s platností do 31.8.1990
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+h) investorskou činnost
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+i) stavební práce organizacím i občanům
+</dtt:Text>
+<dtt:Text dod="1989-09-11" ddo="1996-06-27">
+j) výkony prací a služeb pro občany
+</dtt:Text>
+<dtt:Text dod="1984-07-26" ddo="1989-09-11">
+1. Výstavba rodinných domků.
+</dtt:Text>
+<dtt:Text dod="1984-07-26" ddo="1989-09-11">
+2. Údržba, opravy a obnova bytového fondu jiných socialistických
+
+organizací a občanů a technické občanské vybavenosti, zeleně
+
+a životního prostředí.
+</dtt:Text>
+<dtt:Text dod="1984-07-26" ddo="1989-09-11">
+3. Činnosti a služby, které zajišťují výstavbu a údržbu /např.
+
+nákladní doprava s platností do 30.7.1985, výkony strojů a
+
+mechanizace včetně jejich případného zapůjčování, provádění
+
+předepsaných revizních zkoušek, MTZ a výkony skladového
+
+hospodářství/ pro jiné socialistické organizace a občany.
+</dtt:Text>
+<dtt:Text dod="1984-07-26" ddo="1989-09-11">
+4. Výstavba, včetně modernizace bytového fondu, technické a
+
+občanské vybavenosti, zlepšování životního prostředí, pokud
+
+dodávky na jednotlivé investiční akce nepřesáhnou částku Kčs
+
+2000.000,- pro jiné socialistické organizace a občany.
+</dtt:Text>
+<dtt:Text dod="1984-07-26" ddo="1989-09-11">
+5. Činnost a služby, které zajišťují provoz a správu družstva
+
+/jako dodávka tepla a teplé vody, teplé užitkové vody,
+
+pronájem nebytových prostor, provoz prádelen/ pro jiné
+
+socialistické organizace a občany.
+</dtt:Text>
+<dtt:Text dod="1976-01-22" ddo="1989-09-11">
+Družstvo pro své členy staví, popřípadě zabezpečuje výstavbu
+
+bytů a místností nesloužících k bydlení, zabezpečuje správu,
+
+údržbu, popřípadě rekonstrukci bytů a místností nesloužících k
+
+bydlení a poskytuje služby spojené s jejich užíváním, organizuje
+
+politicko-výchovnou práci a pečuje o prohlubování společenské
+
+funkce družstva a socialistické demokracie. V souvislosti s
+
+výstavbou družstevních bytů a místností nesloužících k bydlení
+
+může družstvo provádět přípravu staveniště včetně technického
+
+vybavení, terenních úprav, výstavby inženýrských sítí a
+
+popřípadě provádět i jiné práce, bez nichž by se nemohlo začít s
+
+výstavbou, neby by nebylo možné vystavěné objekty užívat.
+</dtt:Text>
+<dtt:Text dod="1970-12-29" ddo="1976-01-22">
+Výstavba bytů a garáží pro členy, vestavěných a nebytových
+
+zařízení, zajišťování jejich správy a údržby, poskytování služeb
+
+spojených s užíváním bytů a nebytových zařízení.
+</dtt:Text>
+<dtt:Text dod="1960-01-08" ddo="1970-12-29">
+.
+</dtt:Text>
+</dtt:Predmet_podnikani>
+</dtt:Cinnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1989-09-11">
+Usnesením shromáždění delegátů konaného dne 12.12.1988 byly
+
+přijaty nové stanovy družstva.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1989-09-11">
+Ručení:
+
+1) Člen družstva je povinen přispívat na úhradu celého schodku z
+
+hospodaření střediska bytového hospodářství, v němž užívá byt
+
+nebo místnost nesloužící k bydlení ve výši a lhůtě stanovené
+
+představenstvem.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1989-09-11">
+2) Za vykázanou ztrátu z ostatního hospodaření družstva ručí
+
+člen do výše 500,-Kčs v jednom roce.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1989-09-11">
+3) Za likvidační schodek ručí člen do výše 3.000,-Kčs.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1989-09-11">
+Ostatní změny se týkají vnitřních poměrů družstva.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1984-07-26">
+Usnesením shromáždění delegátů konaného dne 3.11.1983 byl přijat
+
+doplněk čl. 6 stanov schválený Středočeským krajským výborem
+
+Českého svazu bytových družstev v Praze dne 29.3.1984, č.j.
+
+372/101/84-H.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1980-01-07">
+Rozhodnutím Středočeského krajského výboru Českého svazu
+
+bytových družstev v Praze ze dne 9.7.1979, čj. 101/254/79-5 bylo
+
+podle ust. § 91 odst. 2) zák. č. 109/64 Sb. sloučeno s tímto
+
+družstvem, jako přejímajícím, družstvo:
+
+Stavební bytové družstvo Poříčany jako družstvo přejímané ke dni
+
+1.1.1980.
+
+Tímto sloučením přejímané družstvo zaniklo bez likvidace a bylo
+
+proto vymazáno.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1980-01-07">
+Rozhodnutím Středočeského krajského výboru Českého svazu
+
+bytových družstev v Praze ze dne 9.7.1979, čj.101/255/79-5 bylo
+
+podle ust. § 91 odst. 2) zák. č. 109/64 Sb. sloučeno s tímto
+
+družstvem, jako přejímajícím, družstvo:
+
+Stavební bytové družstvo Lysá nad Labem jako družstvo přejímané
+
+ke dni 1.1.1980.
+
+Tímto sloučením přejímané družstvo zaniklo bez likvidace a bylo
+
+proto vymazáno.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1976-01-22">
+Usnesením shromáždění delegátů ze dne 5.11.1975 byly přijaty
+
+nové stanovy typu &quot;B&quot; schválené Středočeským krajským výborem
+
+Českého svazu bytových družste v Praze ze dne 30.12.75 čj.
+
+379/75-105/Dr Sp/Ši.
+
+Stanovy jsou pro družstvo platné od 16.12.1975.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1976-01-22">
+Ostatní změny se týkají vnitřních poměrů družstva.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1976-01-22" ddo="1989-09-11">
+Ručení:
+
+Členové družstva, kterým nebyl přidělen družstevní byt nebo
+
+místnost nesloužící k bydlení, ručí do výše základních členských
+
+vkladů; ostatní členové ručí do výše zůstatkových hodnot
+
+členských podílů. Člen družstva je v jednom roce povinen uhradit
+
+nejvýše částku rovnající se desetině základního členského vkladu
+
+nebo desetině zůstatkové hodnoty členského podílu.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1976-01-22" ddo="1989-09-11">
+Představenstvo má 5 - 15 členů.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-04-16">
+Usnesením výroční členské schůze ze dne 14.2.1974 byly přijaty
+
+nové stanovy družstva typu &quot;B&quot;, schválené Středočeským krajským
+
+výborem Českého svazu bytových družstev dne 10.4.1974, č.j.
+
+722/105/74.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-04-16">
+Ostatní údaje nových stanov se týkají vnitřních poměrů družstva.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-01-09">
+Rozhodnutím Středočeského krajského výboru Českého svazu
+
+bytových družstev v Praze ze dne 12.12.1973 č.j.
+
+316/73-dr.Sp/Cv. byla podle ustanovení §91 odst. 2) hosp. zák.
+
+č. 109/64 Sb. sloučena s tímto družstvem jako přejímajícím,
+
+družstva:
+
+a) I.stavební bytové družstvo občanů v  N y m b u r c e  se
+
+sídlem Nymburk, sídliště 1885
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-01-09">
+b) Stavební bytové družstvo zaměstatnců lok.depa ČSD Nymburk se
+
+sídlem Nymburk
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-01-09">
+c) Druhé stavební bytové družstvo občanů v Nymburce-sídliště se
+
+sídlem Nymburk, Gottwaldova 114
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-01-09">
+d) Stavební bytové družstvo pracovníků závodu oborové
+
+mechanizace Nymburk se sídlem Nymburk
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-01-09">
+jako družstva přejímaná ke dni 1.1.1974.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-01-09">
+Tímto sloučením přejímaná družstva:
+
+a) I.stavební bytové družstvo občanů v N y m b u r c e  se
+
+sídlem Nymburk, sídliště 1885
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-01-09">
+b) Stavební bytové družstvo zaměstnanců lok.depa ČSD Nymburk se
+
+sídlem Nymburk
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-01-09">
+c) Druhé stavební bytové družstvo občanů v Nymburce-sídliště se
+
+sídlem Nymburk, Gottwaldova 114
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-01-09">
+d) Stavební bytové družstvo pracovníků závodu oborové
+
+mechanizace Nymburk se sídlem Nymburk
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1974-01-09">
+zanikla bez likvidace a byla proto vymazána.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1971-10-27">
+Usnesením členské schůze ze dne 30.9.1971 byly přijaty nové
+
+stanovy družstva typ &quot;B&quot; schválené Českým svazem bytových
+
+družstev dne 11.10.1971.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1971-10-27">
+Změny v těchto stanovách uvedené se týkají vnitřních poměrů
+
+družstva.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1966-01-03">
+Usnesením členské schůze ze dne 28.12.1965 byly přijaty nové
+
+typové stanovy družstva dle vlád. usn. 277/64.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1966-01-03">
+Ostatní změny se týkají vnitřních poměrů družstva.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1966-01-03" ddo="1976-01-22">
+Představenstvo družstva má 3-15 členů.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1966-01-03" ddo="1976-01-22">
+Členové ručí částkou rovnající se nejvýše destině zůstatkové
+
+hodnoty členského podílu.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1960-01-08">
+Údaje o zřízení družstva:
+
+Ustavení družstva bylo schváleno rozhodnutím rady ONV v Nymburce
+
+ze dne 13.11.1959.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1960-01-08">
+Usnesením ustavující členské schůze byly dne 4.11.1959 přijaty
+
+stanovy družstva.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1960-01-08" ddo="1966-01-03">
+Členové ručí částkou rovnající se nejvýše jedné desetině
+
+členského podílu.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Ostatni_skutecnosti>
+<dtt:Text dod="1960-01-08" ddo="1966-01-03">
+Představenstvo má 5-15 členů.
+</dtt:Text>
+</dtt:Ostatni_skutecnosti>
+<dtt:Kapital>
+<dtt:Zapisovany dod="1996-06-27">
+<dtt:Vklad>
+<dtt:Kc>51000;00</dtt:Kc>
+</dtt:Vklad>
+</dtt:Zapisovany>
+<dtt:Clensky_vklad dod="1989-09-11">
+<dtt:Vklad>
+<dtt:Kc>5000.00</dtt:Kc>
+</dtt:Vklad>
+</dtt:Clensky_vklad>
+</dtt:Kapital>
+<dtt:Statutarni_organ>
+<dtt:Clen_SO dod="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JOSEF</dtt:Jmeno>
+<dtt:Prijmeni>TRÁVNICKÝ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-04-21</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-29">
+<dtt:ID_adresy>24443915</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Růžová</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2125</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>JUDr.</dtt:Titul_pred>
+<dtt:Jmeno>BOHUSLAV</dtt:Jmeno>
+<dtt:Prijmeni>BENEŠ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1951-01-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-29">
+<dtt:ID_adresy>24443916</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dlabačova</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2092</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>ZDENĚK</dtt:Jmeno>
+<dtt:Prijmeni>KRATOCHVÍL</dtt:Prijmeni>
+<dtt:Datum_narozeni>1958-02-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-29">
+<dtt:ID_adresy>24443917</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2117</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JANA</dtt:Jmeno>
+<dtt:Prijmeni>HORÁKOVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-05-03</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-29">
+<dtt:ID_adresy>24443918</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Lysá nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Třešňová</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>1624</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:Cislo_orientacni>6</dtt:Cislo_orientacni>
+<dtt:PSC>28922</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen výboru</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JOSEF</dtt:Jmeno>
+<dtt:Prijmeni>RŮŽIČKA</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-03-05</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-29">
+<dtt:ID_adresy>24443919</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2122</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2016-03-03" ddo="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>ZDENĚK</dtt:Jmeno>
+<dtt:Prijmeni>KRATOCHVÍL</dtt:Prijmeni>
+<dtt:Datum_narozeni>1958-02-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-03-03" ddo="2016-12-29">
+<dtt:ID_adresy>24443910</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2117</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-01-21" ddo="2016-03-03">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Kratochvíl</dtt:Prijmeni>
+<dtt:Datum_narozeni>1958-02-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-01-21" ddo="2016-03-03">
+<dtt:ID_adresy>24443909</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2117</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-01-21" ddo="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Trávnický</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-04-21</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-01-21" ddo="2016-12-29">
+<dtt:ID_adresy>24443911</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Růžová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2125</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-01-21" ddo="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Svoboda</dtt:Prijmeni>
+<dtt:Datum_narozeni>1931-09-22</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-01-21" ddo="2016-12-29">
+<dtt:ID_adresy>24443912</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Masarykova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1865</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-01-21" ddo="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>JUDr.</dtt:Titul_pred>
+<dtt:Jmeno>Bohuslav</dtt:Jmeno>
+<dtt:Prijmeni>Beneš</dtt:Prijmeni>
+<dtt:Datum_narozeni>1951-01-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-01-21" ddo="2016-12-29">
+<dtt:ID_adresy>24443913</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dlabačova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2092</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2012-01-21" ddo="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jana</dtt:Jmeno>
+<dtt:Prijmeni>Horáková</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-05-03</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2012-01-21" ddo="2016-12-29">
+<dtt:ID_adresy>24443914</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Lysá nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Třešňová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1624</dtt:Cislo_do_adresy>
+<dtt:PSC>28922</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-05-14" ddo="2012-01-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>předseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Kratochvíl</dtt:Prijmeni>
+<dtt:Datum_narozeni>1958-02-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-05-14" ddo="2012-01-21">
+<dtt:ID_adresy>24443902</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2117</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-11-07</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2006-11-07</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-05-14" ddo="2012-01-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>místopředseda představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Trávnický</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-04-21</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-05-14" ddo="2012-01-21">
+<dtt:ID_adresy>24443903</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Růžová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2125</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-11-07</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2006-11-07</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-05-14" ddo="2012-01-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Skočovský</dtt:Prijmeni>
+<dtt:Datum_narozeni>1937-02-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-05-14" ddo="2012-01-21">
+<dtt:ID_adresy>24443904</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mánesova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1887</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-11-07</dtt:Datum_zacatku>
+<dtt:Datum_konce>2011-11-08</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-05-14" ddo="2012-01-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Müller</dtt:Prijmeni>
+<dtt:Datum_narozeni>1960-12-28</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-05-14" ddo="2012-01-21">
+<dtt:ID_adresy>24443905</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Okružní</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2051</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-11-07</dtt:Datum_zacatku>
+<dtt:Datum_konce>2011-11-08</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-05-14" ddo="2012-01-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Svoboda</dtt:Prijmeni>
+<dtt:Datum_narozeni>1931-09-22</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-05-14" ddo="2012-01-21">
+<dtt:ID_adresy>24443906</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Masarykova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1865</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-11-07</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-05-14" ddo="2012-01-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>JUDr.</dtt:Titul_pred>
+<dtt:Jmeno>Bohuslav</dtt:Jmeno>
+<dtt:Prijmeni>Beneš</dtt:Prijmeni>
+<dtt:Datum_narozeni>1951-01-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-05-14" ddo="2012-01-21">
+<dtt:ID_adresy>24443907</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dlabačova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2092</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-11-07</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2007-05-14" ddo="2012-01-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen představenstva</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jana</dtt:Jmeno>
+<dtt:Prijmeni>Horáková</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-05-03</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2007-05-14" ddo="2012-01-21">
+<dtt:ID_adresy>24443908</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Lysá nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Třešňová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1624</dtt:Cislo_do_adresy>
+<dtt:PSC>28922</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2006-11-07</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2004-02-21" ddo="2007-05-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jana</dtt:Jmeno>
+<dtt:Prijmeni>Horáková</dtt:Prijmeni>
+<dtt:Datum_narozeni>1952-05-03</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2004-02-21" ddo="2007-05-14">
+<dtt:ID_adresy>24443901</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Lysá nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Třešňová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1624</dtt:Cislo_do_adresy>
+<dtt:PSC>28922</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2003-11-06</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-11-07</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-12-28" ddo="2003-06-11">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>John</dtt:Prijmeni>
+<dtt:Datum_narozeni>1968-04-16</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-12-28" ddo="2003-06-11">
+<dtt:ID_adresy>24443898</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>U Cejpovny</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>57</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2001-10-31</dtt:Datum_zacatku>
+<dtt:Datum_konce>2003-03-01</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-12-28" ddo="2007-05-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Kratochvíl</dtt:Prijmeni>
+<dtt:Datum_narozeni>1958-02-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-12-28" ddo="2007-05-14">
+<dtt:ID_adresy>24443894</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2117</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2001-10-31</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-10-31</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2001-10-31</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-10-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-12-28" ddo="2007-05-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Trávnický</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-04-21</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-12-28" ddo="2007-05-14">
+<dtt:ID_adresy>24443895</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Růžová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2125</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2001-10-31</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-10-31</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2001-10-31</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-10-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-12-28" ddo="2007-05-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Skočovský</dtt:Prijmeni>
+<dtt:Datum_narozeni>1937-02-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-12-28" ddo="2007-05-14">
+<dtt:ID_adresy>24443896</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mánesova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1887</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2001-10-31</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-10-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-12-28" ddo="2007-05-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Müller</dtt:Prijmeni>
+<dtt:Datum_narozeni>1960-12-28</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-12-28" ddo="2007-05-14">
+<dtt:ID_adresy>24443897</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Okružní</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2051</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2001-10-31</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-10-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-12-28" ddo="2007-05-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Svoboda</dtt:Prijmeni>
+<dtt:Datum_narozeni>1931-09-22</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-12-28" ddo="2007-05-14">
+<dtt:ID_adresy>24443899</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Masarykova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1865</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2001-10-31</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-10-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2001-12-28" ddo="2007-05-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>JUDr.</dtt:Titul_pred>
+<dtt:Jmeno>Bohuslav</dtt:Jmeno>
+<dtt:Prijmeni>Beneš</dtt:Prijmeni>
+<dtt:Datum_narozeni>1951-01-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2001-12-28" ddo="2007-05-14">
+<dtt:ID_adresy>24443900</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dlabačova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2092</dtt:Cislo_do_adresy>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2001-10-31</dtt:Datum_zacatku>
+<dtt:Datum_konce>2006-10-31</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2000-06-13" ddo="2001-12-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Kratochvíl</dtt:Prijmeni>
+<dtt:Datum_narozeni>1958-02-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2000-06-13" ddo="2001-12-28">
+<dtt:ID_adresy>24443887</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2117</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2000-06-13" ddo="2001-12-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Svoboda</dtt:Prijmeni>
+<dtt:Datum_narozeni>1931-09-22</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2000-06-13" ddo="2001-12-28">
+<dtt:ID_adresy>24443892</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Masarykova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1865</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="2000-06-13" ddo="2001-12-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>JUDr.</dtt:Titul_pred>
+<dtt:Jmeno>Bohuslav</dtt:Jmeno>
+<dtt:Prijmeni>Beneš</dtt:Prijmeni>
+<dtt:Datum_narozeni>1951-01-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2000-06-13" ddo="2001-12-28">
+<dtt:ID_adresy>24443893</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dlabačova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2092</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1996-06-27" ddo="2000-06-13">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Kratochvíl</dtt:Prijmeni>
+<dtt:Bydliste dod="1996-06-27" ddo="2000-06-13">
+<dtt:ID_adresy>24443884</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Purkyňova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1155</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1996-06-27" ddo="2000-06-13">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Svoboda</dtt:Prijmeni>
+<dtt:Bydliste dod="1996-06-27" ddo="2000-06-13">
+<dtt:ID_adresy>24443885</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Poděbradská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>186</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1996-06-27" ddo="2000-06-13">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Hrubý</dtt:Prijmeni>
+<dtt:Bydliste dod="1996-06-27" ddo="2000-06-13">
+<dtt:ID_adresy>24443886</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>I. Olbrachta</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1909</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1996-06-27" ddo="2001-12-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Trávnický</dtt:Prijmeni>
+<dtt:Datum_narozeni>1955-04-21</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1996-06-27" ddo="2001-12-28">
+<dtt:ID_adresy>24443888</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Růžová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2125</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1996-06-27" ddo="2001-12-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Milan</dtt:Jmeno>
+<dtt:Prijmeni>Skočovský</dtt:Prijmeni>
+<dtt:Datum_narozeni>1937-02-25</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1996-06-27" ddo="2001-12-28">
+<dtt:ID_adresy>24443889</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mánesova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1887</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1996-06-27" ddo="2001-12-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Müller</dtt:Prijmeni>
+<dtt:Bydliste dod="1996-06-27" ddo="2001-12-28">
+<dtt:ID_adresy>24443890</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Okružní</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2051</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Text dod="1996-06-27" ddo="2001-12-28">
+r.č. 601228/064
+</dtt:Text>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1996-06-27" ddo="2001-12-28">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>John</dtt:Prijmeni>
+<dtt:Datum_narozeni>1968-04-16</dtt:Datum_narozeni>
+<dtt:Bydliste dod="1996-06-27" ddo="2001-12-28">
+<dtt:ID_adresy>24443891</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Drahelice</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>57</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1988-12-07" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>František</dtt:Jmeno>
+<dtt:Prijmeni>Bureš</dtt:Prijmeni>
+<dtt:Bydliste dod="1988-12-07" ddo="1996-06-27">
+<dtt:ID_adresy>24443877</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dlabačova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2005</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1988-12-07" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Plavec</dtt:Prijmeni>
+<dtt:Bydliste dod="1988-12-07" ddo="1996-06-27">
+<dtt:ID_adresy>24443878</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadová</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2122</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1984-07-26" ddo="1988-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jana</dtt:Jmeno>
+<dtt:Prijmeni>Brázdová</dtt:Prijmeni>
+<dtt:Bydliste dod="1984-07-26" ddo="1988-12-07">
+<dtt:ID_adresy>24443874</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Lysá nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1511</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1984-07-26" ddo="1988-12-07">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Pěkný</dtt:Prijmeni>
+<dtt:Bydliste dod="1984-07-26" ddo="1988-12-07">
+<dtt:ID_adresy>24443876</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sadova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2110</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1984-07-26" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Bohuslav</dtt:Jmeno>
+<dtt:Prijmeni>Beneš</dtt:Prijmeni>
+<dtt:Bydliste dod="1984-07-26" ddo="1996-06-27">
+<dtt:ID_adresy>24443863</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dlabačova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2092</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1984-07-26" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Drapák</dtt:Prijmeni>
+<dtt:Bydliste dod="1984-07-26" ddo="1996-06-27">
+<dtt:ID_adresy>24443873</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Lysá nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Čsl.armády</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1630</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1984-07-26" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Miloslava</dtt:Jmeno>
+<dtt:Prijmeni>Loudová</dtt:Prijmeni>
+<dtt:Bydliste dod="1984-07-26" ddo="1996-06-27">
+<dtt:ID_adresy>24443875</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Loučeň</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Průhon</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>305</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1983-06-02" ddo="1984-07-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Miroslav</dtt:Jmeno>
+<dtt:Prijmeni>Šimon</dtt:Prijmeni>
+<dtt:Bydliste dod="1983-06-02" ddo="1984-07-26">
+<dtt:ID_adresy>24443869</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Lysá nad Labem-Litol</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Fučíkova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>450/56</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1983-06-02" ddo="1984-07-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Vladimír</dtt:Jmeno>
+<dtt:Prijmeni>Pokorný</dtt:Prijmeni>
+<dtt:Bydliste dod="1983-06-02" ddo="1984-07-26">
+<dtt:ID_adresy>24443870</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Gagarinova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1917</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1983-06-02" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Antonín</dtt:Jmeno>
+<dtt:Prijmeni>Čermák</dtt:Prijmeni>
+<dtt:Bydliste dod="1983-06-02" ddo="1996-06-27">
+<dtt:ID_adresy>24443871</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Dlabačova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>2091</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1983-06-02" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Ivan</dtt:Jmeno>
+<dtt:Prijmeni>Řezáč</dtt:Prijmeni>
+<dtt:Bydliste dod="1983-06-02" ddo="1996-06-27">
+<dtt:ID_adresy>24443872</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Kolín</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Poříčany</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>381</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1980-06-16" ddo="1983-06-02">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Květoslava</dtt:Jmeno>
+<dtt:Prijmeni>Novotná</dtt:Prijmeni>
+<dtt:Bydliste dod="1980-06-16" ddo="1983-06-02">
+<dtt:ID_adresy>24443865</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Bobnická</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>890</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1980-06-16" ddo="1983-06-02">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Marie</dtt:Jmeno>
+<dtt:Prijmeni>Paštiková</dtt:Prijmeni>
+<dtt:Bydliste dod="1980-06-16" ddo="1983-06-02">
+<dtt:ID_adresy>24443866</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1915</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1980-06-16" ddo="1983-06-02">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Čáp</dtt:Prijmeni>
+<dtt:Bydliste dod="1980-06-16" ddo="1983-06-02">
+<dtt:ID_adresy>24443867</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Lysá nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1915</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1980-06-16" ddo="1983-06-02">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Buryán</dtt:Prijmeni>
+<dtt:Bydliste dod="1980-06-16" ddo="1983-06-02">
+<dtt:ID_adresy>24443868</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Lysá nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Husovo nám.</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1551</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1980-06-16" ddo="1984-07-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Hlavica</dtt:Prijmeni>
+<dtt:Bydliste dod="1980-06-16" ddo="1984-07-26">
+<dtt:ID_adresy>24443862</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Kolín</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Poříčany</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>364</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1980-06-16" ddo="1984-07-26">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Bohuslav</dtt:Jmeno>
+<dtt:Prijmeni>Beneš</dtt:Prijmeni>
+<dtt:Bydliste dod="1980-06-16" ddo="1984-07-26">
+<dtt:ID_adresy>24443883</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Kolín</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Radim</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>213</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1980-06-16" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Ladislav</dtt:Jmeno>
+<dtt:Prijmeni>Kocábek</dtt:Prijmeni>
+<dtt:Bydliste dod="1980-06-16" ddo="1996-06-27">
+<dtt:ID_adresy>24443864</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Mánesova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1884</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1980-06-16" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Pecka</dtt:Prijmeni>
+<dtt:Bydliste dod="1980-06-16" ddo="1996-06-27">
+<dtt:ID_adresy>24443882</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1912</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1977-05-12" ddo="1980-06-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Macek</dtt:Prijmeni>
+<dtt:Bydliste dod="1977-05-12" ddo="1980-06-16">
+<dtt:ID_adresy>24443850</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>čp. 1908</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1977-05-12" ddo="1980-06-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>František</dtt:Jmeno>
+<dtt:Prijmeni>Bureš</dtt:Prijmeni>
+<dtt:Bydliste dod="1977-05-12" ddo="1980-06-16">
+<dtt:ID_adresy>24443858</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1932</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1977-05-12" ddo="1980-06-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Mourek</dtt:Prijmeni>
+<dtt:Bydliste dod="1977-05-12" ddo="1980-06-16">
+<dtt:ID_adresy>24443859</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Labská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1669</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1977-05-12" ddo="1980-06-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Novák</dtt:Prijmeni>
+<dtt:Bydliste dod="1977-05-12" ddo="1980-06-16">
+<dtt:ID_adresy>24443860</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Tyršova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>227</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1977-05-12" ddo="1980-06-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Miroslav</dtt:Jmeno>
+<dtt:Prijmeni>Slanička</dtt:Prijmeni>
+<dtt:Bydliste dod="1977-05-12" ddo="1980-06-16">
+<dtt:ID_adresy>24443861</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1942</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1977-05-12" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Stanislav</dtt:Jmeno>
+<dtt:Prijmeni>Žemlička</dtt:Prijmeni>
+<dtt:Bydliste dod="1977-05-12" ddo="1996-06-27">
+<dtt:ID_adresy>24443857</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1904</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1977-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Břetislav</dtt:Jmeno>
+<dtt:Prijmeni>Bárta</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1977-05-12">
+<dtt:ID_adresy>24443845</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Poděbradská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1869</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1977-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Bucek</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1977-05-12">
+<dtt:ID_adresy>24443846</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Poděbradská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>256</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1977-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Miroslav</dtt:Jmeno>
+<dtt:Prijmeni>Fantík</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1977-05-12">
+<dtt:ID_adresy>24443847</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1913</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1977-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Horáček</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1977-05-12">
+<dtt:ID_adresy>24443848</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1911</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1977-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Hrbáček</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1977-05-12">
+<dtt:ID_adresy>24443849</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Tyršova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1861</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1977-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Antonín</dtt:Jmeno>
+<dtt:Prijmeni>Kočí</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1977-05-12">
+<dtt:ID_adresy>24443852</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1929</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1977-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Stanislav</dtt:Jmeno>
+<dtt:Prijmeni>Libich</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1977-05-12">
+<dtt:ID_adresy>24443853</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1886</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1977-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Petr</dtt:Jmeno>
+<dtt:Prijmeni>Švarc</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1977-05-12">
+<dtt:ID_adresy>24443855</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Kolínská ul.</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1980-06-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>František</dtt:Jmeno>
+<dtt:Prijmeni>Hybler</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1980-06-16">
+<dtt:ID_adresy>24443851</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Pražská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1731</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1980-06-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Trnka</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1980-06-16">
+<dtt:ID_adresy>24443856</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Reslova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>969/8</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1980-06-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Zdeněk</dtt:Jmeno>
+<dtt:Prijmeni>Pecka</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1980-06-16">
+<dtt:ID_adresy>24443881</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1912</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1983-06-02">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Slabý</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1983-06-02">
+<dtt:ID_adresy>24443854</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Gottwaldova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>79</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1974-04-16" ddo="1996-06-27">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Hlavička</dtt:Prijmeni>
+<dtt:Bydliste dod="1974-04-16" ddo="1996-06-27">
+<dtt:ID_adresy>24443879</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>ul. Pionýrů</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1710</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1973-01-04" ddo="1974-04-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>František</dtt:Jmeno>
+<dtt:Prijmeni>Jaroš</dtt:Prijmeni>
+<dtt:Bydliste dod="1973-01-04" ddo="1974-04-16">
+<dtt:ID_adresy>24443842</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Tyršova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1860</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1973-01-04" ddo="1974-04-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Břetislav</dtt:Jmeno>
+<dtt:Prijmeni>Bárta</dtt:Prijmeni>
+<dtt:Bydliste dod="1973-01-04" ddo="1974-04-16">
+<dtt:ID_adresy>24443843</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Poděbradská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1869</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1971-12-14" ddo="1973-01-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Břetislav</dtt:Jmeno>
+<dtt:Prijmeni>Bárta</dtt:Prijmeni>
+<dtt:Bydliste dod="1971-12-14" ddo="1973-01-04">
+<dtt:ID_adresy>24443833</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Poděbradská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1869</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1971-12-14" ddo="1974-04-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Fryč</dtt:Prijmeni>
+<dtt:Bydliste dod="1971-12-14" ddo="1974-04-16">
+<dtt:ID_adresy>24443834</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>čp. 1929</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1971-12-14" ddo="1974-04-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Vlastimil</dtt:Jmeno>
+<dtt:Prijmeni>Macháček</dtt:Prijmeni>
+<dtt:Bydliste dod="1971-12-14" ddo="1974-04-16">
+<dtt:ID_adresy>24443835</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1896</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1971-12-14" ddo="1974-04-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Antonín</dtt:Jmeno>
+<dtt:Prijmeni>Přibyl</dtt:Prijmeni>
+<dtt:Bydliste dod="1971-12-14" ddo="1974-04-16">
+<dtt:ID_adresy>24443836</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>čp. 1930</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1971-12-14" ddo="1974-04-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Stanislav</dtt:Jmeno>
+<dtt:Prijmeni>Žemlička</dtt:Prijmeni>
+<dtt:Bydliste dod="1971-12-14" ddo="1974-04-16">
+<dtt:ID_adresy>24443837</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>čp. 1904</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1971-12-14" ddo="1974-04-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Čepička</dtt:Prijmeni>
+<dtt:Bydliste dod="1971-12-14" ddo="1974-04-16">
+<dtt:ID_adresy>24443838</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>čp. 1909</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1971-12-14" ddo="1974-04-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Danzer</dtt:Prijmeni>
+<dtt:Bydliste dod="1971-12-14" ddo="1974-04-16">
+<dtt:ID_adresy>24443844</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>čp. 1894</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1971-12-14" ddo="1977-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Macek</dtt:Prijmeni>
+<dtt:Bydliste dod="1971-12-14" ddo="1977-05-12">
+<dtt:ID_adresy>24443880</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>čp. 1908</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1969-11-21" ddo="1971-12-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Kruliš</dtt:Prijmeni>
+<dtt:Bydliste dod="1969-11-21" ddo="1971-12-14">
+<dtt:ID_adresy>24443829</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1908</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1969-11-21" ddo="1971-12-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Eduard</dtt:Jmeno>
+<dtt:Prijmeni>Řehoř</dtt:Prijmeni>
+<dtt:Bydliste dod="1969-11-21" ddo="1971-12-14">
+<dtt:ID_adresy>24443830</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1869</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1969-11-21" ddo="1971-12-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Josef</dtt:Jmeno>
+<dtt:Prijmeni>Salač</dtt:Prijmeni>
+<dtt:Bydliste dod="1969-11-21" ddo="1971-12-14">
+<dtt:ID_adresy>24443831</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Praha-východ</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Čelákovice</dtt:Nazev_obce>
+<dtt:Nazev_ulice>nádraží ČSD</dtt:Nazev_ulice>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1969-11-21" ddo="1971-12-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Václav</dtt:Jmeno>
+<dtt:Prijmeni>Volejník</dtt:Prijmeni>
+<dtt:Bydliste dod="1969-11-21" ddo="1971-12-14">
+<dtt:ID_adresy>24443832</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Komenského</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>702</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1969-11-21" ddo="1971-12-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Břetislav</dtt:Jmeno>
+<dtt:Prijmeni>Bárta</dtt:Prijmeni>
+<dtt:Bydliste dod="1969-11-21" ddo="1971-12-14">
+<dtt:ID_adresy>24443840</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Poděbradská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1869</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1969-11-21" ddo="1971-12-14">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Danzer</dtt:Prijmeni>
+<dtt:Bydliste dod="1969-11-21" ddo="1971-12-14">
+<dtt:ID_adresy>24443841</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Sídliště</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1894</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1969-11-21" ddo="1973-01-04">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>František</dtt:Jmeno>
+<dtt:Prijmeni>Jareš</dtt:Prijmeni>
+<dtt:Bydliste dod="1969-11-21" ddo="1973-01-04">
+<dtt:ID_adresy>24443839</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Tyršova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1860</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1969-11-21" ddo="1974-04-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Černý</dtt:Prijmeni>
+<dtt:Bydliste dod="1969-11-21" ddo="1974-04-16">
+<dtt:ID_adresy>24443828</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Švermova</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1865</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1963-05-12" ddo="1969-11-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Stanislav</dtt:Jmeno>
+<dtt:Prijmeni>Horký</dtt:Prijmeni>
+<dtt:Bydliste dod="1963-05-12" ddo="1969-11-21">
+<dtt:ID_adresy>24443822</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Švermova ul.</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1866</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1963-05-12" ddo="1969-11-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>František</dtt:Jmeno>
+<dtt:Prijmeni>Bobek</dtt:Prijmeni>
+<dtt:Bydliste dod="1963-05-12" ddo="1969-11-21">
+<dtt:ID_adresy>24443823</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Bočkova ul.</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1868</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1963-05-12" ddo="1969-11-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Polívka</dtt:Prijmeni>
+<dtt:Bydliste dod="1963-05-12" ddo="1969-11-21">
+<dtt:ID_adresy>24443824</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Lysá nad Labem</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Gottwaldova ul.</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>212</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1963-05-12" ddo="1969-11-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Rudolf</dtt:Jmeno>
+<dtt:Prijmeni>Koláčný</dtt:Prijmeni>
+<dtt:Bydliste dod="1963-05-12" ddo="1969-11-21">
+<dtt:ID_adresy>24443825</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Kamenné Zboží u Nymburka</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>čp.143</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1961-01-02" ddo="1963-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Fiala</dtt:Prijmeni>
+<dtt:Bydliste dod="1961-01-02" ddo="1963-05-12">
+<dtt:ID_adresy>24443818</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Dymokury</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>čp. 175</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1961-01-02" ddo="1963-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>František</dtt:Jmeno>
+<dtt:Prijmeni>Pavlousek</dtt:Prijmeni>
+<dtt:Bydliste dod="1961-01-02" ddo="1963-05-12">
+<dtt:ID_adresy>24443819</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>ul. Dobrovského</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>čp. 1686</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1961-01-02" ddo="1963-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Karel</dtt:Jmeno>
+<dtt:Prijmeni>Svoboda</dtt:Prijmeni>
+<dtt:Bydliste dod="1961-01-02" ddo="1963-05-12">
+<dtt:ID_adresy>24443820</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>tř.maršála Koněva</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>čp. 881</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1961-01-02" ddo="1963-05-12">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Milada</dtt:Jmeno>
+<dtt:Prijmeni>Kubíčková</dtt:Prijmeni>
+<dtt:Bydliste dod="1961-01-02" ddo="1963-05-12">
+<dtt:ID_adresy>24443821</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Mladá Boleslav</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Všejany</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>čp. 3</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1960-01-08" ddo="1969-11-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>Jan</dtt:Jmeno>
+<dtt:Prijmeni>Novák</dtt:Prijmeni>
+<dtt:Bydliste dod="1960-01-08" ddo="1969-11-21">
+<dtt:ID_adresy>24443816</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Beroun III.</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Stalingradská</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>69</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1960-01-08" ddo="1969-11-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jaroslav</dtt:Jmeno>
+<dtt:Prijmeni>Sirůček</dtt:Prijmeni>
+<dtt:Bydliste dod="1960-01-08" ddo="1969-11-21">
+<dtt:ID_adresy>24443817</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>45</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1960-01-08" ddo="1969-11-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jiří</dtt:Jmeno>
+<dtt:Prijmeni>Hrbáček</dtt:Prijmeni>
+<dtt:Bydliste dod="1960-01-08" ddo="1969-11-21">
+<dtt:ID_adresy>24443826</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Struhy</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>čp. 61</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1960-01-08" ddo="1969-11-21">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Místopředseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Jindřich</dtt:Jmeno>
+<dtt:Prijmeni>Pavlovič</dtt:Prijmeni>
+<dtt:Bydliste dod="1960-01-08" ddo="1969-11-21">
+<dtt:ID_adresy>24443827</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Drahelské předm.</dtt:Nazev_ulice>
+<dtt:Cislo_do_adresy>1553</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Clen_SO dod="1960-01-08" ddo="1974-04-16">
+<dtt:Clen>
+<dtt:Kod_angm>1</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>Vladimír</dtt:Jmeno>
+<dtt:Prijmeni>Kolář</dtt:Prijmeni>
+<dtt:Bydliste dod="1960-01-08" ddo="1974-04-16">
+<dtt:ID_adresy>24443815</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Cislo_do_adresy>čp.1533/5</dtt:Cislo_do_adresy>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+</dtt:Clen>
+</dtt:Clen_SO>
+<dtt:Text dod="1996-06-27">
+Představenstvo je oprávněno jednat jménem družstva navenek ve
+
+všech věcech. Jménem představenstva jedná předseda a v době jeho
+
+nepřítomnosti nebo zaneprázdnění místopředseda nebo jiný
+
+pověřený člen představenstva v pořadí stanoveném
+
+představenstvem.
+
+Právní úkony, pro které je předepsána písemná forma, podepisuje
+
+za družstvo předseda (popřípadě místopředseda) a další člen
+
+představenstva.
+</dtt:Text>
+<dtt:Text dod="1976-01-22" ddo="1996-06-27">
+Zastupování a podpisování za družstvo:
+
+Představenstvo je oprávněno jednat jménem družstva navenek ve
+
+všech věcech. Jménem představenstva jedná předseda nebo
+
+místopředseda nebo jiný pověřený člen představenstva.
+
+Právní úkony, pro které je předepsána písemná forma, podepisuje
+
+za družstvo předseda (popřípadě místopředseda) a další člen
+
+představenstva.
+</dtt:Text>
+<dtt:Text dod="1960-01-08" ddo="1976-01-22">
+Zastupovati a podpisovati za družstvo je oprávněn předseda nebo
+
+místopředseda a jeden další člen představenstva a podpisují tím
+
+způsobem, že k názvu družstva připojí své podpisy.
+</dtt:Text>
+</dtt:Statutarni_organ>
+<dtt:Kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+<dtt:Funkce>Předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Titul_pred>Ing.</dtt:Titul_pred>
+<dtt:Jmeno>ZDENĚK</dtt:Jmeno>
+<dtt:Prijmeni>FORMÁNEK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1943-10-23</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-29">
+<dtt:ID_adresy>24443923</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Dvory</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Veleliby</dtt:Nazev_casti_obce>
+<dtt:Cislo_domovni>21</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JOSEF</dtt:Jmeno>
+<dtt:Prijmeni>HUBÁČEK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1970-04-14</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-29">
+<dtt:ID_adresy>24443924</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Chleby</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Průběžná</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>14</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28931</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+<dtt:Funkce>Člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>VĚRA</dtt:Jmeno>
+<dtt:Prijmeni>MÜLLEROVÁ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1956-09-30</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2016-12-29">
+<dtt:ID_adresy>24443925</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_okresu>Nymburk</dtt:Nazev_okresu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Okružní</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2051</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2016-11-08</dtt:Datum_zacatku>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2014-08-09" ddo="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+<dtt:Funkce>předseda</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>ZDENĚK</dtt:Jmeno>
+<dtt:Prijmeni>FORMÁNEK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1943-10-23</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2014-08-09" ddo="2016-12-29">
+<dtt:ID_adresy>24443920</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Dvory</dtt:Nazev_obce>
+<dtt:Nazev_casti_obce>Veleliby</dtt:Nazev_casti_obce>
+<dtt:Cislo_domovni>21</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Clenstvi>
+<dtt:Ve_funkci>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Ve_funkci>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2014-08-09" ddo="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+<dtt:Funkce>člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>VLADIMÍR</dtt:Jmeno>
+<dtt:Prijmeni>POKORNÝ</dtt:Prijmeni>
+<dtt:Datum_narozeni>1945-08-02</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2014-08-09" ddo="2016-12-29">
+<dtt:ID_adresy>24443921</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Nymburk</dtt:Nazev_obce>
+<dtt:Nazev_ulice>U Starého Labe</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>2157</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28802</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+<dtt:Clen_kontrolni_komise dod="2014-08-09" ddo="2016-12-29">
+<dtt:Clen>
+<dtt:Kod_angm>38</dtt:Kod_angm>
+<dtt:Funkce>člen</dtt:Funkce>
+<dtt:Fyzicka_osoba>
+<dtt:Jmeno>JOSEF</dtt:Jmeno>
+<dtt:Prijmeni>HUBÁČEK</dtt:Prijmeni>
+<dtt:Datum_narozeni>1970-04-14</dtt:Datum_narozeni>
+<dtt:Bydliste dod="2014-08-09" ddo="2016-12-29">
+<dtt:ID_adresy>24443922</dtt:ID_adresy>
+<dtt:Kod_statu>203</dtt:Kod_statu>
+<dtt:Nazev_statu>Česká republika</dtt:Nazev_statu>
+<dtt:Nazev_obce>Chleby</dtt:Nazev_obce>
+<dtt:Nazev_ulice>Průběžná</dtt:Nazev_ulice>
+<dtt:Cislo_domovni>14</dtt:Cislo_domovni>
+<dtt:Typ_cislo_domovni>1</dtt:Typ_cislo_domovni>
+<dtt:PSC>28931</dtt:PSC>
+</dtt:Bydliste>
+</dtt:Fyzicka_osoba>
+<dtt:Clenstvi>
+<dtt:Datum_zacatku>2011-11-08</dtt:Datum_zacatku>
+<dtt:Datum_konce>2016-11-08</dtt:Datum_konce>
+</dtt:Clenstvi>
+</dtt:Clen>
+</dtt:Clen_kontrolni_komise>
+</dtt:Kontrolni_komise>
+</dtt:Vypis_OR>
+</are:Odpoved>
+</are:Ares_odpovedi>
